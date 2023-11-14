@@ -1,0 +1,50 @@
+input: .
+output: .retype
+url: https://noir-dexprkr.github.io/noir-room/ # Add your website address here
+branding:
+  title: Noir Room
+  logo: Icon-white.png
+  logoDark: Icon-dark.png
+  label: Dex
+  
+meta:
+  title: " | Noir Room"
+  
+  
+links:
+  - text: Facebook 
+    icon: people
+    link: https://www.facebook.com/dex.noir.room
+    target: blank
+  - text: Discord
+    icon: feed-rocket
+    link: https://discord.gg/hVKeY3uEru
+    target: blank
+    
+search: 
+    mode: full
+    noResultsFoundMsg: No es el termino correcto, o no tengo lo que buscas, pidelo en mi discord.
+    placeholder: Busca aquí
+    preload: true
+    
+editor:
+  enabled: true
+
+
+footer:
+  copyright: "&copy; Este sitio es una recopilacion de tutoriales. No estoy ligado a lo que en ellos se encuentra."
+  links: 
+    - text: Facebook
+      icon: people
+      link: https://www.facebook.com/dex.noir.room
+      target: blank
+    - text: Discord
+      icon: feed-rocket
+      link: https://discord.gg/hVKeY3uEru
+      target: blank
+    - text: Actualizado 07/11/23
+      icon: sync
+      link: https://www.youtube.com/watch?v=Jg5wkZ-dJXA&pp=ygUFa2FueWU%3D
+    - text: Da amor
+      icon: gift
+      link: https://www.buymeacoffee.com/noiroom
