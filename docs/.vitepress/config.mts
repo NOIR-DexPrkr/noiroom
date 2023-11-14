@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Noiroom",
+  title: "Noir Room",
   description: "La habitación oscura de Dex Parker.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

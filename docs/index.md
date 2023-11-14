@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Noiroom"
+  name: "Noir Room"
   text: "La habitación oscura de Dex Parker."
   tagline: My great project tagline
   actions:
