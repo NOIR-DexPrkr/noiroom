@@ -101,11 +101,14 @@ export default defineConfig({
     }
 ],
     },
+      
+    footer: {
+      message: 'Creado con 🤍 por Derk Parker.',
+      copyright: 'Todos los tutoriales aqui presentados son recopilaciones y no estoy relacionado con su origen.'},
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/hVKeY3uEru' }
     ]
   }
 })
-
 

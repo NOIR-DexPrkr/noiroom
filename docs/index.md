@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Noir Room"
-  text: "La Habitación Oscura de Dex Parker."
+  text: "La Habitación Oscura."
   tagline: Tutoriales, programas, apps, y mas.
   actions:
     - theme: brand
