@@ -31,18 +31,41 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
-- [⭐  PowerDirector](https://sanet.st/blogs/samura1-/cyberlink_powerdirector_ultimate_v.4611148.html)
 
-- [⭐  Filmora 12](https://sanet.st/blogs/hotsoftwarev2/wondershare_filmora_x_multilingual.4574727.html)
+<a href="https://sanet.st/blogs/samura1-/cyberlink_powerdirector_ultimate_v.4611148.html">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
 
-- [🔷  Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
-- [🔷  Camtasia 2023](https://sanet.st/blogs/mordigian/techsmith_camtasia_x_multilingual.4610552.html)
+<a href="https://sanet.st/blogs/hotsoftwarev2/wondershare_filmora_x_multilingual.4574727.html">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+<a href="https://www.blackmagicdesign.com/products/davinciresolve">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Davinci Resolve</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+<a href="https://sanet.st/blogs/mordigian/techsmith_camtasia_x_multilingual.4610552.html">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
 
 ---
 
-#### Versiones android
-- [Descarga Aqui](/Moviles/m-diseño.md)     
+## Versiones android
+
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](/Moviles/m-diseño.md)     
 
 
 ---
