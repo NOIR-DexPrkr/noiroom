@@ -21,8 +21,10 @@ export default defineConfig({
       { text: 'Actualizado 16/11/2023', link: '/', activeMatch: '/d'}
       
     ],
+      
+    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     
-    logo:'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico',
+    logo:'https://i.postimg.cc/gjdy9gby/Icon-white.png',
 
     outline: {
       level: [1,4],
