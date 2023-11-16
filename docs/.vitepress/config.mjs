@@ -22,7 +22,7 @@ export default defineConfig({
       
     ],
     
-    logo:'https://i.postimg.cc/gjdy9gby/Icon-white.png',
+    logo:'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico',
 
     outline: {
       level: [1,4],
