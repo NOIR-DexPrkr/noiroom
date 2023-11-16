@@ -4,6 +4,17 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Noir Room",
   description: "La Habitación Oscura de Dex Parker.",
+    
+  lastUpdated:true,
+  cleanUrls: true,
+
+  sitemap: {
+    hostname: 'https://noir-dexprkr.github.io/noiroom/',
+    transformItems(items) {
+      return items.filter((item) => !item.url.includes('migration'))
+    }
+  },
+    
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -18,7 +29,7 @@ export default defineConfig({
     outline: {
       level: [1,4],
       label: 'Contenido de pagina'},
-    
+        
     search: {
       provider: 'local'
     },
