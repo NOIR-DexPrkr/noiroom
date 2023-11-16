@@ -14,9 +14,6 @@ export default defineConfig({
     
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    head: [['link', { rel: 'icon', href: '/docs/favicon.ico' }]],
- // put favicon.ico in public directory, if base is set, use /base/favicon.ico
-
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
@@ -24,7 +21,7 @@ export default defineConfig({
       
     ],
     
-    logo:{ src: '/favicon.ico', width: 25, height: 25 },
+    logo:{ src: '/docs/favicon.ico', width: 25, height: 25 },
 
     outline: {
       level: [1,4],
