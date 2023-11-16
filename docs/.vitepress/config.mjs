@@ -21,7 +21,7 @@ export default defineConfig({
       
     ],
     
-    logo:{ src: '/docs/favicon.ico', width: 25, height: 25 },
+    logo:'/docs/favicon.ico',
 
     outline: {
       level: [1,4],
