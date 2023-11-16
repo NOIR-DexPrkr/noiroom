@@ -17,7 +17,8 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
-      { text: 'Index', link: '/noindex', activeMatch: '/noindex'}
+      { text: 'Index NR', link: '/noirdex', activeMatch: '/noirdex'},
+      { text: 'Actualizado 16/11/2023', link: '/', activeMatch: '/d'}
       
     ],
     
@@ -89,6 +90,16 @@ export default defineConfig({
       }
  ],
 
+    // This sidebar gets displayed when a user
+      // is on `Paginas` directory.
+      '/noirdex': [
+        {
+          text: '💌 Index',
+          items: [
+            { text: 'Encuentra todo aqui', link: '/noirdex' }
+         ]
+      }
+ ],
         // IA 
       '/I-Artificial/': [
         {
