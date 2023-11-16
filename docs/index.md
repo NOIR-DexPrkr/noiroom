@@ -15,7 +15,7 @@ hero:
       link: /Escritorio/e-diseño
     - theme: alt
       text: Moviles
-      link: /Paginas
+      link: /Moviles/m-esenciales
     - theme: alt
       text: Paginas
       link: /Paginas/pages
@@ -35,6 +35,6 @@ features:
     link: /Tutoriales/minecraft
   - title: ✒ Adobe Creative Cloud
     details: Descarga los programas de Adobe gratis. (Photoshop, Illustrator, etc)
-    link: /adobeprograms
+    link: /Tutoriales/adobeprograms
 ---
 

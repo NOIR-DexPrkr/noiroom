@@ -5,20 +5,17 @@ export default defineConfig({
   title: "Noir Room",
   description: "La Habitación Oscura de Dex Parker.",
     
-  lastUpdated:true,
+  lastUpdated:false,
   cleanUrls: true,
 
   sitemap: {
-    hostname: 'https://noir-dexprkr.github.io/noiroom/',
-    transformItems(items) {
-      return items.filter((item) => !item.url.includes('migration'))
-    }
-  },
+    hostname: 'https://noiroom.netlify.app/',
+    },
     
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]]
-}, // put favicon.ico in public directory, if base is set, use /base/favicon.ico
+    head: [['link', { rel: 'icon', href: '/docs/favicon.ico' }]],
+ // put favicon.ico in public directory, if base is set, use /base/favicon.ico
 
     nav: [
       { text: 'Inicio', link: '/' },
@@ -76,10 +73,10 @@ export default defineConfig({
         {
           text: '📱 Moviles',
           items: [
-            { text: '🕸 Esenciales Moviles', link: '/Moviles/e-esenciales' },
+            { text: '🕸 Esenciales Moviles', link: '/Moviles/m-esenciales'},
             { text: '🕸 Para Diseñar', link: '/Moviles/m-diseño' },
-            { text: '🕸 Para Ver', link: '/Moviles/m-peliculas-series' },
-            { text: '🕸 Para Escuchar musica', link: '/Moviles/e-musica' }
+            { text: '🕸 Para Ver', link: '/Moviles/m-peliculas-series'},
+            { text: '🕸 Para Escuchar musica', link: '/Moviles/m-musica'}
         ]
     }
 ],
