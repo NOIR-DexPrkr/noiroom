@@ -6,10 +6,22 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ### Editores de imagenes
 
-- [⭐  PhotoGIMP](https://drive.google.com/file/d/1I1hk13D08wFQv6kIeiRb0vJCLgMzkmHd/view?usp=sharing)      
+<a href="https://drive.google.com/file/d/1I1hk13D08wFQv6kIeiRb0vJCLgMzkmHd/view?usp=sharing">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PhotoGIMP</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>    
+
 *Esta es la version modificada de GIMP para que luzca como la interfaz Photoshop. La version esta modificada por Dexco Prkr usando el repositorio de [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP). Esta es una version portable, de modo que no necesitas instalar. Solo descomprimes y ya está.*     
 
-- [⭐  Photoshop](https://noiroom.dexco.workers.dev/tutoriales/adobecc/#programas-parchados-para-doomies)     
+<a href="/Tutoriales/adobeprograms">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Photoshop</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+    
 *Te lleva al tutorial que te permitira descargar cualquier version de photoshop que desees.*
 
 ---
