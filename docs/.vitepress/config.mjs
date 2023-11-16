@@ -22,9 +22,9 @@ export default defineConfig({
       
     ],
       
-    head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+    head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
     
-    logo:'https://i.postimg.cc/gjdy9gby/Icon-white.png',
+    logo: {src: 'https://i.postimg.cc/gjdy9gby/Icon-white.png', width: 25, height: 25 },
 
     outline: {
       level: [1,4],
