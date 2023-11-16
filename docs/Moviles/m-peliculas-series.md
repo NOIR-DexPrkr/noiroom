@@ -1,10 +1,3 @@
----
-label: Peliculas y Series
-icon: video
-layout: default
-order: 1786
----
-
 ![](https://i.postimg.cc/tg35sScS/Paginas-streaming.png)
 
 # Aplicaciones para Streaming

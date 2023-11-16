@@ -1,8 +1,3 @@
----
-label: Windows/Office365
-icon: file-binary
-layout: default
----
 ![](https://i.postimg.cc/Kv1DPvVg/Windows-Office.png)
 # Windows & Office O365
 Descarga y activa cualquiera de estos dos de manera rapida y sencilla.

@@ -1,9 +1,3 @@
----
-label: Neo Store
-icon: webhook
-layout: default
----
-
 ![](https://i.postimg.cc/JzBKL45W/Neo-Store.png)
 # NeoStore - F droid y mas
 Instala cualquier aplicacion de codigo abierto y con funciones utiles para tu celular con esta increible tienda.

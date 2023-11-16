@@ -1,8 +1,3 @@
----
-label: Stremio
-icon: video
-layout: default
----
 ![](https://i.postimg.cc/C5YpxWFG/Index-page.png)
 # Stremio
 El mejor sitio y aplicación para ver peliculas, series y mas.

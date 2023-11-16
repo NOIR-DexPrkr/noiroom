@@ -1,9 +1,3 @@
----
-label: AdguardDNS
-icon: shield-check
-layout: default
----
-
 ![](https://i.postimg.cc/vBwNjxJj/Adguard.png)
 # Adguard DNS + Antivirus
 Bloquea Adware, Malware y mas con AdguardDNS.
@@ -16,7 +10,7 @@ Este tutorial es para bloquear los anuncios de tu dispositivo sin ningun program
 
 ### Pasos:
 
-+++ 📱 Android
+::: details **📱 Android**
 
 1. Vamos a los ajustes de red (Wifi & Internet) de nuestro telefono y buscamos la opcion llamada DNS privado.
 > *Esto solo funciona para android 9 en adelante, si tu dispositivo es anterior a ese:*
@@ -34,7 +28,9 @@ family.adguard-dns.com
 3. Guardamos y listo, ya no tendras anuncios.
 > *Algunas veces es necesario desactivarlo para apps que funcionan sin datos o para acceder a wifis publicos con claves. Luego de que tengas internet, lo vuelves a activar.*
 
-+++ 📴 iOS
+:::
+
+::: details **📴 iOS**
 
 1. Abre la applicacion de ajustes de tu dispositivo iOS
 
@@ -47,8 +43,9 @@ family.adguard-dns.com
 4. Selecciona uno de los siguientes perfiles y aplica la configuracion dando en instalar.
 
 5. Eso es todo, ya no tienes anuncios.
+:::
 
-+++ 🖥 Windows
+::: details **🖥 Windows**
 
 1. Ve al menú Inicio → Panel de control.
 
@@ -75,12 +72,13 @@ family.adguard-dns.com
 ```
 94.140.15.16
 ``` 
+:::
 
-+++ 😉 Otros 
+::: details **😉 Otros**
 
 Para mas dispositivos e informacion mas clara ve a [este link](https://adguard-dns.io/es/public-dns.html) y ve a la seccion de configuracion manual.
 
-+++
+:::
 
 ---
 
@@ -93,41 +91,40 @@ Controla todo el tráfico web en tus dispositivos, bloquea anuncios, rastreadore
 1. Nos vamos al siguiente [link](https://adguard-dns.io/es/dashboard/auth)
 
 2. Nos registramos y una vez adentro del panel de control seleccionamos "Conectar dispositivo".    
-==- Ver imagen de ejemplo     
+::: details Ver imagen de ejemplo     
 ![](https://i.postimg.cc/g0fQ82KS/2023-07-16-17-32-57.png)
 
-===
+:::
 
 3. Seleccionamos el tipo de dispositivo, le ponemos un nombre y continuamos.      
 
 4. Escogemos la opcion manual y seguimos los pasos de configuracion, los cuales la pagina te dara paso a paso con imagenes.     
-==- Ver imagen de ejemplo     
+::: details Ver imagen de ejemplo     
 ![](https://i.postimg.cc/RZZkz8FR/2023-07-16-17-38-53.png)
 
-===
+:::
 
 5. Si hiciste todos los pasos correctamete y le diste a "He conectado el dispositivo", entonces podemos continuar con la configuracion.
 
 6. Seleccionamos la opcion "listas de bloqueo" desde el panel inicial.     
-==- Ver imagen de ejemplo
+::: details Ver imagen de ejemplo
 ![](https://i.postimg.cc/nhS6Vk9t/2023-07-16-17-43-43.png)
 
-===
+:::
 
 7. Lo que sigue aqui es que selecciones las listas que desees, sobre todo las de la seccion seguridad.
-
-==- Ver imagen de ejemplo
+::: details Ver imagen de ejemplo
 ![](https://i.postimg.cc/KYKC1Mt3/2023-07-16-17-45-09.png)
 
-===
+:::
 
 8. Una vez termines todo la lista debe verse como la del ejemplo a continuacion.
 > Ojo, algunos de los filtros bloquean paginas de programas crackeados y apps modificadas(incluso las que comparto aqui en la pagina). Selecciona bien los filtros, la imagen de abajo solo es un ejemplo, no debes seleccionar todos los mostrados ahi.
 
-==- Ver ejemplo de resultados      
+::: details Ver ejemplo de resultados      
 ![](https://i.postimg.cc/j5P9XYgs/2023-07-16-17-47-00.png)
 
-=== 
+:::
 
 Eso seria todo, ahora tus dispositivos estan seguros contra todo tipo de anuncios, malware, spyware, pishing, etc.
 
@@ -135,4 +132,4 @@ Eso seria todo, ahora tus dispositivos estan seguros contra todo tipo de anuncio
 
 
 > **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+> *Hazlo desde* [🚀 Discord"](https://discord.gg/hVKeY3uEru) 

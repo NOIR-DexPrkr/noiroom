@@ -49,10 +49,11 @@
   --vp-c-default-3: var(--vp-c-gray-3);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: var(--vp-c-indigo-1);
-  --vp-c-brand-2: var(--vp-c-indigo-2);
-  --vp-c-brand-3: var(--vp-c-indigo-3);
-  --vp-c-brand-soft: var(--vp-c-indigo-soft);
+  /* Colors: Brand */
+  --vp-c-brand-1: #0091ff;
+  --vp-c-brand-2: #8da2b5;
+  --vp-c-brand-3: #4e6e8a;
+  --vp-c-brand-soft: #1e4669;
 
   --vp-c-tip-1: var(--vp-c-brand-1);
   --vp-c-tip-2: var(--vp-c-brand-2);
@@ -69,6 +70,7 @@
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
+
 
 /**
  * Component: Button
@@ -93,15 +95,15 @@
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #bd34fe 30%,
-    #41d1ff
+    90deg,
+    #1f283d 10%,
+    #ededed
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #bd34fe 50%,
-    #47caff 50%
+    #1f283d 50%,
+    #ededed 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }

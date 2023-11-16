@@ -1,18 +1,12 @@
----
-label: Adobe - Programas
-icon: cloud
-layout: default
----
-
 ![](https://i.postimg.cc/hj85qPgG/Adobe-programas.png)
 # Programas Adobe - Individuales
 Descarga casi todos los programas de adobe de manera individual y completos.
 
 ---
 
-==- **Que programas puedes descargar?**
+::: details **Que programas incluye?**
 
-##### Los programas mas usados son:
+**Los programas mas usados son**
 
 1. **Adobe Photoshop:**
 Es uno de los programas más empleados para la edición de imágenes, pues cuenta con un amplio repertorio de herramientas que permiten una edición profesional.
@@ -49,60 +43,22 @@ Es el programa líder para edición de audio. En su mayoría se utiliza para pro
 9. **Adobe Animate:**
 Es un programa de animación de vectores, el cual permite dar movimiento a distintos gráficos vectoriales por medio de un lenguaje de programación. Este programa es ideal para darle vida o movimiento a las ilustraciones 2D que se pueden crear en Illustrator o Photoshop. 
 
-===
+:::
 
 ---
-
-## Aviso
+::: warning **Aviso**
 
 Estos programas acontinuación vienen parchados, preactivados y listos para usar.
-Si no confias en este tipo de repacks, puedes usar el metodo que baja los programas desde Adobe CC y luego los parchas tu mismo.
-[CLICK AQUI](/tutoriales/adobeCC.md)      
+Si no confias en este tipo de repacks, puedes usar el metodo que baja los programas desde Adobe CC y luego los parchas tu mismo
+[Clickea aqui.](/Tutoriales/adobeCC.md)      
 Si confias, continua...
-
-## Photoshop AI - Filtros.
-
-Quizas vienes por photoshop 2023 con los filtros de IA (Firefly)... abre la ventana de abajo.    
-Si no, continua....
-
-==- Photoshop + Filtros IA (Actualmente no esta funcionando bien)
-
-[!badge corners="pill" target="blank" text="FireFly - Photoshop CC 2023"](https://pesktop.com/en/windows/adobe-firefly-for-adobe-photoshop)     
-*Necesitas descargar primero Photoshop 24.6 en la seccion de abajo. Y esto podria en teoria generar problemas con el parche que ya trae la app.*    
-
-##### **Pasos a seguir**
-
-- Descomprime el archivo. Contraseña: 123
-- Abre Photoshop y ve a `Ayuda > Iniciar sesion` o `Help > Login`
-- Inicia sesion en una cuenta cualquiera de adobe.
-- Dale click derecho al archivo `fireflyAI.exe` y ejecutalo como administrador. (si no quieres, no, pero es recomendado.)
-- Espera que termine de parchar los filtros y listo.       
-
-Quizas sea necesario bloquear algunas URL en tu archivo host: Si no sabes como [Click Aquí](https://www.ionos.es/digitalguide/servidores/configuracion/archivo-hosts/#:~:text=los%20sistemas%20débiles.-,Así%20editas%20el%20archivo%20hosts,XP%2C%207%2C%208%20y%2010&text=Selecciona%20la%20opción%20“Ejecutar%20como,podrás%20modificar%20el%20archivo%20hosts.)
-
-```
-0.0.0.0 guzg78logz.adobe.io 
-127.0.0.1 guzg78 logz adobe.io 
-127.0.0.1 ic.adobe.io
-127.0.0.1 b5kbg2ggog.adobe.io 
-127.0.0.1 guzg78logz.adobe.io 
-guzg78logz.adobe.io
-b5kbg2ggog.adobe.io
-127.0.0.1 23ynjitwt5.adobe.io
-
-``` 
-
-!!!danger
-Ojo este photoshop requiere de una computadora muy potente, si tienes un computador de bajos recursos o medianos, usa las versiones antiguas. Recomendadas la 2021.
-!!!
-
-===
+:::
 
 ## Descarga los programas
 
 Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows (excepto si quieres usar FireflyAI). [Mira como se hace aqui](https://www.xataka.com/basics/como-bloquear-el-acceso-a-internet-a-una-aplicacion-con-el-firewall-de-windows#:~:text=Bloquear%20el%20acceso%20a%20Internet%20de%20una%20aplicación%20que%20ya,acceso%20a%20Internet%20por%20completo.)
 
-==- 🟦 Photoshop     
+::: details 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
       
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fdfbjnli6gkfgo2g%2FWIN_APS_V24.6.0.573.rar%2Ffile%3ALkujnKzNBELkkXfmCZxkLXtxYmA&cuid=4208103)        
@@ -111,8 +67,9 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)             
 [!badge target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fos10tbcyzp1khd3%2FWIN_APS_2K19_V20_AP_ZNT.rar%2Ffile%3ACIztKcBJmhs6bA_bgUfqev_zNs0&cuid=4208103)               
 [!badge target="blank" corners="pill" text="CC 2018"](http://disq.us/url?url=http%3A%2F%2Fbit.ly%2F2DsSPcR%3A__bJC5iOIXVUl3VXXU9WwDrCUUI&cuid=4208103)
+:::
 
-==- 🟧 Illustrator
+::: details 🟧 Illustrator
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)        
@@ -123,8 +80,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 [!badge variant="warning" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fg7sgg5fmjamqjrl%2FAI24.3.0.WIN.AP.ZNT.rar%2Ffile%3AkmpvK5tWrbBH7fSVniMMpT5ojSU&cuid=4208103)      
 [!badge variant="warning" target="blank" corners="pill" text="CC 2019"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F2dl03gyj62tknn8%2FWIN_AI_2K19_V23.1_AP_ZNT.rar%2Ffile%3A38QUK9JDZ7dXDpZ-zsqGTYYhnlE&cuid=4208103)       
-
-==- 🟪 Premiere Pro
+:::
+::: details 🟪 Premiere Pro
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fvxho87az9vftx32%2FWIN_APR_V23.5.0.56_AP_ZNT.rar%2Ffile%3Aptw6JuFzPinQZqxuyBcDLTNuP3c&cuid=4208103)       
@@ -134,8 +91,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F4y56b8a4q331s91%2FWIN_APR_V15.4.1.6_AP_ZNT.rar%2Ffile%3ARwGHXBK7xF466gkE4xJsr45_0dg&cuid=4208103)      
 
 [!badge target="blank" corners="pill" text="CC 2020"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fhcjo00k3pqyx2xv%2FWIN_APP_V14.9.0.52_AP_ZNT.rar%2Ffile%3A7Ka5YX9QP6TOfgeywkQR7Ht9S5M&cuid=4208103)
-
-==- ⬛ After Effects
+:::
+::: details ⬛ After Effects
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="contrast" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fohfv2ixhcjsdmsc%2FWIN_AAE_V23.5.0.52_AP_ZNT.rar%2Ffile%3AfUbiPHY2UqCRNTbUai3I8kHIgQ4&cuid=4208103)       
@@ -147,8 +104,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge variant="contrast" target="blank" corners="pill" text="CC 2020"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fj3yd5l42is8ukcb%2FWIN_AAE_V17.7.0.45_AP_ZNT.rar%2Ffile%3AUSrJHPkPPM-woxclwtXS-8azI2I&cuid=4208103)       
 
 [!badge variant="contrast" target="blank" corners="pill" text="CC 2019"](https://disq.us/url?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1NaWnqz9AEVsEyXQDkMc8hV6w1DECwkT6%2Fview%3ASCaCYssF9mfMiF3LV5v4PcWqUCA&cuid=4208103)
-
-==- 🟥 InDesign
+:::
+::: details 🟥 InDesign
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fafnyqvp3sop09b0%2FWIN_AID_V18.5.0.57_AP_ZNT.rar%2Ffile%3AhUpdmYFPPWTjVIKN5xktG_Ys0ME&cuid=4208103)        
@@ -158,13 +115,13 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 [!badge variant="danger" target="blank" corners="pill" text="CC 2021"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fxqefkei2bqwm5j4%2FWIN_AID_V16.4.0.55_AP_ZNT.rar%2Ffile%3AZkmXOrtvvJgxoLXAWOOUFluuqNI&cuid=4208103)         
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fxi8ye7vb5oqafuv%2FID2K20.15.1.2.WIN.AP.ZNT.rar%2Ffile%3A2Ntdg9wjCyHi-5pVLzzYG5Vj5aY&cuid=4208103)
-
-==- 🟥 Acrobar Reader
+:::
+::: details 🟥 Acrobar Reader
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 [!badge variant="danger" target="blank" corners="pill" text="CC 2023"](https://appnee.com/adobe-acrobat-pro-dc-portable-full-versions-aio/#more-4227)
-
-==- 🟪 Audition
+:::
+::: details 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
 
 [!badge target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fz3kb0pbnpynkfjy%2FWIN_AAU_V23.5.0.48_AP_ZNT.rar%2Ffile%3AvSJqu-lQsv6IWA0MT8lHFJ0NjUk&cuid=4208103)       
@@ -175,21 +132,21 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 [!badge target="blank" corners="pill" text="CC 2020"](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F68jkuwwkilj77a9%2FWIN_AAU_2K21_V13_AP_ZNT.rar%2Ffile%3ADpwvlA5vRIui2NG4mXjNeOyMCAQ&cuid=4208103)       
 [!badge target="blank" corners="pill" text="CC 2019"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Foxy5tc86uw6cksh%2FAUD.CC.2K19.12.1.3.10.WIN.AP.ZENTINELS.rar%2Ffile%3AkX8H7R7gHTLITVce_Ft6_pDXa9Y&cuid=4208103)
-
-==- 🟦 Animate
+:::
+::: details 🟦 Animate
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
 [!badge variant="warning" target="blank" corners="pill" text="CC 2023"](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fl8b5rykunq7daub%2FWIN_AAN_V23.0.2.103_AP_ZNT.rar%2Ffile%3A89PqTt1cpo7nnUyoS_HNLUnIm74&cuid=4208103)
-
-==- 👀 Otro? 
+:::
+::: details 👀 Otro? 
 
 Para encontrar otros programas de Adobe puedes entrar a esta pagina: [PAGINA PARA BAJAR OTROS PROGRAMAS](https://www.artistapirata.com/?s=adobe)
 
-===
+:::
 
 ---
 
 > **¿Tienes una petición o duda durante el tutorial? ¿Se cayo un link...?**       
-> *Notificalo en* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+> *Notificalo en* [🚀 Discord](https://discord.gg/hVKeY3uEru) 
 
 ---

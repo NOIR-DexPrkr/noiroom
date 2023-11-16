@@ -1,9 +1,3 @@
----
-label: Minecraft Completo
-icon: stack
-title: Minecraft +
-layout: default
----
 ![](https://i.postimg.cc/7hsXx5Rq/Minecraft.png)
 # Minecraft Premium - Everywhere
 Descarga Minecraft completamente gratis y con todas sus funciones para cada cualquier plataforma.

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,Q as o}from"./chunks/framework.6d94f49f.js";const h=JSON.parse('{"title":"Noir Index - Links","description":"","frontmatter":{},"headers":[],"relativePath":"noindex.md","filePath":"noindex.md"}'),t={name:"noindex.md"},n=o("",9),s=[n];function i(l,c,u,p,d,g){return a(),r("div",null,s)}const b=e(t,[["render",i]]);export{h as __pageData,b as default};

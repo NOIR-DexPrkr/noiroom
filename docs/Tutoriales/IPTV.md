@@ -1,8 +1,3 @@
----
-label: IPTV
-icon: broadcast
-layout: default
----
 ![](https://i.postimg.cc/yNcfFYDT/IPTV.png)
 # IPTV - Television Online
 Mira TV desde cualquier dispositivo con esta gran herramienta online.

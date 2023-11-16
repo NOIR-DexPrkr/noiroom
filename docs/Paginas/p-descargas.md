@@ -1,12 +1,3 @@
----
-label: Descargas
-icon: move-to-bottom
-layout: default
-order: 1580
----
-
-
-
 ![](https://i.postimg.cc/SKFdNFgY/Paginas-descarga.png)
 # Paginas para Descargas
 Descarga musica, videos y mas.

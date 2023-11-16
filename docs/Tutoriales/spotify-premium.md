@@ -1,8 +1,3 @@
----
-label: Spotify Premium
-icon: meter
-layout: default
----
 ![](https://i.postimg.cc/MHTbrWpN/Spotify.png)
 # Spotify Premium - PC/Móvil
 Descarga y obten las funciones premium de Spotify en cualquier dispositivo en la lista.

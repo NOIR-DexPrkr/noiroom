@@ -1,18 +1,12 @@
----
-label: Adobe CC
-icon: cloud
-layout: default
----
-
 ![](https://i.postimg.cc/cCXkr9vy/Creative-cloud.png)
-# Creative Cloud - Programas
-Descarga los programas de Adobe directamente desde su programa oficial.
+# Adobe CC - Todos los programas
+Descarga los programas de Adobe directamente desde su aplicacion oficial.
 
 ---
 
-==- **Que programas incluye?**
+::: details **Que programas incluye?**
 
-##### Los programas mas usados son:
+**Los programas mas usados son**
 
 1. **Adobe Photoshop:**
 Es uno de los programas más empleados para la edición de imágenes, pues cuenta con un amplio repertorio de herramientas que permiten una edición profesional.
@@ -49,7 +43,7 @@ Es el programa líder para edición de audio. En su mayoría se utiliza para pro
 9. **Adobe Animate:**
 Es un programa de animación de vectores, el cual permite dar movimiento a distintos gráficos vectoriales por medio de un lenguaje de programación. Este programa es ideal para darle vida o movimiento a las ilustraciones 2D que se pueden crear en Illustrator o Photoshop. 
 
-===
+:::
  
 ---
 
@@ -59,33 +53,33 @@ Si solo quieres descargar e instalar el programa sin mucho lio, recomiendo la op
 
 Las opciones Experto e intermedio estan pensados para las personas que no confian en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalacion esta en las intrucciones. Por lo ranto, evita preguntar cosas que ya estan aqui, sigue al pie de la letra cada consejo. Revisa los archivos necesarios unas lineas mas abajo.
 
-- [!badge variant="danger" text="**Nivel Experto:** Usando Creative Cloud."](#creative-cloud---instalador-de-adobe)
-- [!badge variant="warning" text="**Nivel Intermedio:** Usando el Instalador Offline de cada programa."](#sin-creative-cloud---programas-descargables)
-- [!badge variant="success" text="**Nivel Facil:** Usando instaladores ya parchados y listos para ejecutar."](/tutoriales/adobeprograms.md)
-- *Tu mejor opcion si solo quieres instalar y usarlos. Puedes bajar versiones desde 2018 a la mas reciente.*
+> 🅰 **Nivel Experto:** [Usando Creative Cloud.](#creative-cloud-instalador-de-adobe)      
+> 🅱 **Nivel Intermedio:** [Usando el Instalador Offline de cada programa.](#sin-creative-cloud-programas-descargables)      
+> 🆘 **Nivel Facil:** [Usando instaladores ya parchados y listos para ejecutar.](/Tutoriales/adobeprograms.md)     
+> *Tu mejor opcion si solo quieres instalar y usarlos. Puedes bajar versiones desde 2018 a la mas reciente.*     
 
 ---
 
-=== **Archivos necesarios para las opciones Experto e Intermedio:**
-+++ **GenP v3.0** 
+### **Archivos necesarios para las opciones Experto e Intermedio:**
+::: details **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
-[!button variant="success" target="blank" corners="pill" text="Descargar"](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
-+++ **CC Stopper**
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.mediafire.com/file/ipp9gj15xzty1uw/GenP_3.0_Release.zip/file) 
+:::
+
+::: details **CC Stopper**
   Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.
   
-[!button variant="success" target="blank" corners="pill" text="Descargar"](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://github.com/eaaasun/CCStopper/releases/download/v1.2.2/CCStopper.zip) 
 
-+++
-
-===
+:::
 
 ---
 
 ## Creative cloud - Instalador de Adobe.
-!!!warning
+::: warning NOTA:
 *Esta opcion te permite descarga la ultima version disponible a traves de los sitios oficiales de Adobe usando su instalador "creative cloud".*
-!!!
+::: 
 
 Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sabes bien lo que haces y quieres. Con este optienes la ultima version disponible de los programas.
 
@@ -93,14 +87,14 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 
 1. Descargamos el Creative Cloud.
 
-[!badge variant="success" target="blank" corners="pill" text="Descargar"](https://creativecloud.adobe.com/apps/download/creative-cloud) 
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://creativecloud.adobe.com/apps/download/creative-cloud) 
 
 ### Configuracion antes de descargar los programas
 
 1. Instalar el CC y **cuando aparezca la opción de instalar Adobe Genuine Service den NO, o quiten la opción**. También desactiven la ejecución al inicio de windows y las actualizaciones automáticas.
 
 
-==- Guia para desactivar las actualizaciones automaticas 
+::: details **Guia para desactivar las actualizaciones automaticas** 
 > - **Desactivar ejecución de inicio de windows:**
 > 
 > Configuración>Aplicaciones>Inicio , Buscar y desactivar Adobe Creative Cloud.
@@ -128,7 +122,7 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 
 > Ve a el administrador de tareas y en la seccion de inicio desactiva todo lo de Adobe CC.
 
-===
+:::
 
 ---
 
@@ -141,7 +135,7 @@ Con esta opcion descargas desde el instalador oficial de Adobe. Usalo solo si sa
 > Al iniciar el programa se recomienda que entren con una cuenta que no tenga vencida la prueba gratuita.      
 > *Si por alguna razón usaste una cuenta que ya tenia período de prueba vencido puedes probar este paso, si no, obviar y seguir con el tutorial.*
 
-==- **Si no te aparece para probar/descargar**
+::: details **Si no te aparece para probar/descargar**
 
 Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install buttons [beta]” copiar los dos .dll que ahí se encuentran, se pega y se reemplazan en la ruta: 
 
@@ -149,7 +143,7 @@ Descompriman GenP 3.0 y dentro de la carpeta “Utilities> restore install butto
 > o tambien
 > C:\Archivos de programa (x86)\Common Files\Adobe\Adobe Desktop Common\AppsPanel
 
-===
+:::
 
 2. Una vez descargados los programas deseados, debemos bloquear el CC.
 
@@ -172,41 +166,43 @@ En ese orden. Luego presionamos la letra Q para salir.
 
 ## Sin Creative cloud - Programas descargables.
 
-!!!warning
+::: warning NOTA:
 *Estos al ser programas mas antiguos corren mas rapido que las versiones mas recientes, es recomendado si tienes una pc antigua.*
-!!!
+:::
 
 Con esta opcion puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza. Desconectate del internet cuando vayas a instalarlos.
 
 ### **Descarga**
 
-+++ CC 2018 
+::: details **CC 2018**
 Versiones individuales sin parchar y originales de las CC 2018.
 
-[!button variant="success" target="blank" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
-
-+++ CC 2019
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://prodesigntools.com/adobe-cc-2018-direct-download-links.html)
+:::
+::: details **CC 2019**
 Versiones individuales sin parchar y originales de las CC 2019.
 
-[!button variant="success" target="blank" corners="pill" text="Descargar"](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
-+++
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://prodesigntools.com/adobe-cc-2019-direct-download-links.html) 
+:::
+
+#### Versiones Antiguas
 
 > Si solo deseas Photoshop CC:
 > Descarga su version sin parchar y original desde las CC 2016 hasta 2023. Recuerda desconectarte de internet al instalar estás versiones. *Las versiones 2016 a 2018 no pueden ser parchadas con GenP*.
 
-=== Versiones
-[!badge variant="success" target="blank" corners="pill" text="2016 32/64bits"](https://windowstan.com/download/photoshop-cs6/)
-[!badge variant="success" target="blank" corners="pill" text="2017 32bits"](https://windowstan.com/download/photoshop-cc-2017-x86/)
-[!badge variant="success" target="blank" corners="pill" text="2017 64bits"](https://windowstan.com/download/photoshop-cc-2017-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2018 32bits"](https://windowstan.com/download/photoshop-cc-2018-x86/)
-[!badge variant="success" target="blank" corners="pill" text="2018 64bits"](https://windowstan.com/download/photoshop-cc-2018-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2019 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2019-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2020 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2020-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2021 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2021-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2022 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2022-x64/)
-[!badge variant="success" target="blank" corners="pill" text="2023 Solo 64bits"](https://windowstan.com/download/photoshop-cc-2023-x64/)
+::: details **Versiones**
+- [2016 32/64bits](https://windowstan.com/download/photoshop-cs6/)     
+- [2017 32bits](https://windowstan.com/download/photoshop-cc-2017-x86/)     
+- [2017 64bits](https://windowstan.com/download/photoshop-cc-2017-x64/)     
+- [2018 32bits](https://windowstan.com/download/photoshop-cc-2018-x86/)     
+- [2018 64bits](https://windowstan.com/download/photoshop-cc-2018-x64/)     
+- [2019 Solo 64bits](https://windowstan.com/download/photoshop-cc-2019-x64/)     
+- [2020 Solo 64bits](https://windowstan.com/download/photoshop-cc-2020-x64/)     
+- [2021 Solo 64bits](https://windowstan.com/download/photoshop-cc-2021-x64/)     
+- [2022 Solo 64bits](https://windowstan.com/download/photoshop-cc-2022-x64/)     
+- [2023 Solo 64bits](https://windowstan.com/download/photoshop-cc-2023-x64/)    
 
-===
+:::
 
 
 ### **Instalación**
@@ -226,7 +222,7 @@ En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, sel
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
-![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
+![](https://i.postimg.cc/BQWs2Shx/Imagen1.png) - ![](https://i.postimg.cc/T25fyLcd/Imagen2.png) 
 
 2. Por último y muy importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata, bloqueamos el .exe de cada programa instalado por medio de firewall.
 
@@ -260,4 +256,4 @@ Si deseas usar estos filtros puedes iniciar sesion desde la seccion de `ayuda > 
 ---
 
 > **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+> *Hazlo desde* [🚀Discord](https://discord.gg/hVKeY3uEru) 

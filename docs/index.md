@@ -4,22 +4,37 @@ layout: home
 
 hero:
   name: "Noir Room"
-  text: "La habitación oscura de Dex Parker."
-  tagline: My great project tagline
+  text: "La Habitación Oscura de Dex Parker."
+  tagline: Tutoriales, programas, apps, y mas.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Tutoriales
+      link: /Tutoriales/tutos
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Escritorio
+      link: /Escritorio/e-diseño
+    - theme: alt
+      text: Moviles
+      link: /Paginas
+    - theme: alt
+      text: Paginas
+      link: /Paginas/pages
+    - theme: alt
+      text: IA
+      link: /I-Artificial/ai-search
+  
+  image:
+    src: https://i.postimg.cc/KjsdVN8g/Icon-xmas.png
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📚 Office 365 + Windows
+    details: Descarga y activacion de Office y Windows
+    link: /Tutoriales/Win-O365
+  - title: ⛏ Minecraft Bedrock/Java
+    details: Descarga Minecraft gratis en todas sus plataformas.
+    link: /Tutoriales/minecraft
+  - title: ✒ Adobe Creative Cloud
+    details: Descarga los programas de Adobe gratis. (Photoshop, Illustrator, etc)
+    link: /adobeprograms
 ---
 

@@ -1,9 +1,3 @@
----
-label: Deemix
-icon: goal
-Title: Deemix - Descarga musica 
-layout: default
----
 ![](https://i.postimg.cc/v8zNqB3q/Deemix.png)
 # Deemix Downloader - Guia PC
 Descarga música en mp3 desde deezer en tu computadora con este increible programa.

@@ -1,8 +1,3 @@
----
-label: Navegacion segura
-icon: globe
-layout: default
----
 ![](https://i.postimg.cc/sDLKqZSc/Navegaseguro.png)
 # Navega y Descarga con Seguridad
 No tengas miedo a la internet y navega sin pensar en anuncios o virus.

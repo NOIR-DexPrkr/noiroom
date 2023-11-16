@@ -1,10 +1,3 @@
----
-label: Streaming
-icon: video
-layout: default
-order: 1590
----
-
 ![](https://i.postimg.cc/tg35sScS/Paginas-streaming.png)
 # Paginas para Streaming
 Mira Peliculas, series, musica y mas.

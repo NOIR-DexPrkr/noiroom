@@ -1,10 +1,3 @@
----
-label: Musica
-icon: play
-layout: default
-order: 1895
----
-
 ![](https://i.postimg.cc/76mS7fyd/PC-musica.png)
 # Programas de Audio
 Encuentra los mejores programas relacionados al audio y música.

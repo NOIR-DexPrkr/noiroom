@@ -1,10 +1,3 @@
----
-label: Diseño
-icon: versions
-layout: default
-order: 1789
----
-
 ![](https://i.postimg.cc/FzsD5yDP/Movil-dise-o.png)
 # Aplicaciones para Diseño
 Aplicaciones relacionadas al diseño para Móviles.

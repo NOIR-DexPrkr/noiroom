@@ -1,11 +1,3 @@
----
-label: Musica streaming
-icon: play
-layout: default
-order: 1787
----
-
-
 ![](https://i.postimg.cc/RCXg1YZ2/Movil-musica.png)
 # Aplicaciones de Audio
 Encuentra aquí las mejores aplicaciones para reproducir musica online y offline en tu celular.
@@ -196,7 +188,7 @@ Cuando entres a la página procura descargar la versión estable recomendada que
 
 !!! ¿Quieres spotify?
 Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
-[!ref Spotify Premium](/tutoriales/spotify-premium.md)
+[!ref Spotify Premium](/Tutoriales/spotify-premium.md)
 
 ---
 

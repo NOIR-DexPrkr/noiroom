@@ -1,8 +1,3 @@
----
-label: Cloud Stream
-icon: play
-layout: default
----
 ![](https://i.postimg.cc/WbYfVyR0/Cloudstream.png)
 # Cloud Stream - Android
 Prueba la mejor app de streaming en android. Peliculas, Series, Anime, y mas.

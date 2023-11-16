@@ -1,12 +1,3 @@
----
-label: Esenciales
-icon: heart-fill
-layout: default
-order: 1788
----
-
-
-
 ![](https://i.postimg.cc/Ss4gVF8b/Movil-esenciales.png)
 # Aplicaciones Esenciales
 Aplicaciones escenciales en cualquier telefono android.
