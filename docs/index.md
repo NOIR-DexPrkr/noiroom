@@ -34,7 +34,7 @@ features:
     details: Descarga Minecraft gratis en todas sus plataformas.
     link: /Tutoriales/minecraft
   - title: ✒ Adobe Creative Cloud
-    details: Descarga los programas de Adobe gratis. (Photoshop, Illustrator, etc)
+    details: Descarga los programas de Adobe de manera gratis y facilmente. (Photoshop, Illustrator, etc)
     link: /Tutoriales/adobeprograms
 ---
 
