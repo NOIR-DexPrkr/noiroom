@@ -48,11 +48,11 @@ export default defineConfig({
           { text: '🕸 Deemix Downloader', link: '/Tutoriales/deemix' },
           { text: '🕸 IPTV', link: '/Tutoriales/IPTV' },
           { text: '🕸 Minecraft Java & Bedrock', link: '/Tutoriales/minecraft' },
-          { text: '🕸 Navega Seguro', link: '/Tutoriales/navega.seguro' },
+          { text: '🕸 Navega Seguro', link: '/Tutoriales/navega-seguro' },
           { text: '🕸 Neo Store', link: '/Tutoriales/neostore' },
           { text: '🕸 Spotify PC & Movil', link: '/Tutoriales/spotify-premium' },
           { text: '🕸 Stremio', link: '/Tutoriales/stremio' },
-          { text: '🕸 Windows & Office', link: '/Tutoriales/Win-O35' }
+          { text: '🕸 Windows & Office', link: '/Tutoriales/Win-O365' }
           ]
         }
       ],

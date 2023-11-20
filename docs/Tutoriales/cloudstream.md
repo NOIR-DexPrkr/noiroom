@@ -25,7 +25,13 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 1. Descargamos la aplicacion desde el siguiente link: 
 
-[!badge variant="success" target="blank" text="Descarga"](https://cloudstream-on-fleek-co.ipns.dweb.link/install/)
+<a href="https://cloudstream-on-fleek-co.ipns.dweb.link/install/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Cloudstream</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
 
 > Aqui busca el apartado de **Assets**, expandelo y descarga el archivo **.APK**.
 
@@ -33,7 +39,12 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 
 3. Abre el siguiente link desde tu telefono. **OJO, debe ser desde el telefono**.
 
-[!badge variant="success" target="blank" text="Extension multilenguaje"](https://cloudstream-on-fleek-co.ipns.dweb.link/repos/)
+<a href="https://cloudstream-on-fleek-co.ipns.dweb.link/repos/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Extension en español</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 > Este enlace te llevará a una página de repositorios, selecciona "install" en donde dice "Multilingual". Se instalará una extension en la app que te permitira agregar una gran variedad de paginas de series y peliculas.
 
@@ -53,11 +64,11 @@ Puedes también buscar y seleccionar los resultados que te saldrán en las peque
 !!!success Si tienes dudas de como usar la app, puedes preguntar en el grupo o en la [pagina](https://www.facebook.com/dex.noir.room){target="blank"} y con gusto te respondere.
 !!!
 
-[!badge Creditos al desarrollador](https://github.com/recloudstream/cloudstream){target="blank"}
+> [*Creditos al desarrollador*](https://github.com/recloudstream/cloudstream){target="blank"}
 
 ---
 
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
-
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

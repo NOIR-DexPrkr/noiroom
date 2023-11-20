@@ -4,9 +4,34 @@ Descarga y activa cualquiera de estos dos de manera rapida y sencilla.
 
 ---
 
-## Escoge tu instalacion
+## Descarga y/o activa
 
-==- 💿 Windows 8.1/10/11
+El siguiente tutorial te permitira descargar Windows y/o office, ademas de poder activarlos completamente con todas sus funciones.
+Si ya tienes Windows y/o Office y vienes por la activacion, esto tambien te servira.
+
+<a href="#windows">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">💻 Descarga Windows</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+<a href="#office-365">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">📚 Descarga Office 365</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+<a href="#activacion">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✔ Activa Windows/office</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+
+### Windows
 
 Nos descargamos la version deseada de Windows.
 
@@ -15,96 +40,157 @@ Nos descargamos la version deseada de Windows.
 
 Todas traen multi-idiomas.
 
-+++ Win 8.1       
+::: info Win 8.1     
 
-[!badge variant="contrast" target="blank" text="Windows 8.1 x64"](https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso)     
-[!badge variant="contrast" target="blank" text="Windows 8.1 x32"](https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso)   
+<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x64</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-+++ Windows 10       
+    
+<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x32</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-[!badge variant="contrast" target="blank" text="Windows 10 x64"](https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso)       
-[!badge variant="contrast" target="blank" text="Windows 10 x32"](https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x86_dvd_eb811ccc.iso)     
+:::
+
+::: info Win 10 
+
+<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 x64</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x86_dvd_eb811ccc.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x32</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 *Version LTSC*
 
-[!badge variant="contrast" target="blank" text="Windows 10 LTSC x64"](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso)       
-[!badge variant="contrast" target="blank" text="Windows 10 LTSC x32"](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso)  
+<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 LTSC x64</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-+++ Windows 11 
+<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 LTSC x32</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-[!badge variant="contrast" target="blank" text="Windows 11 x64 only"](https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso)      
+:::
+::: info Win 11
 
-+++ Versiones Mini
+<a href="https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 11 x64</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+:::
+::: info Mini OS
 
 Si buscas las versiones Lite/Mini de Windows [Consiguelas aquí](https://www.dprojects.org/minios){target="_blank"}.
 
-+++
+::: 
 
-Lo siguiente que necesitas es [instalar/actualizar el windows descargado](https://www.youtube.com/watch?v=qedjN2AA3gU){target="_blank"}.     
+### Pasos de instalacion
+
+Lo siguiente que necesitas es seguir estos pasos: 
+
+::: details Mirar video
+
+<iframe width="480" height="320" src="https://www.youtube.com/embed/qedjN2AA3gU" title="tutorial USB Booteable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::
 Para windows 11 los requisitos cambian, asi que recomiendo investigues si tu pc puede actualizarse a esa version.     
 
 Una vez hayas instalado, continua con la activación abajo...
 
-==- 📑 Office 365
+### Office 365
 
 Nos descargamos cualquiera de los siguientes office365.
 
 > Si al dar click no inicia la descarga dale click derecho y abre en una nueva pestaña. O bien, dale a guardar como. Si sigue sin abrir, copia el link del boton de descarga y abrelo en una nueva pestaña. Si sigue sin funcionar, cambia de navegador.
 
-+++ Personal    
+::: info Selecciona una version    
 
-El office de siempre con mejores funciones y con funciones extra. Incluso guardado en la nube, como sucede en Google Docs.
+El siguiente es el office de siempre con mejores funciones y con funciones extra. Incluso guardado en la nube, como sucede en Google Docs.
 
-[!badge variant="contrast" target="blank" text="Office Personal - Ingles "](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-us/O365ProPlusRetail.img)     
-
-[!badge variant="contrast" target="blank" text="Office Personal - Español"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img)
-
-+++ Empresas     
-
-Este es el Office que contiene todos los programas de siempre, ademas de microsoft teams y otros programas y funciones para empresas.
-
-[!badge variant="contrast" target="blank" text="Office Empresas- Ingles"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-us/O365BusinessRetail.img)     
-
-[!badge variant="contrast" target="blank" text="Office Empresas - Español"](http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-es/O365BusinessRetail.img)
-
-+++ Otras versiones
+<a href="https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Office Personal</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 
-[!badge variant="contrast" target="blank" text="Office 2021"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2021Retail.img)        
-[!badge variant="contrast" target="blank" text="Office 2019"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2019Retail.img)       
-[!badge variant="contrast" target="blank" text="Office 2016"](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlusRetail.img)
+El siguiente es el Office que contiene todos los programas de siempre, ademas de microsoft teams y otros programas y funciones para empresas.
+
+<a href="http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-es/O365BusinessRetail.img">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Office para Empresa</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+::: details 👀 Otras versiones
 
 
-+++ Para MAC (2019/2021)
+- [🕸 Office 2021](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2021Retail.img)        
+- [🕸 Office 2019](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2019Retail.img)       
+- [🕸 Office 2016](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlusRetail.img)
+
+:::
+
+::: details Para MAC (2019/2021)
 
 Consigue las versiones [para MAC aquí](https://github.com/alsyundawy/Microsoft-Office-For-MacOS){target="_blank"}. Se recomienda traducir la pagina si no sabes ingles. Esta version ya trae un activador en .pkg.
 
-+++
+:::
 
 Una vez hayas instalado, continua con la activación abajo...
 
-===
 
-## Activador
+## Activacion
 
-Una vez instalado el windows / Office en tu pc tienes dos opciones para parchar 
+Para activar windows u Office necesitas primero descargar o ejecutar lo siguiente:
 
-==- 🏷 Script online *(Recomendado)*
+::: details 🏷 Script online *(Recomendado)*
 
-Abre powershell en windows como administrador y pega el siguiente codigo
+Abre powershell en windows como administrador, luego copia y pega el siguiente codigo:
 
 ```
 irm https://massgrave.dev/get | iex
 ```
 
 Luego dale ENTER y listo.
+:::
 
-
-==- 📜 Script descargable
+::: details 📜 Script descargable
 
 descargar el siguiente script:
 
-[!badge variant="contrast" target="blank" text="Script Activador"](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Script Activador</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 
 Extraemos y abrimos la carpeta llamada All-In-One. 
 
@@ -112,7 +198,7 @@ Dentro de ella hay un archivo .BAT que debemos ejecutar `como administrador`.
 
 > Ojo este archivo es completamente seguro. Si miran el link de descarga notarán que proviene de un repositorio de Github.
 
-===
+:::
 
 Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts. 
 
@@ -133,5 +219,6 @@ Por último, solo deben entrar a cualquier app de office, introducir su correo y
 
 ---
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

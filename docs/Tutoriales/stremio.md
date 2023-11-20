@@ -4,11 +4,12 @@ El mejor sitio y aplicación para ver peliculas, series y mas.
 
 ---
 
-## Que es stremio?
+::: details Que es stremio?
 
 Es una plataforma ofrece una experiencia de entretenimiento segura, moderna y sin interrupciones. Con su interfaz fácil de usar y su variada biblioteca de contenidos, incluida la compatibilidad con 4K HDR, los usuarios pueden disfrutar de sus películas y programas de televisión favoritos en todos sus dispositivos. Además, gracias a su compromiso con la seguridad, Stremio es la mejor opción para disfrutar de una experiencia de streaming de alta calidad sin preocupaciones.
+:::
 
-## Como funciona?
+::: details Como funciona?
 
 En palabras simples es una plataforma que:
 - Te muestra el catalogo desde diferentes sitios o plataformas como netflix, hulu, etc.
@@ -17,21 +18,44 @@ En palabras simples es una plataforma que:
 - Sincroniza lo que ves en todos los dispositivos en que lo tengas.
 Todo esto a traves de extensiones que la app trae y que puedes instalar y que son creadas por la comunidad.
 Lee esta toda pagina con cuidado, o no te funcionara lo de ver peliculas gratis.   
+:::
 
-## Como la descargo?
+## Tutorial de descarga 
 
-Facil, para descargar stremio puedes darle click en [!badge corners="pill" target="blank" text="Descarga Stremio"](https://www.stremio.com/downloads)      
-Tambien puedes usarlo online desde [!badge corners="pill" target="blank" text="Web Stremio"](https://web.stremio.com/)
+Para descargar stremio puedes darle click en 
+  
+<a href="https://www.stremio.com/downloads/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Stremio</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+
+<a href="https://web.stremio.com/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Web Stremio</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 > No te vayas aun, debes seguir el siguiente tutorial o no te va a funcionar nada.
 
-## Tutorial
+## tutorial de configuracion
 
 Desde aqui, ya todo es simple. Si creaste la cuenta, ahora solo queda añadir las extensiones desde el menu correspondiente y seleccionando el tipo de extension que quieras. Y procura seleccionar las creadas por la comunidad.
 
 Tambien puedes instalar extensiones por medio de links. La app te da esa opcion.
 
-La recomendada es la siguiente [!badge corners="pill" target="blank" text="Extension recomendada"](https://torrentio.strem.fun/configure)     
+La recomendada es la siguiente:
+
+<a href="https://torrentio.strem.fun/configure">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Extension recomendada</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 Una vez estes en la pagina debes en cada opcion seleccionar lo que deseas ver.
 - Providers: Proveedores o sitios donde se aloja el contenido.
 - Sorting: Orden de muestra de resultados
@@ -42,12 +66,16 @@ Una vez estes en la pagina debes en cada opcion seleccionar lo que deseas ver.
 
 Tambien, puedes obviar lo anterior y copiar este que trae ingles,español, latino y calidad maxima de 1080 para que tu internet no sufra.
 
+::: info Copia y pega esto
+
+Lo debes copiar en el boton (+) de torrentio, o en la barra de busqueda en la seccion de extensiones.
+
 ``` 
 https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,rutracker,mejortorrent,cinecalidad|sort=size|language=spanish,latino|qualityfilter=brremux,hdrall,dolbyvision,4k/manifest.json
 
 ```
+:::
 
-Este link debes pegarlo en la barra de busqueda que aparece en la seccion de extensiones de stremio.
 Puedes ademas desde los plugins agregar proveedores de subtitulos si prefieres ver en ingles. Todo esta en la app.
 Te permite agregar tambien agregar ciertos sitios de streaming como youtube, sitios 18+, entre otros.  
 
@@ -55,5 +83,6 @@ Te permite agregar tambien agregar ciertos sitios de streaming como youtube, sit
 
 ---
 
-Eso es todo, si tienes problemas o dudas, recuerda que puedes escribir en mi servidor y te ayudare.
-> [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

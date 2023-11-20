@@ -4,9 +4,9 @@ Instala cualquier aplicacion de codigo abierto y con funciones utiles para tu ce
 
 ---
 
-=== Que es Neo Store?
+::: details Que es Neo Store?
 Es un cliente de F-droid con repositorios extra. Es decir,una tienda de apps de código abierto (que no ocultan el cómo están hechas, por lo tanto puedes confiar en tu seguridad y datos)
-===
+:::
 
 ![](https://i.postimg.cc/mZdCMsQ8/2023-05-19-16-19-02.png)
 
@@ -14,7 +14,12 @@ Es un cliente de F-droid con repositorios extra. Es decir,una tienda de apps de 
 
 1. Descargamos desde el siguiente link:
 
-[!badge variant="success" text="Descarga Neo-Store"](https://github.com/NeoApplications/Neo-Store/releases)
+<a href="https://github.com/NeoApplications/Neo-Store/releases">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Neo Store</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 2. Se abrira una pagina donde debes bajar hasta la sección assets y descargar el archivo **APK**:
 
@@ -28,5 +33,7 @@ repositorios.
 películas y mas)
 
 ---
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::
