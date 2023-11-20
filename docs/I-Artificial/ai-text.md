@@ -8,53 +8,85 @@ Todas las inteligencias artificiales para generar texto en un mismo lugar.
 
 ### Conversaciones 
 
-- [!badge variant="contrast" text="⭐  Chat GPT"](https://chat.openai.com/)    
+<a href="https://chat.openai.com/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Chat GPT</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+   
 *Chatea y pide lo que desees a GPT. Este chat es hasta ahora el mas avanzado cuando hablamos de la forma en que responde. Esta desactualizado y solo da informacion hasta el 2021. Para acceder a la version reciente debes pagar.*
 
-==- Similares a GPT
+::: details Similares a GPT
 
-- [!badge variant="contrast" text="🔷  BAI chat"](https://chatbot.theb.ai/)      
-- [!badge variant="contrast" text="🔷  ORA chat"](https://ora.sh/openai/chatgpt)    
-- [!badge variant="contrast" text="🔷  POE chat"](https://poe.com/)  
+- [🕸  BAI chat](https://chatbot.theb.ai/)      
+- [🕸  ORA chat](https://ora.sh/openai/chatgpt)    
+- [🕸  POE chat](https://poe.com/)  
 
-==- Usalos en Whatsapp
+::: details Usalos en Whatsapp
 
 Generales:     
-- [!badge variant="contrast" text="🔷  ChatBling - 💀"](https://chatbling.net/)        
-- [!badge variant="contrast" text="🔷  Jinni chat"](https://www.askjinni.ai/)   
-- [!badge variant="contrast" text="🔷  PI chat"](https://wa.me/+13143331111)    
+- [🕸  ChatBling - 💀](https://chatbling.net/)        
+- [🕸  Jinni chat](https://www.askjinni.ai/)   
+- [🕸  PI chat](https://wa.me/+13143331111)    
 
 Aceptan notas de voz:    
 > Puedes hacer incluso transcripciones
 
-- [!badge variant="contrast" text="⭐  LuzIA chat"](https://soyluzia.com/)    
-- [!badge variant="contrast" text="🔷  EVA chat"](https://wa.me/51961212715?text=Hola+EVA%21)  
+- [⭐  LuzIA chat](https://soyluzia.com/)    
+- [🕸  EVA chat](https://wa.me/51961212715?text=Hola+EVA%21)  
 
-===    
+:::    
 
-- [!badge variant="contrast" text="🔷  Hugging Chat"](https://huggingface.co/chat/)          
-*Similar a GPT pero con acceso a internet y sin restricciones (mientras sea legal). Es mejor para hacer trabajos o investigar pues fue entrenado con informacion seleccionada. La desventaja es que A veces debes ser muy preciso con lo que pides y como lo pides.*
+<a href="https://huggingface.co/chat/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Hugging Chat</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
 
-### Conversacion texto con respuesta de voz
+*Similar a GPT pero con acceso a internet y sin restricciones (mientras sea legal). Es mejor para hacer trabajos o investigar pues fue entrenado con información seleccionada. La desventaja es que a veces debes ser muy preciso con lo que pides y cómo lo pides.*
 
-- [!badge variant="contrast" text="⭐  Hey PI"](https://heypi.com/talk)    
+---
+
+<a href="https://heypi.com/talk">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  Hey PI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
 *Este sitio tiene un GPT el cual puede responderte con 4 tipos de voces. Dos masculinas y dos femeninas. Suenan muy naturales las voces y su forma de hablar.*
 
-### Conversacion de Voz a Voz
+---
 
-- [!badge variant="contrast" text="🔷  Call Annie/Samantha"](https://callannie.ai/)    
-*Este te permite hablar desde la web o llamar por telefono o video llamada. Puedes registrarte y hablar en español o ingles. Y para la video llamada se necesita iPhone. Tambien puedes cambiar de voz a hombre o mujer y suena algo robotica.*
+<a href="https://callannie.ai/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Call Annie/Samantha</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Este te permite hablar desde la web o llamar por teléfono o video llamada. Puedes registrarte y hablar en español o inglés. Y para la video llamada se necesita iPhone. También puedes cambiar de voz a hombre o mujer y suena algo robótica.*
 
 ---
 
-!!!info No sabes cual Chat usar, ¡verdad?
-Usalos todos en esta pagina ycompara tus respuestas
-!!!
+::: info  No sabes cual Chat usar, ¡verdad?
+Usalos todos en esta pagina y compara tus respuestas
 
-- [!badge variant="contrast" target="blank" text="🔷  Playground AI"](https://playgroundai.com/)    
+<a href="https://playgroundai.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Playground AI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
 *Sitio para comparar las respuestas de varias inteligencias artificiales al tiempo.*
 
+:::
+
 ---
 
-
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

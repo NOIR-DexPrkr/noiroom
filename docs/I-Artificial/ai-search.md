@@ -6,20 +6,47 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 ## Buscadores con AI/IA
 
-- [!badge variant="contrast" text="🔷  Phind"](https://www.phind.com/)    
-*Buscador similar a Google o Bing pero integrado con la ultima version de GPT-4. Con un enfoque en el desarrollo y tecnolgia. Si eres programador o similares, este es para ti.*
+<a href="https://www.phind.com/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Phind</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
 
-- [!badge variant="contrast" text="🔷  Perplexity"](https://www.perplexity.ai/)    
-*Otro buscador enfocado en la informacion util y veraz. Usa la informacion de varios sitios academicos y de informacion muy famosos para respondes cualquier duda que tengas. Imagina que Yahoo respuestas, Quora, Reddit y Google tuvieron un hijo y le puedes preguntar de todo.*
+*Buscador similar a Google o Bing pero integrado con la última versión de GPT-4. Con un enfoque en el desarrollo y tecnología. Si eres programador o similares, este es para ti.*
 
-- [!badge variant="contrast" text="🔷  Bing GPT"](https://bing.com/chat)    
-*GPT-4 de la mano de toda internet. Es una gran opcion para buscar informacion sin tener que volverse loco entrando a cada pagina del buscador. Si tienes dudas no muy academicas, preguntale a Bing chat.*
+---
 
-> [!badge variant="contrast" text="⭐  Bing chat En esteroides"](https://bringsydneyback.com/)    
-*Pagina que te permite hablar con la version temprana de Bing, la cual no estaba tan censurada como la actual. Necesitas tener Edge para usarlo.*
+<a href="https://www.perplexity.ai/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Perplexity</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
 
-- [!badge variant="contrast" text="🔷  Google Bard"](https://bard.google.com/)    
-*El GPT de Google, responde a cualquier pregunta pero solo en ingles hasta el momento.*
+*Otro buscador enfocado en la información útil y veraz. Usa la información de varios sitios académicos y de información muy famosos para responder cualquier duda que tengas. Imagina que Yahoo respuestas, Quora, Reddit y Google tuvieron un hijo y le puedes preguntar de todo.*
+
+---
+
+<a href="https://bing.com/chat">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Bing GPT</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*GPT-4 de la mano de toda internet. Es una gran opción para buscar información sin tener que volverse loco entrando a cada página del buscador. Si tienes dudas no muy académicas, pregúntale a Bing chat.*
+
+---
+
+<a href="https://bard.google.com/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Google Bard</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*El GPT de Google, responde a cualquier pregunta pero solo en inglés hasta el momento.*
 
 ---
 

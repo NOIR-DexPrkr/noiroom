@@ -1,26 +1,63 @@
 ![](https://i.postimg.cc/76mS7fyd/PC-musica.png)
 # Programas de Audio
 Encuentra los mejores programas relacionados al audio y música.
+## Reproductores de Música
+
+<a href="https://www.foobar2000.org/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Foobar</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
 
 ---
 
-## Reproductores de Música
+<a href="https://www.getmusicbee.com/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 MusicBee</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-- [!button variant="contrast" target="blank" size="xs" text="⭐  Foobar2000"](https://www.foobar2000.org/)  
 *Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🔷  MusicBee"](https://www.getmusicbee.com/)   
-*Multiplataforma, altamente personalizable y con una gran cantidad de temas y extensiones.* 
+---
 
-- [!button variant="contrast" target="blank" size="xs" text="🔷  Harmonoid"](https://harmonoid.com/)   
+<a href="https://harmonoid.com/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Harmonoid</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 *Multiplataforma, interfaz personalizable e integrada a el tema de tu sistema, con letras, edita tus metadatos, reproduce urls de youtub y mas.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🔷  Melodie"](https://feugy.github.io/melodie)   
+---
+
+<a href="https://feugy.github.io/melodie">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Melodie</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 *Multiplataforma, simple y con una interfaz agradable.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🔷  Hyperchroma"](https://hyperchroma.app/)   
+---
+
+<a href="https://hyperchroma.app/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Hyperchroma</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 *Simple, rapido, y con un visualizador por defecto.* 
 
 ---
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

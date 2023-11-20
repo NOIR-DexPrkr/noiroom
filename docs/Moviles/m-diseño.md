@@ -8,20 +8,48 @@ Aplicaciones relacionadas al diseño para Móviles.
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*      
 
-- [!badge target="blank" variant="contrast" text="⭐  VivaCut"](https://modyolo.com/vivacut.html)      
-*Recomendada.*
-
-- [!badge target="blank" variant="contrast" text="🔷  Filmora Go"](https://liteapks.com/download/filmorago-854)
-
-- [!badge target="blank" variant="contrast" text="🔷  PowerDirector"](https://modyolo.com/powerdirector.html)
-
-- [!badge target="blank" variant="contrast" text="⭐  CapCut"](https://modyolo.com/capcut-video-editor.html)     
-*No recomendada por mi, pero pedida por muchos.*
-
-
-> [Versiones Windows](/Escritorio/e-diseño.md)
+<a href="https://modyolo.com/vivacut.html">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ VivaCut</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 ---
 
+<a href="https://liteapks.com/download/filmorago-854">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Filmora Go</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+---
+
+<a href="">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 PowerDirector</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+
+<a href="https://modyolo.com/capcut-video-editor.html">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Capcut</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*No recomendada por mi, pero pedida por muchos.*
+
+---
+
+[Versiones Windows](/Escritorio/e-diseño.md)
+
+---
+
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

@@ -8,37 +8,105 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ## Generacion de imagenes
 
-- [!badge variant="contrast" text="⭐  Dreamstudio"](https://dreamstudio.ai/generate)    
+<a href="https://dreamstudio.ai/generate">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  Dreamstudio</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
 *Sitio oficial de Stable Diffusion (SDXL), gratis y con algunas limitaciones.*
-
-- [!badge variant="contrast" text="⭐  ClipDrop"](https://clipdrop.co/stable-diffusion)    
-*Usa el modelo de SDXL gratis y con algunas limitaciones.*
-
-- [!badge variant="contrast" text="🔷  Midjourney"](https://discord.gg/midjourney)    
-*Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine.*
-
-
-- [!badge variant="contrast" text="🔷  Lexicart"](https://lexica.art/aperture)    
-*Sitio con gran variedad de ejemplos para modificar y generar imagenes o crear tus nuevas. Gratis y con algunas limitaciones.*
-
-
-- [!badge variant="contrast" text="🔷  Zoo AI"](https://zoo.replicate.dev/)   
-*Sitio con creacion de imagenes con varios motores o AIs a la vez(DALL-E,SD, otros). gratis y con tamaño limitado.*    
-
-
-- [!badge variant="contrast" text="🔷  Bing image AI"](https://www.bing.com/images/create)    
-*Sitio oficial del generador de imagenes de Bing, gratis y con algunas limitaciones.*    
-
-
-- [!badge variant="contrast" text="🔷  Fusion Brain"](https://fusionbrain.ai/)    
-*Genera imagenes rapido y facil, gratis y con algunas limitaciones.*  
-
-- [!badge variant="contrast" text="🔷  Playground AI"](https://playgroundai.com/)    
-*Sitio para creacion de imagenes en buena calidad, gratis y con algunas limitaciones.*
-
-- [!badge variant="contrast" text="🔞  Stable Diffusion 18+"](https://unstability.party/)    
-*Sitio creado por la comunidad para creacion de imagenes sin restriccion, gratis y debes iniciar sesion con discord para poder crear tus imagenes.*   
 
 ---
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+<a href="https://clipdrop.co/stable-diffusion">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  ClipDrop</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Usa el modelo de SDXL gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://discord.gg/midjourney">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Midjourney</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Discord oficial de MidJourney, gratis y con algunas limitaciones.  Para empezar debes entrar a los canales "newbies" y usar el comando /imagine.*
+
+---
+
+<a href="https://lexica.art/aperture">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Lexicart</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio con gran variedad de ejemplos para modificar y generar imágenes o crear tus nuevas. Gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://zoo.replicate.dev/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Zoo AI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio con creación de imágenes con varios motores o AIs a la vez (DALL-E, SD, otros). Gratis y con tamaño limitado.*
+
+---
+
+<a href="https://www.bing.com/images/create">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Bing image AI"</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio oficial del generador de imágenes de Bing, gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://fusionbrain.ai/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Fusion Brain"</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Genera imágenes rápido y fácil, gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://playgroundai.com/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Playground AI"</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio para creación de imágenes en buena calidad, gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://unstability.party/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔞  Stable Diffusion 18+</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio creado por la comunidad para creación de imágenes sin restricción, gratis y debes iniciar sesión con discord para poder crear tus imágenes.*
+
+---
+
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

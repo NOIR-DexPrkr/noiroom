@@ -6,16 +6,25 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descarga Mp3/Flac
 
-### Netease    
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Netease"](https://doodrive.com/f/9o4zn7)        
-*Usa la opción de descarga "Browser Downloader".*
+<a href="https://doodrive.com/f/9o4zn7">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Netease</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Al descargar, usa la opción de descarga "Browser Downloader".*
 
 *Escucha musica en una app con un catalogo de musica inmenso. Contiene de todos los continentes y sin restricciones. Permite descargar pero en la calidad 156Kbs, para mayor calidad necesitas una cuenta enlazada.*
 
 ---
 
-### Fildo    
-[!button variant="contrast" target="blank" size="xs" text="🔷  Descarga Fildo"](https://fildo.net/android/en/#downloadSection)     
+<a href="https://fildo.net/android/en/#downloadSection">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Fildo</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 *Fildo es un buscador de musica que te permite escuchar y descargar las canciones desde distintas fuentes. Tiene para descarga en varias calidades dependiendo las fuentes (Netease, Huawei Music, etc).*
 
@@ -23,14 +32,17 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descaga inApp
 
-### InnerTune    
-
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Innertune"](https://github.com/z-huang/InnerTune/releases)
+<a href="https://github.com/z-huang/InnerTune/releases">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ InnerTune</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 Este es un cliente de Youtube Music en el que puedes reproducir y descargar musica, incluso iniciar sesion.     
 Version minima de android: 7 
 
-==- Caracteristicas
+::: details Caracteristicas
 - Reproduce canciones de YT/YT Music sin anuncios
 - Reproducción en segundo plano
 - Busca canciones, vídeos, álbumes y listas de reproducción de YouTube Music
@@ -45,23 +57,26 @@ Version minima de android: 7
 - Selecciones rápidas personalizadas
 - Material 3
 
-==- Interfaz    
+::: details Interfaz    
 
 ![](https://i.postimg.cc/6QKgCCb6/Screenshot-20230913-100226-Inner-Tune.png)
 ![](https://i.postimg.cc/TwCzdh9d/Screenshot-20230913-100218-Inner-Tune.png)
 
-===
+:::
 
 ---
 
-### SimpMusic (BETA)    
-
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga SimpMusic"](https://github.com/maxrave-dev/SimpMusic/releases)
+<a href="https://github.com/maxrave-dev/SimpMusic/releases">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SimpMusic BETA</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 Este es otro cliente de Youtube Music con una interfaz muy parecida a Spotify en el que puedes reproducir y descargar musica, incluso iniciar sesion. Tiene una interfaz parecida a spotify.      
 Version minima de android: 8
 
-==- Caracteristicas    
+::: details Caracteristicas    
 
 - Reproducir música de YouTube Music o YouTube gratis sin anuncios en segundo plano
 - Navega por Home, Charts, Moods & Genre con los datos de YouTube Music con alta velocidad
@@ -73,43 +88,49 @@ Version minima de android: 8
 - Temporizador
 - Y mucho más
 
-==- Interfaz    
+::: details Interfaz    
 
 ![](https://i.postimg.cc/yYJMK1SK/Screenshot-20230913-100128-Simp-Music.png)
 ![](https://i.postimg.cc/9Mm3Hyyg/Screenshot-20230913-102031-Simp-Music.png)
 
-===
+:::
 
 ---
 
-### SpMp    
-
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga SpMp"](https://github.com/toasterofbread/spmp/releases)
+<a href="https://github.com/toasterofbread/spmp/releases">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 Este es otro cliente de Youtube Music en el que puedes reproducir y descargar musica, altamente configurable e incluso te permite iniciar sesion.     
 Version minima de android: 8    
 
 [Visita este link para ver todas sus caracteristicas](https://github-com.translate.goog/toasterofbread/spmp/wiki?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
 
-==- Interfaz    
+::: details Interfaz    
 
 Puede ser configurada, no necesariamente luce asi.
 
 ![](https://i.postimg.cc/t4W81B5m/Screenshot-20230913-100605-Sp-Mp.png)
 
-===
+:::
 
 ---
 
-### BlackHole    
-
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga BlackHole"](https://github.com/Sangwan5688/BlackHole/releases)
+<a href="https://github.com/Sangwan5688/BlackHole/release">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackHole</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 Este es otro cliente de Youtube y YT Music con interfaz similar a spotify en el que puedes reproducir y descargar musica.
 No tiene para inicio de sesion.    
 Version minima de android: 5
 
-==- Caracteristicas   
+::: details Caracteristicas   
 
 - La mejor calidad de streaming (320kbps)
 - Búsqueda por álbum y por canción
@@ -134,24 +155,27 @@ Version minima de android: 5
 - Sin anuncios
 - Soporte para YouTube
 
-==- Interfaz    
+::: details Interfaz    
 
 ![](https://i.postimg.cc/90ks9SKs/Screenshot-20230913-100317-Black-Hole.png)
 ![](https://i.postimg.cc/j22GLKgz/Screenshot-20230913-100313-Black-Hole.png)
 
-===
+:::
 
 ---
 
-### Musify    
-
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Musify"](https://github.com/gokadzev/Musify/releases)
+<a href="https://github.com/gokadzev/Musify/releases">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Musify</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
 Este es otro cliente de YT Music en el que puedes reproducir y descargar musica.
 No cuenta con inicio de sesion, peor si copia de seguridad.    
 Version minima de android: 7
 
-==- Caracteristicas   
+::: details Caracteristicas   
 
 - Búsqueda de canciones en línea con sugerencias
 - Soporte Streaming
@@ -166,30 +190,21 @@ Version minima de android: 7
 - 12 Idiomas Soportados
 - Material UI & Accent Colors & Dynamic Colors (Android 12+)
 
-==- Interfaz    
+::: details Interfaz    
 
 ![](https://i.postimg.cc/sDttDkph/Screenshot-20230913-100412-Musify.png)
 
-===
+:::
 
 ---
 
-### Deezer
-[!button variant="contrast" target="blank" size="xs" text="⭐  Descarga Deezer"](https://liteapks.com/deezer.html)      
-
-*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.*      
-
-!!!warning OJO!       
-*Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
-Cuando entres a la página procura descargar la versión estable recomendada que es la numero `7.0.7.54` de la pagina compartida.*
-!!!
-
----
-
-!!! ¿Quieres spotify?
+::: danger ¿Quieres spotify?
 Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
-[!ref Spotify Premium](/Tutoriales/spotify-premium.md)
+[Spotify Premium](/Tutoriales/spotify-premium)
+:::
 
 ---
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [!badge variant="contrast" icon="feed-rocket" text="Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

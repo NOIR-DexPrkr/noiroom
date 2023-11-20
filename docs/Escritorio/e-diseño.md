@@ -70,4 +70,6 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
-> **Si necesitas algo mas y no esta aqui, visitame en** [🚀 Discord](https://discord.gg/hVKeY3uEru)
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::
