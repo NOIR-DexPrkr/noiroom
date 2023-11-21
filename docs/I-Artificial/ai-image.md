@@ -1,3 +1,10 @@
+---
+title: IA de Imagenes
+description: Crea imagenes increibles con inteligencia artificial.
+image: "https://i.postimg.cc/50sNLfZz/IA-Imagenes.png"
+---
+
+
 ![](https://i.postimg.cc/Z59s5LZ2/IA-Imagenes.png)
 # IA para Generación de Imágenes
 Todas las inteligencias artificiales para generar imágenes en un mismo lugar.

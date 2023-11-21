@@ -1,3 +1,10 @@
+---
+title: IA de busqueda
+description: Busca y encuentra lo que necesitas con ayuda de la IA.
+image: "https://i.postimg.cc/yd18DDrB/IA-Imagenes-2.png"
+---
+
+
 ![](https://i.postimg.cc/02yHLs48/IA-Imagenes-2.png)
 # IA para Busquedas Web
 Todas las inteligencias artificiales para busquedas web en un mismo lugar.

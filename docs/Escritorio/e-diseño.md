@@ -1,3 +1,10 @@
+---
+title: Programas de Diseño
+description: Gimp, Photoshop, mas.
+image: "https://i.postimg.cc/k5x263JN/PC-dise-o.png"
+---
+
+
 ![](https://i.postimg.cc/BbV5rd86/PC-dise-o.png)
 # Programas para diseño
 Encuentra aqui los programas necesarios para despertar tu creatividad.

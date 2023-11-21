@@ -1,3 +1,10 @@
+---
+title: Programas de Musica
+description: Los mejores reproductores para PC.
+image: "https://i.postimg.cc/C17d7Gfz/PC-musica.png"
+---
+
+
 ![](https://i.postimg.cc/76mS7fyd/PC-musica.png)
 # Programas de Audio
 Encuentra los mejores programas relacionados al audio y música.

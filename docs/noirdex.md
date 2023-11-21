@@ -1,3 +1,9 @@
+---
+title: Index de Noir
+description: Encuentra tutoriales, programas, apps, paginas y mas.
+image: "https://i.postimg.cc/mZS7pMG3/Index-page-2.png"
+---
+
 ![](https://i.postimg.cc/bwKCD2wJ/Index-page.png)
 # Noir Index - Links
 Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso directo de la pagina.

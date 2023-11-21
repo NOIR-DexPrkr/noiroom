@@ -1,3 +1,10 @@
+---
+title: Juegos PC
+description: Coleccion de los mejores juegos.
+image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
+---
+
+
 ![](https://i.postimg.cc/4dX1VvkJ/PC-juegos.png)
 # Coleccion de Juegos para PC
 Encuentra una gran coleccion de las mejores sagas de juegos.

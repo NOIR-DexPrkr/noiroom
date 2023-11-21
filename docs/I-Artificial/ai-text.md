@@ -1,3 +1,10 @@
+---
+title: IA de texto
+description: Genera textos usando la inteligencia artificial.
+image: "https://i.postimg.cc/Pxj82f3F/IA-texto.png"
+---
+
+
 ![](https://i.postimg.cc/Fz9nF5sV/IA-texto.png)
 # IA para Generación de Texto
 Todas las inteligencias artificiales para generar texto en un mismo lugar.
