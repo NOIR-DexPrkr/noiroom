@@ -15,15 +15,11 @@ export default defineConfig({
     if (pageData.frontmatter.description) {
       head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }])
     }
-      // Parse the content to find the first image
-  const imgRegex = /!\[.*\]\((.*?)\)/
-  const match = pageData.content.match(imgRegex)
-  if (match && match[1]) {
-    head.push(['meta', { property: 'og:image', content: match[1] }])
-  }
-  
-  return head
- },
+    if (pageData.frontmatter.image) {
+      head.push(['meta', { property: 'og:image', content: pageData.frontmatter.image }])
+    }
+    return head
+  },
 
   sitemap: {
     hostname: 'https://noiroom.netlify.app/',
