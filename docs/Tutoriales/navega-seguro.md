@@ -101,7 +101,17 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 *El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
 
+::: danger Tutorial de DNS
 
+<a href="tutoriales/Adguard">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+:::
+---
 
 ### Selecciona las extensiones
 
