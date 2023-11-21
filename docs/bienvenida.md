@@ -1,7 +1,7 @@
 ---
 title: Bienvenida
 description: Encuentra tutoriales, programas, apps, paginas y mas.
-image: https://i.postimg.cc/6p5vCC00/Noir-Room.png
+image: "https://i.postimg.cc/6p5vCC00/Noir-Room.png"
 ---
 
 ![](https://i.postimg.cc/6p5vCC00/Noir-Room.png)
