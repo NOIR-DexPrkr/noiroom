@@ -8,11 +8,7 @@ No tengas miedo a la internet y navega sin pensar en anuncios o virus.
 Esta guia es basica y no muy extensa en cuanto a seguridad. Si eres un enfermo con este tema, de seguro que ya sabes donde buscar y esta guia no es para ti. Una vez completes la guia e instales lo necesario, podrias descargar cosas desde internet con menos miedo a un virus que antes.
 :::
 
-## instala los navegadores
-
-> Puedes empezar por instalar uno de los siguientes navegadores acorde a tus necesidades.
-
-### Navegadores escritorio
+## Navegadores escritorio
 
 Puedes usar estos navegadores multiplataforma
 
@@ -47,59 +43,44 @@ Puedes usar estos navegadores multiplataforma
  </div>
 </a>
 
-### Navegadores moviles
+## Navegadores moviles
 
 Puedes usar estos navegadores que funcionan en Android y iOS
 
-#### Android
-
-**Similar al navegador de PC**
+**Opcion con extensiones**
    
 <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi Android</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
+
+<a href="https://browser.kagi.com/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi iOS</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 
 **Bloquea anuncios pero no acepta extensiones**
 
 <a href="https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave Android</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
-
-*El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
-
-
-
-*Este navegador es como tener uno de escritorio en el celular, ademas de ser rapido.*
-
-#### iOS
-
-**Acepta extensiones**
- 
-<a href="https://browser.kagi.com/">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Kiwi</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-*Este navegador es como tener uno de escritorio en el celular, ademas de ser rapido.*
-
-**Bloquea anuncios pero no aceptan extensiones**
 
 <a href="https://apps.apple.com/us/app/brave-private-web-browser/id1052879175">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave iOS</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-*El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
+---
 
 ::: danger Tutorial de DNS
 
@@ -111,15 +92,15 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 </a>
 
 :::
+
 ---
 
-### Selecciona las extensiones
+## Extensiones para Escritorio y Moviles
 
-> El link de cada extension te llevara a su sitio oficial para que lo instales en cualquier navegador que tengas y soporten.
+El link de cada extension te llevara a su sitio oficial para que lo instales en cualquier navegador que tengas y soporten.
 
 - [🕸 Ublock Origin - Extension](https://ublockorigin.com/)      
 *Esta extension es util no importa que navegador tengas, asi ya venga con bloqueador de anuncios. Si alguna vez entraste a una pagina y tenia una pestaña, cuadro, o aviso que no te gustaba, solo dale click derecho y bloqueala con esta extension. Es mucho mas que un bloqueador de anuncios.*
-
 
 - [🕸 Decentraleyes - Extension](https://decentraleyes.org/)     
 *Extension que te proteje del seguimiento de paginas y servicios.*
