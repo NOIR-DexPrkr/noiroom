@@ -1,25 +1,40 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Noir Room",
   description: "La Habitación Oscura de Dex Parker.",
-    
+  titleTemplate: ':title',
   lastUpdated:false,
   cleanUrls: true,
 
+  transformHead: ({ pageData }) => {
+    const head = []
+    if (pageData.frontmatter.title) {
+      head.push(['meta', { property: 'og:title', content: pageData.frontmatter.title }])
+    }
+    if (pageData.frontmatter.description) {
+      head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }])
+    }
+      // Parse the content to find the first image
+  const imgRegex = /!\[.*\]\((.*?)\)/
+  const match = pageData.content.match(imgRegex)
+  if (match && match[1]) {
+    head.push(['meta', { property: 'og:image', content: match[1] }])
+  }
+  
+  return head
+ },
+
   sitemap: {
     hostname: 'https://noiroom.netlify.app/',
-    },
+  },
     
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
       { text: 'Index NR', link: '/noirdex', activeMatch: '/noirdex'},
       { text: 'Actualizado 20/11/2023', link: '/', activeMatch: '/d'}
-      
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
