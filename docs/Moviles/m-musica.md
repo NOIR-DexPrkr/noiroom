@@ -66,6 +66,22 @@ Version minima de android: 7
 
 ---
 
+<a href="https://doodrive.com/f/qg604n">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.*      
+
+::: danger OJO!       
+*Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
+La versión con menos alertas de modificacioneses la numero `7.0.5.56` de la pagina compartida.*
+:::
+
+---
+
 <a href="https://github.com/maxrave-dev/SimpMusic/releases">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SimpMusic BETA</p>
