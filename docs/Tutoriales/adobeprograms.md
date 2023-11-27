@@ -116,7 +116,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 - [CC 2020](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2Fxi8ye7vb5oqafuv%2FID2K20.15.1.2.WIN.AP.ZNT.rar%2Ffile%3A2Ntdg9wjCyHi-5pVLzzYG5Vj5aY&cuid=4208103)
 :::
-::: details 🟥 Acrobar Reader
+::: details 🟥 Acrobat DC PDF
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
 - [CC 2023](https://www.mediafire.com/file/tfogsmbw95lf661/WIN_AADC_V2023.003.20244_AP_ZNT.rar/file)
