@@ -15,7 +15,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 ### 1. Usando aplicaciones con TV incluida
 
-<a href="https://www.magistv.top/">
+<a href="https://www.magistv.top/ target="_self">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚠ MagisTV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -23,7 +23,6 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 </a>   
 
 *Ya no es recomendada, pero es la mas completa. Es un posible Spyware.*
-:::
 
 ### 2. Usando aplicaciones para reproducir listas M3U
 
@@ -37,7 +36,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 ### 3. Usando paginas WEB para reproducir listas M3U
 
-==- **Paginas WEB**
+**Paginas WEB**
 
 
 
@@ -109,13 +108,6 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 <a href="https://www.cxtvlive.com/tv">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 IPV Web</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-<a href="https://iptvlist.ml/">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 IPTVlist</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
