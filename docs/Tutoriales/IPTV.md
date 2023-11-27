@@ -15,7 +15,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 ### 1. Usando aplicaciones con TV incluida
 
-<a href="https://www.magistv.top/" target="_self">
+<a href="https://www.magistv.top/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚠ MagisTV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
