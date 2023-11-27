@@ -40,7 +40,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 
 
-<a href="https://www.whatsuptv.app/">
+<a href="https://www.whatsuptv.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 What's up TV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -48,7 +48,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 </a>
 
 
-<a href="https://iptvnator.vercel.app/playlists/17g4n1o55nkj">
+<a href="https://iptvnator.vercel.app/playlists/17g4n1o55nkj" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 IPTVnator</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -64,7 +64,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 > Usa las listas anteriores aqui:
 
-<a href="https://www.videolan.org/vlc/">
+<a href="https://www.videolan.org/vlc/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 VLC Player</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -72,14 +72,14 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 </a>
 
 
-<a href="https://kodi.tv/">
+<a href="https://kodi.tv/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Kodi Player</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://github.com/4gray/iptvnator/releases/">
+<a href="https://github.com/4gray/iptvnator/releases/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 IPtvnator</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -91,28 +91,28 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
 
 **Paginas con canales categorizados por país y region**
 
-<a href="https://pluto.tv/">
+<a href="https://pluto.tv/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 PlutoTV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://dev-iptv.web.app/">
+<a href="https://dev-iptv.web.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Jackal TV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://www.cxtvlive.com/tv">
+<a href="https://www.cxtvlive.com/tv" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 IPV Web</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://m3u.cl/">
+<a href="https://m3u.cl/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Latino M3U</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

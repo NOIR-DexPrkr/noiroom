@@ -8,7 +8,7 @@ Prueba la mejor app de streaming en android. Peliculas, Series, Anime, y mas.
 Agradezco ser respetuoso y leer con cuidado los pasos.
 !!!
 
-==- Que es Cloud Stream?
+::: details Que es Cloud Stream?
 Es una aplicacion de codigo abierto que te permite reproducir y descargar peliculas desde una gran variedad de sitios, en varios idiomas. 
 
 **Características:**
@@ -17,7 +17,7 @@ Es una aplicacion de codigo abierto que te permite reproducir y descargar pelicu
 - Marcadores
 - Descarga y reproduce películas, series y anime
 - Chromecast
-===
+:::
 
 ![](https://i.postimg.cc/kXm6zkbB/Screenshot-20230516-154150-Cloud-Stream.png) ![](https://i.postimg.cc/gcRLMYrC/Screenshot-20230516-154221-Cloud-Stream.png)
 

@@ -131,5 +131,6 @@ Eso seria todo, ahora tus dispositivos estan seguros contra todo tipo de anuncio
 ---
 
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [🚀 Discord"](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::

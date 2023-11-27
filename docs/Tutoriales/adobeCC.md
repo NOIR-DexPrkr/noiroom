@@ -255,5 +255,6 @@ Si deseas usar estos filtros puedes iniciar sesion desde la seccion de `ayuda > 
 
 ---
 
-> **¿Tienes una petición o duda durante el tutorial?**       
-> *Hazlo desde* [🚀Discord](https://discord.gg/hVKeY3uEru) 
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::
