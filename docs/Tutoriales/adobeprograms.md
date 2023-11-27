@@ -119,7 +119,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 ::: details 🟥 Acrobar Reader
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
-- [CC 2023](https://appnee.com/adobe-acrobat-pro-dc-portable-full-versions-aio/#more-4227)
+- [CC 2023](https://www.mediafire.com/file/tfogsmbw95lf661/WIN_AADC_V2023.003.20244_AP_ZNT.rar/file)
 :::
 ::: details 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
