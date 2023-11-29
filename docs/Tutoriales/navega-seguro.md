@@ -84,7 +84,7 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 ::: danger Tutorial de DNS
 
-<a href="tutoriales/Adguard">
+<a href="/Adguard">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Guia para DNS</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
