@@ -126,6 +126,7 @@ Puedes seleccionar:
 
 4. Eso es todo. Con eso tendras spotify premium.
 
+> Nota: Si tienes problemas al instalar usa el "mirror link" que sale en las descargas.
 
 ---
 
