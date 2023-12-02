@@ -368,7 +368,8 @@ Sigue los pasos del instalador y luego de eso ya todo deberia funcionar. Tardar√
 
 - [PlayStation 3 ](https://vimm.net/vault/84640) *En espa√±ol*
 - [Xbox 360](https://vimm.net/vault/78936) *ES*
-::
+
+:::
 
 ---
 
