@@ -408,8 +408,8 @@ Actualizado a la versión 1.51. e incluye: Call of Duty + Call of Duty: United O
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -427,8 +427,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -447,8 +447,8 @@ Esta en si version 1.7
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -465,8 +465,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -483,8 +483,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -501,8 +501,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -526,8 +526,8 @@ Incluye:
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -547,8 +547,8 @@ Incluye
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
@@ -565,8 +565,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de PROPHET en la raiz del juego instalado.
 - Listo.
@@ -584,8 +584,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de PROPHET en la raiz del juego instalado.
 - Listo.
@@ -603,8 +603,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de CODEX en la raiz del juego instalado.
 - Listo.
@@ -628,8 +628,8 @@ Contiene:
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de en la raiz del juego instalado.
 - Listo.
@@ -656,8 +656,8 @@ Contiene:
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de en la raiz del juego instalado.
 - Listo.
@@ -684,8 +684,8 @@ Contiene:
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) y yo recomiendo [FDM](https://www.freedownloadmanager.org/es/) o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de en la raiz del juego instalado.
 - Listo.
@@ -705,8 +705,8 @@ Contraseña del rar: www.ovagames.com
 Contraseña del rar: www.ovagames.com
 
 ::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
+- Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Listo.
 
