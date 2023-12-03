@@ -391,9 +391,9 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 - [Wii](https://vimm.net/vault/?p=list&system=Wii&q=call+of+duty)
 - [Nintendo DS](https://vimm.net/vault/?p=list&system=DS&q=call+of+duty)
 - [PSP](https://vimm.net/vault/?p=list&system=PSP&q=call+of+duty)
-- JAVA: [Modern Warfare](https://phoneky.com/games/?id=j4j37979) [COD2](https://phoneky.com/games/?id=j3j273) [World at War](https://phoneky.com/games/?id=j4j139475) [Force Recon](https://phoneky.com/games/?id=j4j146843)
+- JAVA: [Modern Warfare](https://phoneky.com/games/?id=j4j37979) - [COD2](https://phoneky.com/games/?id=j3j273) - [World at War](https://phoneky.com/games/?id=j4j139475) - [Force Recon](https://phoneky.com/games/?id=j4j146843)
 - [iOS](https://appdb.to/search?query=call%20of%20duty)
-- Android: [Black Ops Zombies](https://an1.com/2842-call-of-duty-black-ops-zombies-mod.html) [Global Ops](https://androeed.es/files/call-of-duty-global-operations.html)
+- Android: [Black Ops Zombies](https://an1.com/2842-call-of-duty-black-ops-zombies-mod.html) - [Global Ops](https://androeed.es/files/call-of-duty-global-operations.html)
 
 :::
 
