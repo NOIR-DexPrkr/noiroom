@@ -30,7 +30,7 @@ export default defineConfig({
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
       { text: 'Index NR', link: '/noirdex', activeMatch: '/noirdex'},
-      { text: 'Actualizado 20/11/2023', link: '/', activeMatch: '/d'}
+      { text: 'Actualizado 02/12/2023', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
