@@ -486,6 +486,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
+- Copia los archivos del Prophet en la raíz del juego.
 - Listo.
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
