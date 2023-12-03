@@ -381,7 +381,7 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 
 > Algunos titulos estan en consola y no en PC. O viceversa.
 
-::: details Coleccion para otras plataformas
+::: warning **🕹 Colección para otras plataformas**
 
 - [PS2](https://vimm.net/vault/?p=list&system=PS2&q=call+of+duty)
 - [GameCube](https://vimm.net/vault/?p=list&system=GameCube&q=call+of+duty)
@@ -394,6 +394,7 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 - JAVA: [Modern Warfare](https://phoneky.com/games/?id=j4j37979) [COD2](https://phoneky.com/games/?id=j3j273) [World at War](https://phoneky.com/games/?id=j4j139475) [Force Recon](https://phoneky.com/games/?id=j4j146843)
 - [iOS](https://appdb.to/search?query=call%20of%20duty)
 - Android: [Black Ops Zombies](https://an1.com/2842-call-of-duty-black-ops-zombies-mod.html) [Global Ops](https://androeed.es/files/call-of-duty-global-operations.html)
+
 :::
 
 ### Call of Duty Deluxe (2003-2004)
