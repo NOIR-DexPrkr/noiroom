@@ -43,7 +43,7 @@ Descarga sus versiones a continuación:
 
 ---
 
-### ![](https://i.postimg.cc/fbjVCJL2/sims.png) Sims 1
+### 💎 Los Sims 1   
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.myabandonware.com/game/the-sims-deluxe-edition-bfb#download)
 
@@ -72,7 +72,7 @@ Descarga sus versiones a continuación:
 4. Eso seria todo, disfruta del juego.
 :::
 
-### ![](https://i.postimg.cc/fbjVCJL2/sims.png) Sims 2
+### 💎 Los Sims 2 
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://txtlink.cybar.xyz/views/XNw95kAyeA)
 
@@ -122,7 +122,7 @@ y reemplaza el archivo con el mismo nombre.
 
 :::
 
-### ![](https://i.postimg.cc/fbjVCJL2/sims.png) Sims 3 
+### 💎 Los Sims 3 
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:135BAAE99B969B53D2022BF642FAA24FE487F99C&dn=The+Sims+3%3A+Complete+Edition+%28v1.67.2.024037+%2B+All+Add-ons+%26amp%3B+Content+Store+Items%2C+MULTi21%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+10.8+GB%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fshadowshq.yi.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)   
 
@@ -141,7 +141,7 @@ y reemplaza el archivo con el mismo nombre.
 
 :::
 
-### ![](https://i.postimg.cc/fbjVCJL2/sims.png) Sims 4
+### 💎 Los Sims 4
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:B4EA31FD376F928C4E33C74CC657C4C701D6A7EC&dn=The+Sims+4%3A+Deluxe+Edition+%28v1.98.127.1030+%2B+All+DLCs+%26amp%3B+Add-ons%2C+MULTi18%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)           
 *Recuerda darle a aceptar en el mensaje que te pide para que sea el programa predeterminado.*
@@ -171,14 +171,14 @@ y reemplaza el archivo con el mismo nombre.
 *Te ayuda a bajar mas rapido y en caso de ser un archivo .torrent te permitira abrirlo. Para ello necesitas aceptar el dialogo en la app para hacerla el descargador por defecto.*
 :::
 
-#### **Mega colección de versiones originales**
+#### **⚔ Mega colección de versiones originales**
 
 > **Age of empires - Coleccion 1, 2, 3**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/aoe-pc-redump/aoe-pc-redump_archive.torrent)      *Este pack contiene todas las versiones originales (no contiene definitive edition) que salieron, de la 1 a la 3, con todas sus expanciones, en todos los idiomas disponibles. Tiene un peso de 74GB y es un Torrent.*        
 
 Versiones originales y definitivas de manera individual a continuación.
 
-### Age of Empires I
+### ⚔ Age of Empires I
 
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/aoe_20200925/aoe_20200925_archive.torrent)    
@@ -192,7 +192,7 @@ Versiones originales y definitivas de manera individual a continuación.
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:1A7895BE3132EF98B2DEFF62FB3541A82A46097F&dn=Age+of+Empires%3A+Definitive+Edition+%28Build+46777%2FSteam%2C+MULTi14%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+6.1+GB%5D&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
 *Descarga con FDM.*
 
-### Age of Empires II
+### ⚔ Age of Empires II
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:0C0E48A19C58A9E641922A1B48EF8F1E44439CF8&dn=Age+of+Empires+II+HD+v5.8&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2800%2Fannounce&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=http%3A%2F%2Fsukebei.tracker.wf%3A8888%2Fannounce&tr=http%3A%2F%2Fanidex.moe%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
 *Descarga con FDM. Ejecutar como admin para evitar problemas de compatibilidad.*
@@ -202,7 +202,7 @@ Versiones originales y definitivas de manera individual a continuación.
 *Descarga con FDM.*
 
 
-### Age of Empires III
+### ⚔ Age of Empires III
 
 [!button variant="contrast" target="blank" size="xs" text="⚔ Descarga Age of Empires III"](https://www.filecrypt.cc/Container/F5C6B75531.html)      
 *Archivo en dos partes. Contraseña de descarga: 221 - Contraseña de rar: `www.ovagames.com`.      
@@ -213,7 +213,7 @@ Versiones originales y definitivas de manera individual a continuación.
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:982A3B3FDD2D946B1983F35B169AF6ABCFFA8C16&dn=Age+of+Empires+III%3A+Definitive+Edition+%28v100.13.9057.0+%2B+4+DLCs%2C+MULTi13%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+22.8+GB%5D&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)      
 *Descarga con FDM. En caso de tener errores usa descarga [el siguiente instalador](https://pastefg.hermietkreeft.site/?4e50b598ac715309#77Cg5bgviK1sAuQ3hiZHG9iYTugbZF2SAWPRwTZpkB8A), y reemplazalo por el que trae el juego. Para descargar el instalador espera que cargue el boton azul abajo.*
 
-### Age of Empires IV    
+### ⚔ Age of Empires IV    
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:A8D3585F42B31E62501A029B6D46A5ABAC9A5078&dn=Age+of+Empires+IV+%28v5.0.7274.0%2FSteam+%2B+2+DLCs%2C+MULTi14%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+14.6+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)        
 *Descarga con FDM. Solo valido para Windows 10 y 11.*      
@@ -238,7 +238,7 @@ Versiones originales y definitivas de manera individual a continuación.
 
 Esta serie de juegos de mundo abierto te permite controlar a un personaje en un inmenso mapa con muchas posibilidades, aqui puedes conducir vehículos, robar, luchar y realizar misiones. Entre muchas otras cosas.
 
-### GTA I
+### 🚗 GTA I
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://pixeldrain.com/u/5FVutmUE)
 
@@ -257,7 +257,7 @@ Para iniciar Grand Theft Auto en las últimas versiones de Windows, ejecútalo e
 - [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
 :::
 
-### GTA II
+### 🚗 GTA II
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://pixeldrain.com/u/5FVutmUE)        
 [*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml)
@@ -288,7 +288,7 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 - [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
 :::
 
-### GTA III 
+### 🚗 GTA III 
 
 **Version 10 años HD**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://0hktc-my.sharepoint.com/personal/s2-dodi_onedrive-a2_cybar_xyz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs2-dodi_onedrive-a2_cybar_xyz%2FDocuments%2FDODI12%2FGrand%20Theft%20Auto%20III%20-%20%5BDODI%20Repack%5D&ga=1)      
@@ -303,7 +303,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 [*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 :::
 
-### GTA: Vice City
+### 🚗 GTA: Vice City
 
 **Version 10 años HD**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://doodrive.com/f/2j0g33)     
@@ -322,7 +322,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
     - [*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 :::
 
-### GTA: San Andreas
+### 🚗 GTA: San Andreas
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.mediafire.com/file/coz4jbfiio23jox/147886-TAGSAN.rar/file)      
 *Contraseña: 'www.ovagames.com'*
@@ -340,7 +340,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 [*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
 :::
 
-### GTA IV
+### 🚗 GTA IV
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:937CEF5D447A785CC8B659134A9D3EFD271706CA&dn=Grand+Theft+Auto+IV%3A+The+Complete+Edition+%28v1.2.0.43+%2B+Radio+Downgrader+%2B+Vanilla+Fixes+Modpack+v1.6.2+%2B+Wrappers%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+13.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
 
@@ -355,7 +355,7 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 
 :::
 
-### GTA V
+### 🚗 GTA V
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:E07F5E60A64C96334D4D29339E37A4CDEC8D8E0C&dn=Grand+Theft+Auto+V+%2F+GTA++5+%28v1.0.2802%2F1.64+Online%2C+MULTi13%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)
 
@@ -397,7 +397,7 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 
 :::
 
-### Call of Duty Deluxe (2003-2004)
+### 💀 Call of Duty Deluxe (2003-2004)
 
 Actualizado a la versión 1.51. e incluye: Call of Duty + Call of Duty: United Offensive.
 
@@ -417,7 +417,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### Call Of duty 2 (2005)
+### 💀 Call Of duty 2 (2005)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/1CB508BF4A.html)
 
@@ -436,7 +436,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### Call of Duty 4 - Modern Warfare (2007)
+### 💀 Call of Duty 4 - Modern Warfare (2007)
 
 Esta en si version 1.7
 
@@ -456,7 +456,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - World at War (2008)
+### 💀 COD - World at War (2008)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/67F16629EC.html)
 *En caso que pida contraseña el link: es 221*
@@ -474,7 +474,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Modern Warfare 2 (2009)
+### 💀 COD - Modern Warfare 2 (2009)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/A4C7D30C62.html)
 *En caso que pida contraseña el link: es 655*
@@ -492,7 +492,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Black Ops (2010)
+### 💀 COD - Black Ops (2010)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/71CF34F01F.html)
 *En caso que pida contraseña el link: es 221*
@@ -510,7 +510,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Modern Warfare 3 (2011)
+### 💀 COD - Modern Warfare 3 (2011)
 
 Incluye:
 - Call of Duty: Modern Warfare 3 (Base Game)
@@ -535,7 +535,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Black Ops 2 (2012)
+### 💀 COD - Black Ops 2 (2012)
 Incluye
 - Call of Duty: Black Ops II (Base Game)
 - Call of Duty: Black Ops II – Soundtrack (DLC)
@@ -556,7 +556,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Ghosts (2013)
+### 💀 COD - Ghosts (2013)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/CBCD0CDC60.html)
 *En caso que pida contraseña el link: es 626*
@@ -575,7 +575,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Advance Warfare (2014)
+### 💀 COD - Advance Warfare (2014)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/2BB73E947E.html)
 *En caso que pida contraseña el link: es 711*
@@ -594,7 +594,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Modern Warfare Remastered (2016)
+### 💀 COD - Modern Warfare Remastered (2016)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/CBE7194A95.html)
 *En caso que pida contraseña el link: es 734*
@@ -613,7 +613,32 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Black Ops 3 (2017)
+### 💀 COD - Infinite Warfare (2016)
+
+Contiene:
+- Call of Duty: Infinite Warfare (Base Game)
+- Call of Duty: Infinite Warfare – Terminal Bonus Map (DLC)
+- Call of Duty: Infinite Warfare – Zombies in Spaceland Pack (DLC)
+- Call of Duty: Infinite Warfare – Digital Deluxe (DLC)
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0D27D8D112.html)
+- [Actualizacion](https://www.filecrypt.cc/Container/56B69CA43E.html)
+*En caso que pidan contraseña los link: es 689*
+*Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-infinite-warfare-digital-deluxe-multi9-elamigos.html).
+
+Contraseña del rar: www.ovagames.com
+
+::: details Instrucciones
+- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
+- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
+- Instala usando el setup.exe
+- Copia el crack de en la raiz del juego instalado.
+- Listo.
+
+> Si tienes problemas con la instalacion, solo se da soporte por discord.
+
+:::
+
+### 💀 COD - Black Ops 3 (2017)
 
 Contiene:
 - Call of Duty: Black Ops III (Base Game)
@@ -641,32 +666,7 @@ Contraseña del rar: www.ovagames.com
 
 :::
 
-### COD - Infinite Warfare (2016)
-
-Contiene:
-- Call of Duty: Infinite Warfare (Base Game)
-- Call of Duty: Infinite Warfare – Terminal Bonus Map (DLC)
-- Call of Duty: Infinite Warfare – Zombies in Spaceland Pack (DLC)
-- Call of Duty: Infinite Warfare – Digital Deluxe (DLC)
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0D27D8D112.html)
-- [Actualizacion](https://www.filecrypt.cc/Container/56B69CA43E.html)
-*En caso que pidan contraseña los link: es 689*
-*Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-infinite-warfare-digital-deluxe-multi9-elamigos.html).
-
-Contraseña del rar: www.ovagames.com
-
-::: details Instrucciones
-- Descarga usando un gestor de descargas, recomiendo [FDM](https://www.freedownloadmanager.org/es/)
-- Monta el iso con windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
-- Instala usando el setup.exe
-- Copia el crack de en la raiz del juego instalado.
-- Listo.
-
-> Si tienes problemas con la instalacion, solo se da soporte por discord.
-
-:::
-
-### COD - World War 2 (2017)
+### 💀 COD - World War 2 (2017)
 
 Contiene:
 - Call of Duty: WWII (Base Game)
@@ -696,7 +696,7 @@ Contraseña del rar: www.ovagames.com
 
 
 
-### COD - Black Ops Cold War (2023)
+### 💀 COD - Black Ops Cold War (2023)
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/EE16DA13AF.html)
 *En caso que pidan contraseña los link: es 776*
