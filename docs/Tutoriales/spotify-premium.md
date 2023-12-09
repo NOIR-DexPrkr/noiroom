@@ -27,36 +27,40 @@ Para conseguir la aplicacion con funciones premium en escritorio debemos seguir 
 
 **Ahora, tienes dos opciones para el premium**
 
-::: info 1. SpotX - Activa las funciones premium
+::: danger 1. SpotX - Activa las funciones premium
 
 #### Windows
 
-Descargamos el Script para desbloquear las funciones premium y la nueva interfaz. 
+Pegamos el siguiente Script en powershell y damos enter para desbloquear las funciones premium y la nueva interfaz. 
 
-<a href="https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Script</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+```
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+```
 
-5. Ejecuta el script como administrador y listo, eso es todo. Ya puedes abrir spotify y estara premium.       
+5. Se abrira una ventana de comandos y realizara el parche y listo, eso es todo. Ya puedes abrir spotify y estará premium.       
 
-> Si quieres desinstalar el mod usa [el desisntalador](https://raw.githack.com/amd64fox/SpotX/main/Uninstall.bat)
 
 ::: details **👉 Para Mac y linux**
 
-1. Abre la terminar y ejecuta el siguiente comando:
+**MAC**
+*Abre la terminar y ejecuta el siguiente comando en tu Mac:*
 ```
-bash <(curl -sSL https://gist.github.com/jetfir3/e8830cf8deba6a4f15eec094d344f7b1/raw/spotx.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Mac/main/install.sh)"
 ```
+
+**LINUX**
+*Abre la terminal y ejecuta el siguiente comando en linux:*
+```
+bash <(curl -sSL https://raw.githubusercontent.com/SpotX-CLI/SpotX-Linux/main/install.sh)" 
+```
+
 :::
 
 ::: tip 2. Spicetify - Premium, temas y mas.
 
 1. Ejecuta lo siguiente desde la terminal de tu equipo (powershell & Terminal en MAC & Linux)
 
-::: details Windows
+::: warning Windows
 
 ```
 iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
@@ -66,23 +70,23 @@ iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/insta
 ``` 
 iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
 ```
-:::
-::: tip ㅤ 
-::: details Mac &Linux
 
+::: details 👉 Para Mac & Linux
 
+**MAC**
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
 ```
 
 ---
 
+**LINUX**
 ```
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
 ```
-:::
 
-::: tip ㅤ
+:::
+::: tip **Pasos siguientes**ㅤ
 
 2. Eso es todo, en caso que nada cambie, intenta escribiendo `spicetify apply` en la terminal y dando enter.
 
