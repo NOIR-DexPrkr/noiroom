@@ -314,6 +314,11 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 **Version Stories usando emulador PS2 - Win10**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/grandtheftautovicecitystorieswindows10compatible/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20Installer.exe) *Al abrir escoge la opcion de mantener la configuracion de PS2X y luego configura los controles.*
 
+**Version Liberty City Stories**
+Version android:
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.apk) [OBB Aqui](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.zip)
+
+
 ::: info **Otras plataformas:**
  
 - [PlayStation 2 ](https://vimm.net/vault/66931) *En español* [Version Stories](https://vimm.net/vault/66680)
