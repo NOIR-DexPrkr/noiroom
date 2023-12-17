@@ -34,11 +34,12 @@ Para conseguir la aplicacion con funciones premium en escritorio debemos seguir 
 Pegamos el siguiente Script en powershell y damos enter para desbloquear las funciones premium y la nueva interfaz. 
 
 ```
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iex "& { $((iwr -useb 'https://raw.githubusercontent.com/amd64fox/SpotX/main/Install.ps1').Content) } -new_theme"
+[Net.ServicePointManager]::SecurityProtocol = 3072; iex "& { $(iwr -useb 'https://spotx-official.github.io/run.ps1') } -confirm_uninstall_ms_spoti -confirm_spoti_recomended_over -podcasts_off -block_update_on -start_spoti -new_theme -adsections_off -lyrics_stat spotify"
 ```
 
 5. Se abrira una ventana de comandos y realizara el parche y listo, eso es todo. Ya puedes abrir spotify y estará premium.       
 
+*Si tienes errores usa este [.bat](https://raw.githack.com/amd64fox/SpotX/main/scripts/Install_Auto.bat) y luego reporta el error del codigo en mi discord.*
 
 ::: details **👉 Para Mac y linux**
 
