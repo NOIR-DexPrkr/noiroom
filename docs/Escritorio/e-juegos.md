@@ -687,7 +687,7 @@ Contiene:
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/1C399ED559.html)
 - [Actualizacion de idioma](https://www.filecrypt.cc/Container/6768E65001.html)
 *En caso que pidan contraseña los link: es 488*
-*Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-infinite-warfare-digital-deluxe-multi9-elamigos.html).
+*Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-wwii-shadow-war-codex.html).
 
 Contraseña del rar: www.ovagames.com
 
@@ -695,6 +695,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) y yo recomiendo [FDM](https://www.freedownloadmanager.org/es/) o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
+- Copia el crack de la carpeta CODEX en la raíz del juego.
 - Listo.
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
