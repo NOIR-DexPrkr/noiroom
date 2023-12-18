@@ -216,3 +216,9 @@ code.name.monkey.retromusic | Paranoid Android
 :::
 
 4. Eso seria todo, ahora tu telefono ya no tendra esas aplicaciones basura. Disfruta.
+
+---
+
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+:::
