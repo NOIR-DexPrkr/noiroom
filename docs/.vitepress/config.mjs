@@ -63,8 +63,8 @@ export default defineConfig({
           { text: '🕸 Neo Store', link: '/Tutoriales/neostore' },
           { text: '🕸 Spotify PC & Movil', link: '/Tutoriales/spotify-premium' },
           { text: '🕸 Stremio', link: '/Tutoriales/stremio' },
-          { text: '🕸 Windows & Office', link: '/Tutoriales/Win-O365' }
-          { text: '🕸 Xiaomi-debloat', link: '/Tutoriales/xiaomi-fast' },
+          { text: '🕸 Windows & Office', link: '/Tutoriales/Win-O365' },
+          { text: '🕸 Xiaomi-debloat', link: '/Tutoriales/xiaomi-fast' }
           ]
         }
       ],
