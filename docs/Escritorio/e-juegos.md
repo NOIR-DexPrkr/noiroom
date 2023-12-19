@@ -204,7 +204,7 @@ Versiones originales y definitivas de manera individual a continuación.
 
 ### ⚔ Age of Empires III
 
-[!button variant="contrast" target="blank" size="xs" text="⚔ Descarga Age of Empires III"](https://www.filecrypt.cc/Container/F5C6B75531.html)      
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/F5C6B75531.html)      
 *Archivo en dos partes. Contraseña de descarga: 221 - Contraseña de rar: `www.ovagames.com`.      
 *Para crackear pegar los archivos de PROPHET dir en `\bin\ folder`
 
@@ -288,7 +288,7 @@ Esta serie de juegos de mundo abierto te permite controlar a un personaje en un 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://pixeldrain.com/u/5FVutmUE)
 
 *Esta version esta lista para jugar en cualquier version de Windows. Descarga, descomprime y juega.*      
-[*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml) 
+[*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml)    
 *Este si es instalable. ver guia del GTA II*
 
 ::: details **Leer si usas el instalable**
@@ -382,7 +382,8 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 
 > Algunos titulos estan en consola y no en PC. O viceversa.
 
-::: warning **🕹 Colección para otras plataformas**
+::: warning **🕹 COD - Consolas**
+::: details Todas las versiones disponibles:
 
 - [PS2](https://vimm.net/vault/?p=list&system=PS2&q=call+of+duty)
 - [GameCube](https://vimm.net/vault/?p=list&system=GameCube&q=call+of+duty)
@@ -392,6 +393,10 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 - [Wii](https://vimm.net/vault/?p=list&system=Wii&q=call+of+duty)
 - [Nintendo DS](https://vimm.net/vault/?p=list&system=DS&q=call+of+duty)
 - [PSP](https://vimm.net/vault/?p=list&system=PSP&q=call+of+duty)
+:::
+
+::: danger 📱 **COD - Moviles**
+::: details Todas las versiones diponibles:
 - JAVA: [Modern Warfare](https://phoneky.com/games/?id=j4j37979) - [COD2](https://phoneky.com/games/?id=j3j273) - [World at War](https://phoneky.com/games/?id=j4j139475) - [Force Recon](https://phoneky.com/games/?id=j4j146843)
 - [iOS](https://appdb.to/search?query=call%20of%20duty)
 - Android: [Black Ops Zombies](https://an1.com/2842-call-of-duty-black-ops-zombies-mod.html) - [Global Ops](https://androeed.es/files/call-of-duty-global-operations.html)
@@ -515,12 +520,13 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Modern Warfare 3 (2011)
 
-Incluye:
+::: details Incluye:
 - Call of Duty: Modern Warfare 3 (Base Game)
 - Call of Duty: Modern Warfare 3 Collection 1 (DLC)
 - Call of Duty: Modern Warfare 3 Collection 2 (DLC)
 - Call of Duty: Modern Warfare 3 Collection 3: Chaos Pack (DLC)
 - Call of Duty: Modern Warfare 3 Collection 4: Final Assault (DLC)
+:::
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0F82699A9B.html)
 *En caso que pida contraseña el link: es 885*
@@ -540,9 +546,10 @@ Contraseña del rar: www.ovagames.com
 :::
 
 ### 💀 COD - Black Ops 2 (2012)
-Incluye
+::: details Incluye:
 - Call of Duty: Black Ops II (Base Game)
 - Call of Duty: Black Ops II – Soundtrack (DLC)
+:::
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/14EC4B25E2.html)
 *En caso que pida contraseña el link: es 323*
@@ -620,11 +627,13 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Infinite Warfare (2016)
 
-Contiene:
+::: details Incluye:
 - Call of Duty: Infinite Warfare (Base Game)
 - Call of Duty: Infinite Warfare – Terminal Bonus Map (DLC)
 - Call of Duty: Infinite Warfare – Zombies in Spaceland Pack (DLC)
 - Call of Duty: Infinite Warfare – Digital Deluxe (DLC)
+:::
+
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0D27D8D112.html)
 - [Actualizacion](https://www.filecrypt.cc/Container/56B69CA43E.html)
 *En caso que pidan contraseña los link: es 689*
@@ -644,7 +653,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Black Ops 3 (2017)
 
-Contiene:
+::: details Incluye:
 - Call of Duty: Black Ops III (Base Game)
 - Call of Duty: Black Ops III – Awakening (DLC)
 - Call of Duty: Black Ops III – Eclipse (DLC)
@@ -652,6 +661,7 @@ Contiene:
 - Call of Duty: Black Ops III – Salvation (DLC)
 - Call of Duty: Black Ops III – The Giant Zombies Map (DLC)
 - Call of Duty: Black Ops III – Zombies Chronicles (DLC)
+:::
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/621C745DB9.html)
 *En caso que pida contraseña el link: es 852*
@@ -672,13 +682,14 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - World War 2 (2017)
 
-Contiene:
+::: details Incluye:
 - Call of Duty: WWII (Base Game)
 - Call of Duty: WWII – The Resistance: DLC Pack 1 (DLC)
 - Call of Duty: WWII – The War Machine: DLC Pack 2 (DLC)
 - Call of Duty: WWII – United Front: DLC Pack 3 (DLC)
 - Call of Duty: WWII – Shadow War: DLC Pack 4 (DLC)
 - Call of Duty: WWII – Carentan Map (DLC)
+:::
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/1C399ED559.html)
 - [Actualizacion de idioma](https://www.filecrypt.cc/Container/6768E65001.html)
