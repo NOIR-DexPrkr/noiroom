@@ -237,6 +237,51 @@ Versiones originales y definitivas de manera individual a continuación.
 ![](https://gladiatorpc.co.uk/assets/img/configurator/12GameBanner.webp)
 
 Esta serie de juegos de mundo abierto te permite controlar a un personaje en un inmenso mapa con muchas posibilidades, aqui puedes conducir vehículos, robar, luchar y realizar misiones. Entre muchas otras cosas.
+::: info 🕹 **GTA: Consolas** -------
+::: details Todas las versiones disponibles:
+- [Play station 1](https://vimm.net/vault/?p=list&system=PS1&q=grand+theft+auto)
+- [Play station 2](https://vimm.net/vault/?p=list&system=PS2&q=grand+theft+auto)
+- [Play station 3](https://vimm.net/vault/?p=list&system=PS3&q=grand+theft+auto)
+- [Play station portable](https://vimm.net/vault/?p=list&system=PSP&q=grand+theft+auto)
+- [Xbox](https://vimm.net/vault/?p=list&system=Xbox&q=grand+theft+auto)
+- [Xbox 360](https://vimm.net/vault/?p=list&system=Xbox360&q=grand+theft+auto)
+- [Nintendo DS](https://vimm.net/vault/?p=list&system=DS&q=grand+theft+auto)
+:::
+
+::: danger 📱 **GTA: Android** -------
+::: details Todas las versiones disponibles:
+
+- [GTA III](https://modyolo.com/grand-theft-auto-iii.html) / [Version Definitiva mod](https://liteapks.com/grand-theft-auto-iii.html)
+
+- [GTA Liberty City Stories](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.apk) + [OBB](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.zip) / [Version definitiva mod](https://liteapks.com/gta-liberty-city-stories.html)
+
+- [GTA Vice City (apk + obb)](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z) / [Version definitiva mod](https://liteapks.com/grand-theft-auto-vice-city.html)
+
+- [GTA San Andreas](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.10-free-www.apkshub.com.apk) + [Obb](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip) / [Version definitiva mod](https://liteapks.com/grand-theft-auto-san-andreas.html) 
+    - [Alternativa 2](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*    
+
+- [GTA ChinaTown Wars](https://liteapks.com/gta-chinatown-wars.html)  
+
+**Versiones NETFLIX**
+> Pasos importantes:
+> Ir a la play store primero y busca el juego que quieres *(sin esto, no podrás continuar, si te sale incompatible o no aparece, no podrás jugar)*
+> Dar en descargar al menos 5mb y cancelas la descarga (no instales)
+> Descargar la versión del QR y esperar que se bajen los datos del juego.
+*(gta3 no necesita descargar los datos luego de instalar)*
+
+- [GTA III - Netflix](https://liteapks.com/gta-iii-netflix.html)
+- [GTA Vice City - Netflix](https://liteapks.com/gta-vice-city-netflix.html)
+- [GTA SA - Netflix](https://liteapks.com/gta-san-andreas-netflix.html)
+
+:::
+
+::: warning ☕ **GTA: Java** -------
+::: details Versiones disponibles:
+- [GTA I](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
+- [GTA II](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
+
+:::
+
 
 ### 🚗 GTA I
 
@@ -248,13 +293,6 @@ Esta serie de juegos de mundo abierto te permite controlar a un personaje en un 
 
 ::: details **Leer si usas el instalable**
 Para iniciar Grand Theft Auto en las últimas versiones de Windows, ejecútalo en el modo de resolución de pantalla 640x480 (haz clic con el botón derecho en Grand Theft Auto.exe > pestaña Compatibilidad > marca "Ejecutar en resolución de pantalla 640x480" > Aplicar > Aceptar).
-:::
-
-::: info **Otras plataformas:**
-
-- [PlayStation 1 + jugar online](https://vimm.net/vault/51094) *Solo en ingles*
-- [PlayStation 2 + jugar online](https://vimm.net/vault/51094) *En español*
-- [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
 :::
 
 ### 🚗 GTA II
@@ -282,26 +320,12 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 
 :::
 
-::: info **Otras plataformas:**
-
-- [PlayStation 1](https://vimm.net/vault/6538) *Solo en ingles*
-- [Version java - Movil](https://www.java-ware.net/apps/download-grand-theft-auto-for-java-329760.html)
-:::
-
 ### 🚗 GTA III 
 
 **Version 10 años HD**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://0hktc-my.sharepoint.com/personal/s2-dodi_onedrive-a2_cybar_xyz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs2-dodi_onedrive-a2_cybar_xyz%2FDocuments%2FDODI12%2FGrand%20Theft%20Auto%20III%20-%20%5BDODI%20Repack%5D&ga=1)      
 
 Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
-
-::: info **Otras plataformas:**
- 
-- [PlayStation 2 ](https://vimm.net/vault/66471) *En español*
-- [Xbox ](https://vimm.net/vault/26251) *En español*
-- [Version android - Movil](https://modyolo.com/grand-theft-auto-iii.html)    
-[*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
-:::
 
 ### 🚗 GTA: Vice City
 
@@ -314,17 +338,12 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 **Version Stories usando emulador PS2 - Win10**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/grandtheftautovicecitystorieswindows10compatible/Grand%20Theft%20Auto%20-%20Vice%20City%20Stories%20Installer.exe) *Al abrir escoge la opcion de mantener la configuracion de PS2X y luego configura los controles.*
 
-**Version Liberty City Stories**
-Version android:
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.apk) [OBB Aqui](https://archive.org/download/gta-liberty-city-stories-2.4/GTA_Liberty_City_Stories_2.4.zip)
 
+### 🚗 GTA: Liberty City Stories
 
-::: info **Otras plataformas:**
- 
-- [PlayStation 2 ](https://vimm.net/vault/66931) *En español* [Version Stories](https://vimm.net/vault/66680)
-- [Xbox ](https://vimm.net/vault/26379) *En español*
-- [Version android - Movil](https://archive.org/download/gta-vice-city.-7z/gta%20vice%20city.7z)     
-    - [*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://doodrive.com/f/z6g7yy)
+::: warning Importante
+Importante antes de ejecutar el juego darle click derecho y en la pestaña compatibilidad, ahi selecciona "cambiar configuracion elevada de PPP" y luego en invalidar....
 :::
 
 ### 🚗 GTA: San Andreas
@@ -334,17 +353,6 @@ Version android:
 
 [*Pagina con la contraseña e info en caso que cambie.*](https://www.ovagames.com/grand-theft-auto-san-andreas-multi10-elamigos.html)
 
-::: info **Otras plataformas:**
-
-- [Play Station 2](https://vimm.net/vault/66562) *En español*
-- [PlayStation 3 ](https://vimm.net/vault/25035) *En español*
-- [Xbox ](https://vimm.net/vault/26390) *En español*
-- [Xbox 360](https://vimm.net/vault/79450) *ES*
-- [Version android - OBB](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.00-obb-www.apkshub.com.zip) [APK](https://archive.org/download/gtasa210apk/com.rockstargames.gtasa-2.10-free-www.apkshub.com.apk)        
-    - [Version MOD](https://modyolo.com/gta-san-andreas.html) *Incluye mods cleo.*      
-[*tutorial*](https://youtu.be/4ZQRGo3pz7Y)
-:::
-
 ### 🚗 GTA IV
 
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:937CEF5D447A785CC8B659134A9D3EFD271706CA&dn=Grand+Theft+Auto+IV%3A+The+Complete+Edition+%28v1.2.0.43+%2B+Radio+Downgrader+%2B+Vanilla+Fixes+Modpack+v1.6.2+%2B+Wrappers%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+13.2+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
@@ -353,12 +361,6 @@ Version android:
 
 *Sigue los pasos del instalador en el que te pedira si deseas instalar algunos mods y fixes... luego de eso ya todo deberia funcionar. Tardará un poco la instalacion pues es un repack comprimido.*
 
-::: info **Otras plataformas:**
-
-- [PlayStation 3 ](https://vimm.net/vault/84389) *En español*
-- [Xbox 360](https://vimm.net/vault/78224) *ES*
-
-:::
 
 ### 🚗 GTA V
 
@@ -369,12 +371,6 @@ Version android:
 
 Sigue los pasos del instalador y luego de eso ya todo deberia funcionar. Tardará un poco la instalacion pues es un repack comprimido.
 
-::: info **Otras plataformas:**
-
-- [PlayStation 3 ](https://vimm.net/vault/84640) *En español*
-- [Xbox 360](https://vimm.net/vault/78936) *ES*
-
-:::
 
 ---
 
