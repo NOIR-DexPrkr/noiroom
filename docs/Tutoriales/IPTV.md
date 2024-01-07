@@ -22,7 +22,7 @@ La IPTV es la televisión por protocolo de Internet. Esto significa que los usua
  </div>
 </a>   
 
-*Ya no es recomendada, pero es la mas completa. Es un posible Spyware.*
+*Recomendada, anteriormente tenia alertas en virus total, pero al parecer eran falsos positivos. Versiones actuales salen sin problemas.*
 
 ### 2. Usando aplicaciones para reproducir listas M3U
 
