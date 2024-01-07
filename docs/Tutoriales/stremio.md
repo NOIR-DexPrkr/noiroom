@@ -68,7 +68,7 @@ Tambien, puedes obviar lo anterior y copiar este que trae ingles,español, latin
 
 ::: info Copia y pega esto
 
-Lo debes copiar en el boton (+) de torrentio, o en la barra de busqueda en la seccion de extensiones.
+Lo debes pegar en la barra de busqueda en la seccion de extensiones.
 
 ``` 
 https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,rutracker,mejortorrent,cinecalidad|sort=size|language=spanish,latino|qualityfilter=brremux,hdrall,dolbyvision,4k/manifest.json
