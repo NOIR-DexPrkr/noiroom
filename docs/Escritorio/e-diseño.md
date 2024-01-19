@@ -13,7 +13,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ### Editores de imagenes
 
-<a href="https://drive.google.com/file/d/1I1hk13D08wFQv6kIeiRb0vJCLgMzkmHd/view?usp=sharing">
+<a href="https://pixeldrain.com/u/NUfBb7Qk">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PhotoGIMP</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -39,7 +39,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
 
-<a href="https://sanet.st/blogs/samura1-/cyberlink_powerdirector_ultimate_v.4611148.html">
+<a href="https://www.mutaz.pro/free-programs/en/download/?1330">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -47,7 +47,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 </a>
 
 
-<a href="https://sanet.st/blogs/hotsoftwarev2/wondershare_filmora_x_multilingual.4574727.html">
+<a href="https://www.mutaz.pro/free-programs/en/download/?2384">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -61,9 +61,9 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
  </div>
 </a>
 
-<a href="https://sanet.st/blogs/mordigian/techsmith_camtasia_x_multilingual.4610552.html">
+<a href="https://www.mutaz.pro/free-programs/en/download/?254">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio 2023</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>

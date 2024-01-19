@@ -24,7 +24,7 @@ hero:
       link: /I-Artificial/ai-search
   
   image:
-    src: https://i.postimg.cc/KjsdVN8g/Icon-xmas.png
+    src: https://i.postimg.cc/KvLR2ZCm/Icono-3.png
 
 features:
   - title: 📚 Office 365 + Windows
