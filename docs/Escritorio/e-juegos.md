@@ -417,7 +417,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -436,7 +436,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -456,7 +456,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -474,7 +474,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -492,8 +492,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta Prophet en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta Prophet en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -511,8 +511,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontools lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta PLAZA en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta PLAZA en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -538,8 +538,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta PLAZA en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta PLAZA en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -561,8 +561,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta PLAZA en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta PLAZA en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -580,8 +580,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta Prophet en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta Prophet en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -599,8 +599,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta Prophet en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta Prophet en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -618,8 +618,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia los archivos de la carpeta CODEX en la raíz del juego *(para parchar el juego)*.
-- Listo.
+- Copia los archivos de la carpeta CODEX en la ubicación de instalación del juego *(Este es el parche y evita que te salgan errores de "steam is nor running" o similares.)*.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -645,7 +645,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -674,7 +674,7 @@ Contraseña del rar: www.ovagames.com
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
 - Copia el crack de la carpeta de instalacion en la raiz del juego una vez instalado.
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -702,8 +702,8 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) y yo recomiendo [FDM](https://www.freedownloadmanager.org/es/) o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Copia el crack de la carpeta CODEX en la raíz del juego.
-- Listo.
+- Copia el crack de la carpeta CODEX en la ubicación de instalación del juego.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
@@ -723,7 +723,7 @@ Contraseña del rar: www.ovagames.com
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
 - Selecciona todas las partes y dale en extraer, luego monta el archivo .ISO con Windows o usando [daemontool lite](https://www.daemon-tools.cc/spa/products/dtLite).
 - Instala usando el setup.exe
-- Listo.
+- Una vez instalado todo, ya puedes jugar. (Los juegos no pueden jugarse online, pues son piratas)).
 
 > Si tienes problemas con la instalacion, solo se da soporte por discord.
 
