@@ -46,6 +46,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
  </div>
 </a>
 
+---
 
 <a href="https://www.mutaz.pro/free-programs/en/download/?2384">
  <div style="position: relative; padding-top: 1em">
@@ -54,12 +55,16 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
  </div>
 </a>
 
+---
+
 <a href="https://www.blackmagicdesign.com/products/davinciresolve">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Davinci Resolve</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>
+
+---
 
 <a href="https://www.mutaz.pro/free-programs/en/download/?254">
  <div style="position: relative; padding-top: 1em">
@@ -69,7 +74,6 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 </a>
 
 *Aqui descarga el [crack](https://pixeldrain.com/u/JpCH3Pvn)*
-
 
 ---
 
