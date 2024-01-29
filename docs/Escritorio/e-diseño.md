@@ -68,6 +68,9 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
  </div>
 </a>
 
+*Aqui descarga el [crack](https://pixeldrain.com/u/JpCH3Pvn)*
+
+
 ---
 
 ## Versiones android
