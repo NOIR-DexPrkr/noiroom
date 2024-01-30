@@ -48,12 +48,14 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
-<a href="https://www.mutaz.pro/free-programs/en/download/?2384">
+<a href="https://download.wondershare.com/cbs_down/filmora_64bit_12.3.0_gray_full846.exe">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
-</a>
+</a>   
+
+*Aqui descarga el [crack](https://www.upload.ee/files/15180826/fix.7z.html)*
 
 ---
 
