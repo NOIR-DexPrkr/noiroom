@@ -65,13 +65,13 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 ::: details **GenP v3.0** 
   Parche para los programas de adobe que descargues.
   
-[![Descarga aquí](https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file) 
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file) 
 :::
 
 ::: details **CC Patcher**
   Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.
   
-[![Descarga aquí](https://www.mediafire.com/file/0elkgda1qd08px2/CreativeCloudPatcher.zip/file) 
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.mediafire.com/file/0elkgda1qd08px2/CreativeCloudPatcher.zip/file) 
 
 :::
 
