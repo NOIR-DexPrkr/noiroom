@@ -128,7 +128,7 @@ export default defineConfig({
     },
       
     footer: {
-      message: 'Creado con 🤍 por Derk Parker.',
+      message: 'Creado con 🤍 por Dex Parker.',
       copyright: 'Todos los tutoriales aqui presentados son recopilaciones y no estoy relacionado con su origen.'},
 
     socialLinks: [
