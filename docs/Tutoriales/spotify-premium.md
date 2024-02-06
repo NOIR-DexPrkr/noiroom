@@ -102,7 +102,7 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/mai
 
 ## Para Android
 
-Para conseguir la version mas reciente y segura de Spotify mod en android, necesitaremos instalar un Manager. Esta es una aplicacion que permitira instalar una version segura de spotify mod.     
+Para conseguir la version mas reciente y segura de Spotify mod en android, necesitaremos instalar un Manager. Esta es una aplicacion que permitira instalar una version de confianza de spotify mod.     
 
 > Recuerda que estas versiones no permiten las descargas de canciones, el resto de funciones premium estan disponibles.
 
@@ -131,7 +131,8 @@ Puedes seleccionar:
 
 4. Eso es todo. Con eso tendras spotify premium.
 
-> Nota: Si tienes problemas al instalar usa el "mirror link" que sale en las descargas.
+> Nota: Si tienes problemas al instalar usa el "mirror link" que sale en las descargas. 
+> Ademas, si al iniciar el premium no esta activado usa otra version. O fuerza el cierre de la app.
 
 ---
 
