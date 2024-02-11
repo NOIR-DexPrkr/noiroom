@@ -204,15 +204,13 @@ Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts.
 
 ![](https://i.postimg.cc/G3TpBGx6/image-1.png)
 
-### Activa Windows
+### Activa Windows u Office
 
-Solo debes darle a la opcion 1 del Menu, **HWID | Windows**. Y listo.
+Para este paso solo debes presionar el boton de lo que quieras activar.
+1. Windows
+2. Office.
 
-
-### Activa Office
-
-Solo es cuestión de presionar el número 2, **Ohook | Office**. Y listo.   
-Por último, solo deben entrar a cualquier app de office, introducir su correo y listo.
+Por último, en el caso de office solo debes entrar a cualquier app de office, introducir tu correo y listo.
 
 *Tendrán todas las opciones de Office365 activas incluyendo el autoguardado y las opciones administrativas en caso de que descarguen la versión empresa.*
 
