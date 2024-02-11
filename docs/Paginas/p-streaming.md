@@ -8,7 +8,7 @@ Mira Peliculas, series, musica y mas.
 
 ### Para ver gratis
 
-<a href="https://cuevana3.ms/">
+<a href="https://cuevana.si/">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Cuevana 3</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -39,6 +39,28 @@ Mira Peliculas, series, musica y mas.
 
 *Audio en español e ingles con subtitulos*
   
+---
+
+<a href="https://animeflv.io/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AnimeFLV</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Anime en español / subtitulos*
+  
+---
+
+<a href="https://aniwave.to/home/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AniwaveTV</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Anime con audio y subtitulos en ingles*
+
 ---
 
 <a href="https://www17.pelisplushd.lat/pelicula/the-exorcists">
