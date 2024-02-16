@@ -323,8 +323,8 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 ### 🚗 GTA III 
 
 **Version 10 años HD**
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://0hktc-my.sharepoint.com/personal/s2-dodi_onedrive-a2_cybar_xyz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fs2-dodi_onedrive-a2_cybar_xyz%2FDocuments%2FDODI12%2FGrand%20Theft%20Auto%20III%20-%20%5BDODI%20Repack%5D&ga=1)      
-
+[![Descarga aquí](https://pixeldrain.com/u/XTtuevm6)         
+*Descargara un archivo torrent, que recomiendo abrir usando 👉 [FDM](https://www.freedownloadmanager.org/es/).*       
 Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
 
 ### 🚗 GTA: Vice City
