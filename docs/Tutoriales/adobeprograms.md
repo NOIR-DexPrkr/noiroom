@@ -1,4 +1,4 @@
-!- [](https://i.postimg.cc/hj85qPgG/Adobe-programas.png)
+![](https://i.postimg.cc/hj85qPgG/Adobe-programas.png)
 # Programas Adobe - Individuales
 Descarga casi todos los programas de adobe de manera individual y completos.
 
