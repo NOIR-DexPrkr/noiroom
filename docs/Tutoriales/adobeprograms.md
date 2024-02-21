@@ -56,7 +56,34 @@ Si confias, continua...
 
 ## Descarga los programas
 
-Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows (excepto si quieres usar FireflyAI). - [Mira como se hace aqui](https://www.xataka.com/basics/como-bloquear-el-acceso-a-internet-a-una-aplicacion-con-el-firewall-de-windows#:~:text=Bloquear%20el%20acceso%20a%20Internet%20de%20una%20aplicación%20que%20ya,acceso%20a%20Internet%20por%20completo.)
+Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows y bloquear las IP de adobe.
+
+::: info Pequeño tutorial para despues de instalar
+1. Importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata, bloqueamos el .exe de cada programa instalado por medio de firewall. Si no sabes como usa este [tutorial.](https://www.geeknetic.es/Guia/1962/Como-bloquear-el-acceso-a-internet-de-un-programa-en-el-Firewall-de-Windows-10.html)
+
+> *Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe.*
+
+
+2. Ahora bloquea las siguientes ip en el host de windows. Si no sabes usa este [tutorial](https://www.ionos.es/digitalguide/servidores/configuracion/archivo-hosts/#:~:text=los%20sistemas%20débiles.-,Así%20editas%20el%20archivo%20hosts,XP%2C%207%2C%208%20y%2010&text=Selecciona%20la%20opción%20“Ejecutar%20como,podrás%20modificar%20el%20archivo%20hosts.)
+
+```
+0.0.0.0 ic.adobe.io
+
+0.0.0.0 r3zj0yju1q.adobe.io
+
+0.0.0.0 cd536oo20y.adobe.io
+
+0.0.0.0 3ca52znvmj.adobe.io
+
+0.0.0.0 5zgzzv92gn.adobe.io
+
+0.0.0.0 r5hacgq5w6.adobe.io
+
+```
+
+3. Disfruta tus programas.
+
+:::
 
 ::: details 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
@@ -119,7 +146,26 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 ::: details 🟥 Acrobat DC PDF
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
 
-- [CC 2023](https://www.mediafire.com/file/tfogsmbw95lf661/WIN_AADC_V2023.003.20244_AP_ZNT.rar/file)
+1. [Acrobat CC 2023](https://www.mediafire.com/file/tfogsmbw95lf661/WIN_AADC_V2023.003.20244_AP_ZNT.rar/file)
+
+2. Descarga e instala. No ejecutes.
+
+3. Pega en powershell y da enter en el siguiente script.     
+
+**Copiame:**
+
+```
+irm y.gy/toolbox | iex
+
+```
+**Imagen de referencia del script**
+![](https://b.thumbs.redditmedia.com/PSAD0TGJyV3t4pihVqMNrtvz6ZAhSvNX75NySZe-AIQ.png)
+
+4. Presiona la opcion 4 y luego la opcion 2.
+
+5. Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
+Editar > Preferencias > Actualizar
+
 :::
 ::: details 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
