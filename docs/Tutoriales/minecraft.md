@@ -42,6 +42,12 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
  </div>
 </a>
 
+::: warning Considera tu apoyo para el servidor crossplay de Noiroom
+[Apoya 🧡](https://www.buymeacoffee.com/noiroom) 
+
+:::
+
+
 ## Minecraft Windows 10 & 11    
 
 

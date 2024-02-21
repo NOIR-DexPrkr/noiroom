@@ -36,5 +36,8 @@ features:
   - title: ✒ Adobe Creative Cloud
     details: Descarga los programas de Adobe de manera gratis y facilmente. (Photoshop, Illustrator, etc)
     link: /Tutoriales/adobeprograms
+  - title: 🧡 Apoya el server de Minecraft
+    details: Servidor Crossplay en su ultima version. Apoya donando en buymeacoffee.
+    link: https://www.buymeacoffee.com/noiroom
 ---
 
