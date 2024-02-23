@@ -39,7 +39,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
 
-<a href="https://www.mutaz.pro/free-programs/en/download/?1330">
+<a href="https:pixeldrain.com/u/Nk1BVmqq">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -59,11 +59,11 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ::: details Instrucciones 
 
-1. Descarga el [Parche host:](https://doodrive.com/f/pg90m8)
+1. Descarga el [Parche host](https://doodrive.com/f/pg90m8)
 
-2. Instala el programa y luego ejecuta el parche como admin.
+2. Instala el programa desconectado del internet y luego ejecuta el parche como admin.
 
-*Si windows no te deja edita el archivo host de windows con lo siguiente:*
+*Si windows no te deja ejecutar el parche edita el archivo host de windows con lo siguiente:*
 
 ``` 
 127.0.0.1 cbs.wondershare.com
