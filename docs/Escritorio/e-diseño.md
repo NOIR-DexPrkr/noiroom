@@ -59,9 +59,10 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ::: details Instrucciones 
 
-1. Descarga el [Parche host](https://doodrive.com/f/pg90m8)
+1. Agrega .rar al final de los archivos descargados.
+2. Descarga el [Parche host](https://doodrive.com/f/pg90m8)
 
-2. Instala el programa desconectado del internet y luego ejecuta el parche como admin.
+3. Instala el programa desconectado del internet y luego ejecuta el parche como admin.
 
 *Si windows no te deja ejecutar el parche edita el archivo host de windows con lo siguiente:*
 
