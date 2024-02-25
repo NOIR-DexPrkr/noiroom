@@ -125,6 +125,17 @@ export default defineConfig({
         ]
     }
 ],
+        // Colecciones 
+        '/Colecciones/': [
+          {
+            text: '🗃️ Colecciones',
+            items: [
+              { text: '🕹️ Nostalgia', link: '/Colecciones/nostalgia' },
+              { text: '🕹️ Los sims', link: '/Colecciones/ai-text' },
+              { text: '🕹️ Age of Empires', link: '/Colecciones/ai-image' }
+          ]
+      }
+  ],
     },
       
     footer: {

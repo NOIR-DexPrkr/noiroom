@@ -39,7 +39,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
 
-<a href="https://www.mutaz.pro/free-programs/en/download/?1330">
+<a href="https://pixeldrain.com/u/Nk1BVmqq">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -48,14 +48,34 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
-<a href="https://download.wondershare.com/cbs_down/filmora_64bit_12.3.0_gray_full846.exe">
+<a href="https://doodrive.com/f/36mzv7">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>   
 
-*Aqui descarga el [crack](https://www.upload.ee/files/15180826/fix.7z.html)*
+*Usa bloqueador de anuncios al descargar y sigue las instrucciones.*    
+
+::: details Instrucciones 
+
+1. Agrega .rar al final de los archivos descargados.
+2. Descarga el [Parche host](https://doodrive.com/f/pg90m8)
+
+3. Instala el programa desconectado del internet y luego ejecuta el parche como admin.
+
+*Si windows no te deja ejecutar el parche edita el archivo host de windows con lo siguiente:*
+
+``` 
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 www.cbs.wondershare.com
+127.0.0.1 platform.wondershare.com
+127.0.0.1 www.wondershare.com 
+``` 
+
+Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI0U?si=B9VlEOHjTmkkTKxD) 
+
+::: 
 
 ---
 

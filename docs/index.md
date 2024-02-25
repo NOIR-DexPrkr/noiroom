@@ -14,6 +14,9 @@ hero:
       text: Escritorio
       link: /Escritorio/e-diseño
     - theme: alt
+      text: Colecciones
+      link: /Colecciones/nostalgia
+    - theme: alt
       text: Moviles
       link: /Moviles/m-esenciales
     - theme: alt
