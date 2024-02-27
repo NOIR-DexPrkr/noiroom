@@ -39,40 +39,61 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
 
-<a href="https://pixeldrain.com/u/Nk1BVmqq">
+<a href="https://www.mediafire.com/file/xn1jrnnd5y8f78s/WIN_CLPDU_V2024-22.1.2529.0_AP_ZNT.rar/file">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>
 
+*CONTRASEÑA: www.artistapirata.com*    
+*Recuerda bloquear el programa (.exe) con el firewall.*
+
 ---
 
-<a href="https://doodrive.com/f/36mzv7">
+<a href="https://www.mediafire.com/file/ccpeabuzzu5otrd/WIN_FMX_V12.5.6.3504_AP_ZNT.rar/file">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>   
 
-*Usa bloqueador de anuncios al descargar y sigue las instrucciones.*    
+*CONTRASEÑA: www.artistapirata.com*    
 
 ::: details Instrucciones 
 
-1. Agrega .rar al final de los archivos descargados.
-2. Descarga el [Parche host](https://doodrive.com/f/pg90m8)
+1. Instala el contenido de 1.INSTALAR y no inicies FILMORA
 
-3. Instala el programa desconectado del internet y luego ejecuta el parche como admin.
+2. Copia el contenido de 2.PARCHEAR A:
 
-*Si windows no te deja ejecutar el parche edita el archivo host de windows con lo siguiente:*
+> C:\Users\TU USUARIO\AppData\Local\Wondershare\Wondershare Filmora\12.0.12.1450
 
-``` 
-127.0.0.1 cbs.wondershare.com
-127.0.0.1 www.cbs.wondershare.com
+3. Clic derecho en el parche recién copiado y Ejecutar como administrador
+
+4. Clic en PATCH
+
+5. Copia el contenido de 2.PARCHEAR/BFX a:
+
+> C:\Program Files\BorisFX\ContinuumOFX\15\lib\
+
+6. Bloquea la siguientes líneas en el host de Windows (¿Como se hace?)
+
+```
 127.0.0.1 platform.wondershare.com
-127.0.0.1 www.wondershare.com 
-``` 
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 pc-api.wondershare.cc
+127.0.0.1 analytics.wondershare.cc
+127.0.0.1 cloud-api.wondershare.cc
+127.0.0.1 sparrow.wondershare.com
+127.0.0.1 wae.wondershare.cc
+127.0.0.1 api.wondershare.com
+127.0.0.1 antipiracy.wondershare.com
+127.0.0.1 wondershare.com
+127.0.0.1 mail.insidews.wondershare.com
+127.0.0.1 accounts.wondershare.com
 
+```
+ 
 Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI0U?si=B9VlEOHjTmkkTKxD) 
 
 ::: 
@@ -88,14 +109,15 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 
 ---
 
-<a href="https://www.mutaz.pro/free-programs/en/download/?254">
+<a href="https://www.mediafire.com/file_premium/w66pwqm6pt77bmi/WIN_CTS_V2023.4.1.50334_AP_ZNT.rar/file">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio 2023</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>
 
-*Aqui descarga el [crack](https://pixeldrain.com/u/JpCH3Pvn)*
+*CONTRASEÑA: www.artistapirata.com*    
+*Recuerda bloquear el programa (.exe) con el firewall.*
 
 ---
 

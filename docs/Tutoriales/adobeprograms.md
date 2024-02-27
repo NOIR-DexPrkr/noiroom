@@ -166,6 +166,8 @@ irm y.gy/toolbox | iex
 5. Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
 Editar > Preferencias > Actualizar
 
+NOTA: Si no te funciona o tienes errores, recomiendo usar la opcion 4 y luego la 1, pero antes usa la herramienta de [limpieza de adobe](https://helpx.adobe.com/es/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
+
 :::
 ::: details 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
