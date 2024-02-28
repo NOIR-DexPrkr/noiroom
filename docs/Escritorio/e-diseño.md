@@ -70,7 +70,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 3. Clic derecho en el parche recién copiado y Ejecutar como administrador
 
-4. Clic en PATCH (contraseña: cgpersia-zmco)
+4. Clic en PATCH *(contraseña: cgpersia-zmco)*
 
 5. Copia el contenido de 2.PARCHEAR/BFX a:
 

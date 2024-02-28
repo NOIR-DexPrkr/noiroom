@@ -4,43 +4,31 @@ Descarga y activa cualquiera de estos dos de manera rapida y sencilla.
 
 ---
 
-## Descarga y/o activa
+## Descarga / Instala / Activa
 
 El siguiente tutorial te permitira descargar Windows y/o office, ademas de poder activarlos completamente con todas sus funciones.
 Si ya tienes Windows y/o Office y vienes por la activacion, esto tambien te servira.
 
-<a href="#windows">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">💻 Descarga Windows</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+::: warning ¿Qué deseas hacer?
+- [Descargar Windows](https://noiroom.tech/Tutoriales/Win-O365#windows)
+- [Descargar Office](https://noiroom.tech/Tutoriales/Win-O365#office-365)
+- [Instalar windows](https://noiroom.tech/Tutoriales/Win-O365#pasos-de-instalacion)
+- [Instalar Office]
+- [Activar Windows / Office](https://noiroom.tech/Tutoriales/Win-O365#activacion)
+:::
 
-<a href="#office-365">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">📚 Descarga Office 365</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+---
 
-<a href="#activacion">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✔ Activa Windows/office</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+## Windows
 
-
-### Windows
-
-Nos descargamos la version deseada de Windows.
+Descarga la version deseada de Windows.
 
 > Estos links se recomiendan descargar con [Free Download Manager - FDM](https://www.freedownloadmanager.org/es/). 
 > Dale click derecho al boton de descarga de la version que desees, copia el link, y pegalo en FDM.    
 
 Todas traen multi-idiomas.
 
-::: info Win 8.1     
+::: details Windows 8.1     
 
 <a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso">
  <div style="position: relative; padding-top: 1em">
@@ -59,7 +47,7 @@ Todas traen multi-idiomas.
 
 :::
 
-::: info Win 10 
+::: details Windows 10 
 
 <a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso">
  <div style="position: relative; padding-top: 1em">
@@ -92,7 +80,7 @@ Todas traen multi-idiomas.
 </a>
 
 :::
-::: info Win 11
+::: details Windows 11
 
 <a href="https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso">
  <div style="position: relative; padding-top: 1em">
@@ -101,13 +89,14 @@ Todas traen multi-idiomas.
  </div>
 </a>
 :::
-::: info Mini OS
+
+::: Details Windows Mini OS
 
 Si buscas las versiones Lite/Mini de Windows [Consiguelas aquí](https://www.dprojects.org/minios){target="_blank"}.
 
 ::: 
 
-### Pasos de instalacion
+### Pasos de instalacion para Windows
 
 Lo siguiente que necesitas es seguir estos pasos: 
 
@@ -120,9 +109,9 @@ Para windows 11 los requisitos cambian, asi que recomiendo investigues si tu pc 
 
 Una vez hayas instalado, continua con la activación abajo...
 
-### Office 365
+## Office 365 
 
-Nos descargamos cualquiera de los siguientes office365.
+Nos descargamos cualquiera de los siguientes office365 u Office 2019 y anteriores.
 
 > Si al dar click no inicia la descarga dale click derecho y abre en una nueva pestaña. O bien, dale a guardar como. Si sigue sin abrir, copia el link del boton de descarga y abrelo en una nueva pestaña. Si sigue sin funcionar, cambia de navegador.
 
@@ -147,7 +136,7 @@ El siguiente es el Office que contiene todos los programas de siempre, ademas de
  </div>
 </a>
 
-::: details 👀 Otras versiones
+::: details Versiones antiguas
 
 
 - [🕸 Office 2021](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/ProPlus2021Retail.img)        
@@ -156,7 +145,7 @@ El siguiente es el Office que contiene todos los programas de siempre, ademas de
 
 :::
 
-::: details Para MAC (2019/2021)
+::: details Office para MAC (2019/2021)
 
 Consigue las versiones [para MAC aquí](https://github.com/alsyundawy/Microsoft-Office-For-MacOS){target="_blank"}. Se recomienda traducir la pagina si no sabes ingles. Esta version ya trae un activador en .pkg.
 
@@ -164,10 +153,18 @@ Consigue las versiones [para MAC aquí](https://github.com/alsyundawy/Microsoft-
 
 Una vez hayas instalado, continua con la activación abajo...
 
+### Pasos te instalacion para Office
 
-## Activacion
+Para instalar office necesitas lo siguiente:
 
-Para activar windows u Office necesitas primero descargar o ejecutar lo siguiente:
+1. Como el archivo descargado es un .iso debes abrirlo con doble click. *(si tienes windows 7 u 8 debes quemar la imagen con el programa Daemon tools, puedes buscar en youtube como se hace.)*
+2. Se abrira un nuevo disco en windows, como si hubieses metido un CD.
+3. Dentro del disco habra unas carpetas y un archivo con nombre "setup".
+4. Ejecuta y espera que instale.
+
+## Activación
+
+Para activar Windows u Office necesitas primero descargar o ejecutar lo siguiente:
 
 ::: details 🏷 Script online *(Recomendado)*
 
@@ -204,9 +201,10 @@ Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts.
 
 ![](https://i.postimg.cc/G3TpBGx6/image-1.png)
 
-### Activa Windows u Office
+### Pasos de activación
 
 Para este paso solo debes presionar el boton de lo que quieras activar.
+
 1. Windows
 2. Office.
 
