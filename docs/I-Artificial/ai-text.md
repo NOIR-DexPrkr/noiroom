@@ -11,6 +11,10 @@ Todas las inteligencias artificiales para realizar tareas y conversar por chat/v
 
 ---
 
+::: info ¿Buscas otras IAs?
+*Dale al Menu de arriba a la izquierda para ver otras.*
+::: 
+
 ## Generación de texto
 
 <a href="https://chat.openai.com/">

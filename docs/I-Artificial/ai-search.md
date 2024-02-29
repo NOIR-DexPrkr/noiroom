@@ -11,6 +11,10 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 ---
 
+::: info ¿Buscas otras IAs?
+*Dale al Menu de arriba a la izquierda para ver otras.*
+::: 
+
 ## Buscadores con AI/IA
 
 <a href="https://copilot.microsoft.com/">

@@ -9,9 +9,11 @@ image: "https://i.postimg.cc/50sNLfZz/IA-Imagenes.png"
 # IA para Generación de Imágenes
 Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
-
 ---
 
+::: info ¿Buscas otras IAs?
+*Dale al Menu de arriba a la izquierda para ver otras.*
+::: 
 
 ## Generacion de imagenes
 
