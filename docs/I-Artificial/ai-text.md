@@ -6,14 +6,12 @@ image: "https://i.postimg.cc/Pxj82f3F/IA-texto.png"
 
 
 ![](https://i.postimg.cc/Fz9nF5sV/IA-texto.png)
-# IA para Generación de Texto
-Todas las inteligencias artificiales para generar texto en un mismo lugar.
+# ChatBots
+Todas las inteligencias artificiales para realizar tareas y conversar por chat/voz.
 
 ---
 
 ## Generación de texto
-
-### Conversaciones 
 
 <a href="https://chat.openai.com/">
   <div style="position: relative; padding-top: 1em">
@@ -69,12 +67,21 @@ Aceptan notas de voz:
 
 <a href="https://callannie.ai/">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Call Annie/Samantha</p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">📞 Call Annie/Samantha</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
 *Este te permite hablar desde la web o llamar por teléfono o video llamada. Puedes registrarte y hablar en español o inglés. Y para la video llamada se necesita iPhone. También puedes cambiar de voz a hombre o mujer y suena algo robótica.*
+
+---
+
+<a href="https://www.chub.ai/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🗨️ Chub AI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
 
 ---
 

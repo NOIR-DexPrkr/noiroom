@@ -26,9 +26,53 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
+<a href="https://www.bing.com/images/create">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Bing image AI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio oficial del generador de imágenes de Bing, gratis y facil de usar.*
+
+---
+
+<a href="https://lexica.art/aperture">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Lexicart</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Sitio con gran variedad de ejemplos para modificar y generar imágenes o crear tus nuevas. Gratis y con algunas limitaciones.*
+
+---
+
+<a href="https://www.mage.space/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Mage </p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Genera imágenes gratis y sin limitaciones.*
+
+---
+
+<a href="https://dezgo.com/txt2img">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Dezgo</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Genera imagenes y texto sin limites*
+
+---
+
 <a href="https://clipdrop.co/stable-diffusion">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  ClipDrop</p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸  ClipDrop</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
@@ -48,17 +92,6 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://lexica.art/aperture">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Lexicart</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Sitio con gran variedad de ejemplos para modificar y generar imágenes o crear tus nuevas. Gratis y con algunas limitaciones.*
-
----
-
 <a href="https://zoo.replicate.dev/">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Zoo AI</p>
@@ -70,20 +103,9 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://www.bing.com/images/create">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Bing image AI"</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Sitio oficial del generador de imágenes de Bing, gratis y con algunas limitaciones.*
-
----
-
 <a href="https://fusionbrain.ai/">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Fusion Brain"</p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Fusion Brain</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
