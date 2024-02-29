@@ -13,7 +13,7 @@ Si ya tienes Windows y/o Office y vienes por la activacion, esto tambien te serv
 - [Descargar Windows](https://noiroom.tech/Tutoriales/Win-O365#windows)
 - [Descargar Office](https://noiroom.tech/Tutoriales/Win-O365#office-365)
 - [Instalar windows](https://noiroom.tech/Tutoriales/Win-O365#pasos-de-instalacion)
-- [Instalar Office]
+- [Instalar Office](https://noiroom.tech/Tutoriales/Win-O365#pasos-te-instalacion-para-office)
 - [Activar Windows / Office](https://noiroom.tech/Tutoriales/Win-O365#activacion)
 :::
 
