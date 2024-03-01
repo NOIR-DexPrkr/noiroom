@@ -49,6 +49,18 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 *GPT 3.5 coreano, pero puedes hablarle en otros idiomas y buscar informacion en linea.*
 
+---
+
+<a href="https://www.blackbox.ai/">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Blackbox AI</p>
+    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+*Este es el GPT para programacion y temas informaticos. La mejor opcion para tu codigo.*
+
+---
 
 <a href="https://www.phind.com/">
   <div style="position: relative; padding-top: 1em">
