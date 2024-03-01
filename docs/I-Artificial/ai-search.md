@@ -81,6 +81,7 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 </a>
 
 *Otro mas para la coleccion de buscadores con AI, responde a cualquier pregunta pero solo en sacando la informacion de internet.*
+
 ---
 
 <a href="https://bard.google.com/">
