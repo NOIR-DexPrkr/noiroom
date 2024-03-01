@@ -87,6 +87,8 @@ Aceptan notas de voz:
   </div>
 </a>
 
+*Sitio con diferentes personalidades, celebridades y otros personajes estan disponibles para conversar contigo.*
+
 ---
 
 ::: info  No sabes cual Chat usar, ¡verdad?
