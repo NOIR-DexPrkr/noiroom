@@ -17,7 +17,7 @@ Todas las inteligencias artificiales para realizar tareas y conversar por chat/v
 
 ## Generación de texto
 
-<a href="https://chat.openai.com/">
+<a href="https://chat.openai.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Chat GPT</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -47,7 +47,7 @@ Aceptan notas de voz:
 
 :::    
 
-<a href="https://huggingface.co/chat/">
+<a href="https://huggingface.co/chat/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Hugging Chat</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -58,7 +58,7 @@ Aceptan notas de voz:
 
 ---
 
-<a href="https://heypi.com/talk">
+<a href="https://heypi.com/talk" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  Hey PI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -69,7 +69,7 @@ Aceptan notas de voz:
 
 ---
 
-<a href="https://callannie.ai/">
+<a href="https://callannie.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">📞 Call Annie/Samantha</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -80,7 +80,7 @@ Aceptan notas de voz:
 
 ---
 
-<a href="https://www.chub.ai/">
+<a href="https://www.chub.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🗨️ Chub AI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

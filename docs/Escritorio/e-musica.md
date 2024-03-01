@@ -10,7 +10,7 @@ image: "https://i.postimg.cc/C17d7Gfz/PC-musica.png"
 Encuentra los mejores programas relacionados al audio y música.
 ## Reproductores de Música
 
-<a href="https://www.foobar2000.org/">
+<a href="https://www.foobar2000.org/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Foobar</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -21,7 +21,7 @@ Encuentra los mejores programas relacionados al audio y música.
 
 ---
 
-<a href="https://www.getmusicbee.com/">
+<a href="https://www.getmusicbee.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 MusicBee</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -32,7 +32,7 @@ Encuentra los mejores programas relacionados al audio y música.
 
 ---
 
-<a href="https://harmonoid.com/">
+<a href="https://harmonoid.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Harmonoid</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -43,7 +43,7 @@ Encuentra los mejores programas relacionados al audio y música.
 
 ---
 
-<a href="https://feugy.github.io/melodie">
+<a href="https://feugy.github.io/melodie" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Melodie</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -54,7 +54,7 @@ Encuentra los mejores programas relacionados al audio y música.
 
 ---
 
-<a href="https://hyperchroma.app/">
+<a href="https://hyperchroma.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Hyperchroma</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

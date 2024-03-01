@@ -6,7 +6,7 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descarga Mp3/Flac
 
-<a href="https://doodrive.com/f/9o4zn7">
+<a href="https://doodrive.com/f/9o4zn7" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Netease</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -19,7 +19,7 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ---
 
-<a href="https://fildo.net/android/en/#downloadSection">
+<a href="https://fildo.net/android/en/#downloadSection" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Fildo</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -32,7 +32,7 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descaga inApp
 
-<a href="https://github.com/z-huang/InnerTune/releases">
+<a href="https://github.com/z-huang/InnerTune/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ InnerTune</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -66,7 +66,7 @@ Version minima de android: 7
 
 ---
 
-<a href="https://doodrive.com/f/qg604n">
+<a href="https://doodrive.com/f/qg604n" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -82,7 +82,7 @@ La versión con menos alertas de modificacioneses la numero `7.0.5.56` de la pag
 
 ---
 
-<a href="https://github.com/maxrave-dev/SimpMusic/releases">
+<a href="https://github.com/maxrave-dev/SimpMusic/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SimpMusic BETA</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -113,7 +113,7 @@ Version minima de android: 8
 
 ---
 
-<a href="https://github.com/toasterofbread/spmp/releases">
+<a href="https://github.com/toasterofbread/spmp/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -135,7 +135,7 @@ Puede ser configurada, no necesariamente luce asi.
 
 ---
 
-<a href="https://github.com/Sangwan5688/BlackHole/release">
+<a href="https://github.com/Sangwan5688/BlackHole/release" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackHole</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -180,7 +180,7 @@ Version minima de android: 5
 
 ---
 
-<a href="https://github.com/gokadzev/Musify/releases">
+<a href="https://github.com/gokadzev/Musify/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Musify</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

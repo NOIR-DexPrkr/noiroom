@@ -55,7 +55,7 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
 
 1. Descargate la version de prueba en la tienda de Microsoft.
 
-<a href="https://www.xbox.com/es-EC/games/store/minecraft-for-windows/9nblggh2jhxj">
+<a href="https://www.xbox.com/es-EC/games/store/minecraft-for-windows/9nblggh2jhxj" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga en WinStore </p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -78,7 +78,7 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 
 2. Descargate el programa Winaero Tweaker:
 
-<a href="https://winaerotweaker.com/">
+<a href="https://winaerotweaker.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Winaero Tweaker </p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -95,7 +95,7 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 ::: details Parche Dll
 Requerido para el tutorial
 
-<a href="https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga el Parche</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -108,7 +108,7 @@ Si usas esta opcion no necesitas hacer el resto del tutorial despues de descarga
 Usala si no eres muy tecnologico.
 > Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
 
-<a href="https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Launcher X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -153,7 +153,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 > El link solo funciona en telefono, debes seleccionar la version mas reciente o la que desees. Si alguna version no funciona en tu telefono, es porque simplemente no es compatible y no hay mucho que hacer.
 
-<a href="https://mcpedl.org/minecraft-pe-1-20-20-20-apk/">
+<a href="https://mcpedl.org/minecraft-pe-1-20-20-20-apk/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Bedrock </p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -170,7 +170,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 ### Instalación       
 
-  <a href="https://prismlauncher.org/download/">
+  <a href="https://prismlauncher.org/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga PrismLauncher</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -186,7 +186,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 1. Cerramos PrismLauncher y descargamos el siguiente archivo:     
 
-<a href="https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json">
+<a href="https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga config.json</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -252,7 +252,7 @@ Ahora, ponte a jugar como cuando eras niño. ¡Diviértete!
 ### Minecraft Java - Mac
 Para el caso de MAC usa esta version ya crackeada. Se encuentra comprimida.       
 
-<a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz">
+<a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Mac</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -264,7 +264,7 @@ Para el caso de MAC usa esta version ya crackeada. Se encuentra comprimida.
 ### Minecraft Java - Linux
 Para el caso de Linux usa esta version ya crackeada. Se encuentra comprimida.       
 
-<a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz">
+<a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Linux</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

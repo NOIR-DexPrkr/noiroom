@@ -17,7 +17,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ## Generacion de imagenes
 
-<a href="https://dreamstudio.ai/generate">
+<a href="https://dreamstudio.ai/generate" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐  Dreamstudio</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -28,7 +28,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://www.bing.com/images/create">
+<a href="https://www.bing.com/images/create" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Bing image AI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -39,7 +39,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://lexica.art/aperture">
+<a href="https://lexica.art/aperture" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Lexicart</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -50,7 +50,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://www.mage.space/">
+<a href="https://www.mage.space/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Mage </p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -61,7 +61,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://dezgo.com/txt2img">
+<a href="https://dezgo.com/txt2img" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Dezgo</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -72,7 +72,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://clipdrop.co/stable-diffusion">
+<a href="https://clipdrop.co/stable-diffusion" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸  ClipDrop</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -83,7 +83,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://discord.gg/midjourney">
+<a href="https://discord.gg/midjourney" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Midjourney</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -94,7 +94,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://zoo.replicate.dev/">
+<a href="https://zoo.replicate.dev/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Zoo AI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -105,7 +105,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://fusionbrain.ai/">
+<a href="https://fusionbrain.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Fusion Brain</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -116,7 +116,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://playgroundai.com/">
+<a href="https://playgroundai.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Playground AI"</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -127,7 +127,7 @@ Todas las inteligencias artificiales para generar imágenes en un mismo lugar.
 
 ---
 
-<a href="https://www.unstability.ai/">
+<a href="https://www.unstability.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔞  Stable Diffusion 18+</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

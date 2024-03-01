@@ -14,7 +14,7 @@ Para conseguir la aplicacion con funciones premium en escritorio debemos seguir 
 
 1. Descargamos el Spotify oficial desde aqui: 
 
-<a href="https://www.spotify.com/us/download/">
+<a href="https://www.spotify.com/us/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Spotify Oficial</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -108,7 +108,7 @@ Para conseguir la version mas reciente y segura de Spotify mod en android, neces
 
 Pasos:     
 
-<a href="https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk">
+<a href="https://github.com/xManager-App/xManager/releases/latest/download/xManager.apk" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Xmanager</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -142,14 +142,14 @@ Para iOS se debe hacer con sideloading. Si no sabes que es eso, recomiendo ver u
 
 Puedes descargar estas versiones mod premium:
 
-<a href="https://appdb.to/app/cydia/1900000540)">
+<a href="https://appdb.to/app/cydia/1900000540)" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Spotify ++</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://files.ipaspot.app/spotify++.ipa">
+<a href="https://files.ipaspot.app/spotify++.ipa" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Enlace alterno</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

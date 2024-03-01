@@ -8,7 +8,7 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ## Peliculas y series
 
-<a href="/tutoriales/stremio">
+<a href="/tutoriales/stremio" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Stremio</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -30,7 +30,7 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ---
 
-<a href="/Tutoriales/cloudstream">
+<a href="/Tutoriales/cloudstream" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ CloudStream</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -41,7 +41,7 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ---
 
-<a href="https://hdo.app/">
+<a href="https://hdo.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 HDO Box</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -52,7 +52,7 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ---
 
-<a href="https://www.vivatv.io/">
+<a href="https://www.vivatv.io/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Viva TV</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -63,7 +63,7 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ---
 
-<a href="https://github.com/N0-0NE-Dev/NoFasel/releases">
+<a href="https://github.com/N0-0NE-Dev/NoFasel/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Nofasel</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

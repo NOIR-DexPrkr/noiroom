@@ -30,7 +30,7 @@ Todas traen multi-idiomas.
 
 ::: details Windows 8.1     
 
-<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso">
+<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x64</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -38,7 +38,7 @@ Todas traen multi-idiomas.
 </a>
 
     
-<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso">
+<a href="https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x32</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -49,14 +49,14 @@ Todas traen multi-idiomas.
 
 ::: details Windows 10 
 
-<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso">
+<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_eb811ccc.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 x64</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x86_dvd_eb811ccc.iso">
+<a href="https://drive.massgrave.dev/es-es_windows_10_consumer_editions_version_22h2_updated_oct_2023_x86_dvd_eb811ccc.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 8.1 x32</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -65,14 +65,14 @@ Todas traen multi-idiomas.
 
 *Version LTSC*
 
-<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso">
+<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 LTSC x64</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso">
+<a href="https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 10 LTSC x32</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -82,7 +82,7 @@ Todas traen multi-idiomas.
 :::
 ::: details Windows 11
 
-<a href="https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso">
+<a href="https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_22h2_updated_oct_2023_x64_dvd_0f09f40a.iso" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Windows 11 x64</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -119,7 +119,7 @@ Nos descargamos cualquiera de los siguientes office365 u Office 2019 y anteriore
 
 El siguiente es el office de siempre con mejores funciones y con funciones extra. Incluso guardado en la nube, como sucede en Google Docs.
 
-<a href="https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img">
+<a href="https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/es-es/O365ProPlusRetail.img" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Office Personal</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -129,7 +129,7 @@ El siguiente es el office de siempre con mejores funciones y con funciones extra
 
 El siguiente es el Office que contiene todos los programas de siempre, ademas de microsoft teams y otros programas y funciones para empresas.
 
-<a href="http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-es/O365BusinessRetail.img">
+<a href="http://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/es-es/O365BusinessRetail.img" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Office para Empresa</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -181,7 +181,7 @@ Luego dale ENTER y listo.
 
 descargar el siguiente script:
 
-<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip">
+<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Script Activador</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

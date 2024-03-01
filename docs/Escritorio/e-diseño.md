@@ -13,7 +13,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ### Editores de imagenes
 
-<a href="https://pixeldrain.com/u/NUfBb7Qk">
+<a href="https://pixeldrain.com/u/NUfBb7Qk" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PhotoGIMP</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -39,7 +39,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
 
-<a href="https://www.mediafire.com/file/xn1jrnnd5y8f78s/WIN_CLPDU_V2024-22.1.2529.0_AP_ZNT.rar/file">
+<a href="https://www.mediafire.com/file/xn1jrnnd5y8f78s/WIN_CLPDU_V2024-22.1.2529.0_AP_ZNT.rar/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PowerDirector</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -51,7 +51,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
-<a href="https://www.mediafire.com/file/ccpeabuzzu5otrd/WIN_FMX_V12.5.6.3504_AP_ZNT.rar/file">
+<a href="https://www.mediafire.com/file/ccpeabuzzu5otrd/WIN_FMX_V12.5.6.3504_AP_ZNT.rar/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -100,7 +100,7 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 
 ---
 
-<a href="https://www.blackmagicdesign.com/products/davinciresolve">
+<a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Davinci Resolve</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
@@ -109,7 +109,7 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 
 ---
 
-<a href="https://www.mediafire.com/file_premium/w66pwqm6pt77bmi/WIN_CTS_V2023.4.1.50334_AP_ZNT.rar/file">
+<a href="https://www.mediafire.com/file_premium/w66pwqm6pt77bmi/WIN_CTS_V2023.4.1.50334_AP_ZNT.rar/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio 2023</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />

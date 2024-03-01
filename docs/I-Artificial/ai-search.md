@@ -73,7 +73,7 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 ---
 
-<a href="https://komo.ai/">
+<a href="https://komo.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Komo AI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -84,9 +84,9 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 ---
 
-<a href="https://bard.google.com/">
+<a href="https://gemini.google.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Google Bard</p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Gemini AI</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>

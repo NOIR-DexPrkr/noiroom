@@ -15,25 +15,25 @@ Descarga música en mp3 desde deezer en tu computadora con este increible progra
 > La aplicacion es una gran opcion por las etiquetas, la facilidad de descarga y porque te descarga incluso las letras de las canciones que tengan.
 
 ::: details 🖥 **Windows** 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Instalable 64Bits"](https://archive.org/download/deemix/gui/win-x64_setup-latest.exe)   
+- [🕸️ Instalable 64Bits"](https://archive.org/download/deemix/gui/win-x64_setup-latest.exe)   
 *Descarga aqui la version portable de 64Bits para Windows.* 
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Portable 64Bits"](https://archive.org/download/deemix/gui/win-x64_portable-latest.exe)   
+- [🕸️ Portable 64Bits"](https://archive.org/download/deemix/gui/win-x64_portable-latest.exe)   
 *Descarga aqui la version instalable de 64Bits para Windows.*
 :::
 
 ::: details 💻 **MAC**
-- [!button variant="contrast" target="blank" size="xs" text="🕷  Instalable 64Bits"](https://archive.org/download/deemix/gui/macos-x64-latest.dmg)   
+- [🕸️ Instalable 64Bits"](https://archive.org/download/deemix/gui/macos-x64-latest.dmg)   
 *Descarga aqui la version instalable de 64Bits para MAC.*
 
-- [!button variant="contrast" target="blank" size="xs" text="🕷  ARM Instalable 64Bits"](https://archive.org/download/deemix/gui/macos-arm64-latest.dmg)   
+- [🕸️ ARM Instalable 64Bits"](https://archive.org/download/deemix/gui/macos-arm64-latest.dmg)   
 *Descarga aqui la version ARM instalable de 64Bits para MAC.*
 :::
 
 ::: details 🐧 **Linux**
-  - [!button variant="contrast" target="blank" size="xs" text="🕷  Portable"](https://archive.org/download/deemix/gui/linux-x64-latest.deb)   
+  - [🕸️ Portable"](https://archive.org/download/deemix/gui/linux-x64-latest.deb)   
 *Descarga aqui la version portable de 64Bits para Linux.* 
-  - [!button variant="contrast" target="blank" size="xs" text="🕷  Portable"](https://archive.org/download/deemix/gui/linux-x64-latest.AppImage)   
+  - [🕸️ Instalable"](https://archive.org/download/deemix/gui/linux-x64-latest.AppImage)   
 *Descarga aqui la version instalable de 64Bits para Linux.*
 :::
 

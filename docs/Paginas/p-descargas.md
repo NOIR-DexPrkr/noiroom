@@ -7,7 +7,7 @@ Descarga musica, videos y mas.
 
 ## Descarga musica
 
-<a href="https://free-mp3-download.net/">
+<a href="https://free-mp3-download.net/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">  ⭐ Free MP3 Download</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -18,7 +18,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://ytmdl.deepjyoti30.dev/">
+<a href="https://ytmdl.deepjyoti30.dev/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 YTMDL</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -29,7 +29,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://denr01.com/vkm/">
+<a href="https://denr01.com/vkm/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 VK Music</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -40,7 +40,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://freemp3cloud.com/">
+<a href="https://freemp3cloud.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Free MP3</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -51,7 +51,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://songslover.vip/">
+<a href="https://songslover.vip/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Song Lover</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -62,7 +62,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://freemusicarchive.org/">
+<a href="https://freemusicarchive.org/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Free Music Archive</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -73,7 +73,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://two66.com/mirrors/?dir=GTA-Radio-Stations">
+<a href="https://two66.com/mirrors/?dir=GTA-Radio-Stations" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Grand theft Auto Music</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -86,7 +86,7 @@ Descarga musica, videos y mas.
 
 ## Descarga video
 
-<a href="https://ymp4.cc/">
+<a href="https://ymp4.cc/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ YMP4</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -97,7 +97,7 @@ Descarga musica, videos y mas.
 
 ---
 
-<a href="https://en.loader.to/4/">
+<a href="https://en.loader.to/4/" target="_blank">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 LoaderTo</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

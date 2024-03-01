@@ -38,7 +38,7 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 :::
 
 
-<a href="https://drive.google.com/file/d/1Z90pssJkf6puabWuKe0XoZXhDQ5dZ7CD/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1Z90pssJkf6puabWuKe0XoZXhDQ5dZ7CD/view?usp=drive_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Mixplorer Legacy</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -49,7 +49,7 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 ---
 
-<a href="https://drive.google.com/file/d/1E3lVWnPdf3YaEuwlacgFWGyG7aTcstKK/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1E3lVWnPdf3YaEuwlacgFWGyG7aTcstKK/view?usp=drive_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Mixplorer</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -89,7 +89,7 @@ Click to Chat es una app que te permite escribir, llamar o crear un acceso direc
 Funciona muy facil, solo debes abrirla, copiar el numero y seleccionar si abrir el chat, llamar, o crear el acceso directo.
 Es bastante util y hasta guarda el historial de los numeros usados.
 
-<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en&gl=US">
+<a href="https://play.google.com/store/apps/details?id=com.trianguloy.openInWhatsapp&hl=en&gl=US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Click to Chat</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -124,14 +124,14 @@ Todo lo que puedes hacer en la aplicacion:
 :::
 
 
-<a href="https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor&hl=en&gl=US">
+<a href="https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor&hl=en&gl=US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Photo Editor Original</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://github.com/NOIR-DexPrkr/dexco-files/raw/main/PhotoEditor.apk">
+<a href="https://github.com/NOIR-DexPrkr/dexco-files/raw/main/PhotoEditor.apk" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Photo Editor Full</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -166,14 +166,14 @@ Todo lo que puedes hacer en la aplicacion:
 :::
 
 
-<a href="https://liteapks.com/sd-maid-2-se-system-cleaner.html">
+<a href="https://liteapks.com/sd-maid-2-se-system-cleaner.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SD Maid S/E</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://liteapks.com/sd-maid-pro.html">
+<a href="https://liteapks.com/sd-maid-pro.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SD Maid</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -209,14 +209,14 @@ Editor de etiquetas ID3, edición de pistas, álbumes, artistas y géneros.
 
 :::
 
-<a href="https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en&gl=US">
+<a href="https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree&hl=en&gl=US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackPlayer Free</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://liteapks.com/download/blackplayer-ex-95893">
+<a href="https://liteapks.com/download/blackplayer-ex-95893" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackPlayer EX</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -253,14 +253,14 @@ Todo lo que puedes hacer en la aplicacion:
 :::
 
 
-<a href="https://liteapks.com/wps-office.html">
+<a href="https://liteapks.com/wps-office.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 WPS Office</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://liteapks.com/wps-office-lite.html">
+<a href="https://liteapks.com/wps-office-lite.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 WPS Office Lite</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -286,7 +286,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://liteapks.com/youtube-revanced.html">
+<a href="https://liteapks.com/youtube-revanced.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube Revanced</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -298,7 +298,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 ---
 
-<a href="https://revanced.app/">
+<a href="https://revanced.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Revanced App</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -377,7 +377,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 :::
 
-<a href="https://lawnchair.app/">
+<a href="https://lawnchair.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 LawnChair</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />

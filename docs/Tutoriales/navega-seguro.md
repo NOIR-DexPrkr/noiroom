@@ -14,7 +14,7 @@ Puedes usar estos navegadores multiplataforma
 
 **Chromium + extensiones**
 
-<a href="https://browser.yandex.com/">
+<a href="https://browser.yandex.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Yandex</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -25,7 +25,7 @@ Puedes usar estos navegadores multiplataforma
 
 **Bloqueador de anuncios incluido**
 
-<a href="https://brave.com/es/download/">
+<a href="https://brave.com/es/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave Browser</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -36,7 +36,7 @@ Puedes usar estos navegadores multiplataforma
 
 **Seguridad y privacidad**
 
-<a href="https://www.mozilla.org/es-ES/firefox/new/">
+<a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Firefox</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -49,14 +49,14 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 **Opcion con extensiones**
    
-<a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US">
+<a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi Android</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://browser.kagi.com/">
+<a href="https://browser.kagi.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi iOS</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -66,14 +66,14 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 **Bloquea anuncios pero no acepta extensiones**
 
-<a href="https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US">
+<a href="https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave Android</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-<a href="https://apps.apple.com/us/app/brave-private-web-browser/id1052879175">
+<a href="https://apps.apple.com/us/app/brave-private-web-browser/id1052879175" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave iOS</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -84,7 +84,7 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 
 ::: danger Tutorial de DNS
 
-<a href="/Tutoriales/Adguard">
+<a href="/Tutoriales/Adguard" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Guia para DNS</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
