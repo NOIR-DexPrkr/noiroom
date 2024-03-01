@@ -47,7 +47,7 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
   </div>
 </a>
 
-*GPT 3.5 coreano, pero puedes hablarle en otros idiomas y buscar informacion en linea.*
+*GPT 3.5, GPT4, GPT4 turbo y mas, esta en coreano, pero puedes hablarle en otros idiomas y buscar informacion en linea.*
 
 ---
 
