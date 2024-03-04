@@ -24,7 +24,7 @@ hero:
       link: /Paginas/pages
     - theme: alt
       text: IA
-      link: /I-Artificial/ai-search
+      link: /I-Artificial/ai-coleccion
   
   image:
     src: https://i.postimg.cc/KvLR2ZCm/Icono-3.png
