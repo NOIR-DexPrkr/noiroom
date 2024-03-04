@@ -16,6 +16,8 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
   </div>
 </a>
 
+*IAs ideales para hacer busqueda de información.*
+
 ---
 
 <a href="/I-Artificial/ai-image" target="_blank">
@@ -25,15 +27,18 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
   </div>
 </a>
 
+*IAs ideales para crear imagenes de manera gratuita*
+
 ---
 
 <a href="/I-Artificial/ai-text" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✏️ IAs de texto/Chat/p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✏️ IAs de texto/Chat</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
+*IAs ideales para generar texto, chatear o rolear*
 
 ---
 
