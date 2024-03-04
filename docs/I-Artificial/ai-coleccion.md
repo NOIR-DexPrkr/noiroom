@@ -9,7 +9,7 @@ image: "https://i.postimg.cc/Pxj82f3F/IA-texto.png"
 A continuación puedes encontrar una recopilación de varias paginas y algunas apps para usar las IAs para distintos propositos.
 
 
-<a href="/I-Artificial/ai-search" target="_blank">
+<a href="/I-Artificial/ai-search">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎 IAs de busqueda</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -20,7 +20,7 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
 
 ---
 
-<a href="/I-Artificial/ai-image" target="_blank">
+<a href="/I-Artificial/ai-image">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🖼️ IAs de imagenes</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
@@ -31,7 +31,7 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
 
 ---
 
-<a href="/I-Artificial/ai-text" target="_blank">
+<a href="/I-Artificial/ai-text">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✏️ IAs de texto/Chat</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
