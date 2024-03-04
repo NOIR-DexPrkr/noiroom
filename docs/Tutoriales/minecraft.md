@@ -108,7 +108,7 @@ Si usas esta opcion no necesitas hacer el resto del tutorial despues de descarga
 Usala si no eres muy tecnologico.
 > Lo unico que debes hacer es descomprimir el archivo donde desees, ejecutar el launcher y se abrira Minecraft oficial parchado.
 
-<a href="https://drive.google.com/file/d/1i_CIEAA5jdScfsDHWTgODamOCPWep5ax/view?usp=share_link" target="_blank">
+<a href="https://pixeldrain.com/u/SR5m4D7X" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Launcher X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
