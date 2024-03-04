@@ -117,7 +117,7 @@ export default defineConfig({
         // IA 
       '/I-Artificial/': [
         {
-          text: '🤖 Intelingencia Artificial',
+          text: '🤖 Inteligencia Artificial',
           items: [
             { text: '🕸 Para Busquedas', link: '/I-Artificial/ai-search' },
             { text: '🕸 Para Conversar', link: '/I-Artificial/ai-text' },
