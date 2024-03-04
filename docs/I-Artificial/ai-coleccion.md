@@ -1,6 +1,6 @@
 ---
-title: IA de texto
-description: Genera textos usando la inteligencia artificial.
+title: Colección de IAs
+description: Genera texto/imagenes usando la inteligencia artificial.
 image: "https://i.postimg.cc/Pxj82f3F/IA-texto.png"
 ---
 
@@ -33,6 +33,7 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
+
 
 ---
 
