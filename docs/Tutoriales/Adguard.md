@@ -36,9 +36,9 @@ family.adguard-dns.com
 
 2. Ve a la opcion de perfil destacado y en perfil descargado.
 
-- [!button variant="success" target="blank" corners="pill" text="Bloquea anuncios"](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns.mobileconfig)
+- [Bloquea anuncios](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns.mobileconfig)
 
-- [!button variant="success" target="blank" corners="pill" text="Bloquea anuncios + XXX"](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns-family.mobileconfig)
+- [Bloquea anuncios + XXX](https://github.com/NOIR-DexPrkr/dexco-files/raw/main/uploads/iOS%20cofig%20dns/adguard-dns-family.mobileconfig)
 
 4. Selecciona uno de los siguientes perfiles y aplica la configuracion dando en instalar.
 

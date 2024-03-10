@@ -188,7 +188,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 :::
 ::: details 👀 Otro? 
 
-Para encontrar otros programas de Adobe puedes entrar a esta pagina: - [PAGINA PARA BAJAR OTROS PROGRAMAS](https://www.artistapirata.com/?s=adobe)
+Para encontrar otros programas de Adobe puedes entrar a esta pagina.    
+[PAGINA PARA BAJAR OTROS PROGRAMAS](https://www.artistapirata.com/?s=adobe)
 
 :::
 

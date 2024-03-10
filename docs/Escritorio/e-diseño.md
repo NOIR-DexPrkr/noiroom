@@ -53,10 +53,17 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 <a href="https://www.mediafire.com/file/ccpeabuzzu5otrd/WIN_FMX_V12.5.6.3504_AP_ZNT.rar/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Filmora X</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸️ Filmora X</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>   
+
+::: details Mensaje de Dex
+No soy muy fan de este editor, recomiendo mas powerdirector que tambien viene con IA y buenas opciones.
+Pero como es tan pedido, por eso lo dejo aqui.
+En un futuro pienso removerlo.
+🤍
+:::
 
 *CONTRASEÑA: www.artistapirata.com*    
 
