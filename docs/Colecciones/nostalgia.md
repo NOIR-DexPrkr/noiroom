@@ -2,10 +2,8 @@
 title: 'Nostalgia Gamer'
 description: 'Disfruta de esta colección de juegos antiguos para android, flash y PC.'
 image: 'https://i.postimg.cc/SsD2rmdY/Nostaliga.png'
-imagewidth: 600
-imageheight: 337
-
 ---
+
 ![](https://i.postimg.cc/SsD2rmdY/Nostaliga.png)
 # Nostalgia Gamer
 Disfruta de esta colección de juegos antiguos para android, flash y PC.
