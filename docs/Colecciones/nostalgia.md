@@ -84,6 +84,11 @@ Si no tienes idea de como se hace esto, mira [este tutorial.](https://youtu.be/P
  </div>
 </a>
 
+*Este asphalt esta hecho para GPU Adreno*    
+*La memoria caché para el juego Asphalt 6: carpeta de archivo descomprimir en /gameloft/games/*
+
+---
+
 <a href="https://pixeldrain.com/u/yZop5YRp" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🐦 Angry Birds: Stella</p>
