@@ -32,59 +32,10 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
 
 ## Streaming + Descaga inApp
 
-<a href="https://github.com/z-huang/InnerTune/releases" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ InnerTune</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-Este es un cliente de Youtube Music en el que puedes reproducir y descargar musica, incluso iniciar sesion.     
-Version minima de android: 7 
-
-::: details Caracteristicas
-- Reproduce canciones de YT/YT Music sin anuncios
-- Reproducción en segundo plano
-- Busca canciones, vídeos, álbumes y listas de reproducción de YouTube Music
-- Gestión de biblioteca
-- Guarda en caché y descarga canciones para reproducirlas sin conexión
-- Letras sincronizadas
-- Saltar silencio
-- Normalización de audio
-- Tema dinámico
-- Localización
-- Compatibilidad con Android Auto
-- Selecciones rápidas personalizadas
-- Material 3
-
-::: details Interfaz    
-
-![](https://i.postimg.cc/6QKgCCb6/Screenshot-20230913-100226-Inner-Tune.png)
-![](https://i.postimg.cc/TwCzdh9d/Screenshot-20230913-100218-Inner-Tune.png)
-
-:::
-
----
-
-<a href="https://doodrive.com/f/qg604n" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.*      
-
-::: danger OJO!       
-*Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
-La versión con menos alertas de modificacioneses la numero `7.0.5.56` de la pagina compartida.*
-:::
-
----
 
 <a href="https://github.com/maxrave-dev/SimpMusic/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SimpMusic BETA</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ SimpMusic</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
@@ -113,6 +64,22 @@ Version minima de android: 8
 
 ---
 
+<a href="https://doodrive.com/f/qg604n" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Deezer, es una de las mejores apps para escuchar musica, y de los rivales mas grandes de Spotify. Con esta version podras escuchar y descargar musica para escuchar offline desde la aplicacion.*      
+
+::: danger OJO!       
+*Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
+La versión con menos alertas de modificacioneses la numero `7.0.5.56` de la pagina compartida.*
+:::
+
+---
+
 <a href="https://github.com/toasterofbread/spmp/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
@@ -135,46 +102,35 @@ Puede ser configurada, no necesariamente luce asi.
 
 ---
 
-<a href="https://github.com/Sangwan5688/BlackHole/release" target="_blank">
+<a href="https://github.com/z-huang/InnerTune/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackHole</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 InnerTune</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-Este es otro cliente de Youtube y YT Music con interfaz similar a spotify en el que puedes reproducir y descargar musica.
-No tiene para inicio de sesion.    
-Version minima de android: 5
+Este es un cliente de Youtube Music en el que puedes reproducir y descargar musica, incluso iniciar sesion.     
+Version minima de android: 7 
 
-::: details Caracteristicas   
-
-- La mejor calidad de streaming (320kbps)
-- Búsqueda por álbum y por canción
-- Música en tendencias
-- Soporte a +15 idiomas (En la música)
-- Top local y global de canciones en Spotify
-- Añade canciones a favoritos
-- Soporte a listas de reproducción
-- Importa listas de reproducción de Spotify
-- Importa/Exporta listas de reproducción a un archivo JSON
-- Comparte listas de reproducción
-- Hora de dormir
-- Soporte para letras
-- Administración de cola
-- Registro del historial de reproducción
-- Modo obscuro / Color de acento
-- Descarga para escuchar sin conexión (320kbps con etiquetas ID3)
-- Escucha en línea de igual manera que sin conexión
-- Búsqueda automática de actualizaciones
-- Soporte a caché
-- No necesita subscripción
-- Sin anuncios
-- Soporte para YouTube
+::: details Caracteristicas
+- Reproduce canciones de YT/YT Music sin anuncios
+- Reproducción en segundo plano
+- Busca canciones, vídeos, álbumes y listas de reproducción de YouTube Music
+- Gestión de biblioteca
+- Guarda en caché y descarga canciones para reproducirlas sin conexión
+- Letras sincronizadas
+- Saltar silencio
+- Normalización de audio
+- Tema dinámico
+- Localización
+- Compatibilidad con Android Auto
+- Selecciones rápidas personalizadas
+- Material 3
 
 ::: details Interfaz    
 
-![](https://i.postimg.cc/90ks9SKs/Screenshot-20230913-100317-Black-Hole.png)
-![](https://i.postimg.cc/j22GLKgz/Screenshot-20230913-100313-Black-Hole.png)
+![](https://i.postimg.cc/6QKgCCb6/Screenshot-20230913-100226-Inner-Tune.png)
+![](https://i.postimg.cc/TwCzdh9d/Screenshot-20230913-100218-Inner-Tune.png)
 
 :::
 
