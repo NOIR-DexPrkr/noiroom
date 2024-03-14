@@ -75,7 +75,7 @@ Version minima de android: 8
 
 ::: danger OJO!       
 *Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
-La versión con menos alertas de modificacioneses la numero `7.0.5.56` de la pagina compartida.*
+Esta es una version vieja que aun da la batalla.
 :::
 
 ---
