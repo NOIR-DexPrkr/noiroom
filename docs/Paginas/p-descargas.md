@@ -7,9 +7,9 @@ Descarga musica, videos y mas.
 
 ## Descarga musica
 
-<a href="https://free-mp3-download.net/" target="_blank">
+<a href="https://hayqbhgr.slider.kz/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">  ⭐ Free MP3 Download</p>
+    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">  ⭐ Slider</p>
     <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
