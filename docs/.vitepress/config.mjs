@@ -132,8 +132,11 @@ export default defineConfig({
             text: '🗃️ Colecciones',
             items: [
               { text: '🕹️ Nostalgia', link: '/Colecciones/nostalgia' },
-              { text: '🕹️ Los sims', link: '/Colecciones/ai-text' },
-              { text: '🕹️ Age of Empires', link: '/Colecciones/ai-image' }
+              { text: '🕹️ Age of Empires', link: '/Colecciones/c-aoe' },
+              { text: '🕹️ Call of Duty', link: '/Colecciones/c-cod' },
+              { text: '🕹️ Grand Theft Auto', link: '/Colecciones/c-gta' },
+              { text: '🕹️ Mortal Kombat', link: '/Colecciones/c-mk' },
+              { text: '🕹️ The Sims', link: '/Colecciones/c-sims' }
           ]
       }
   ],
