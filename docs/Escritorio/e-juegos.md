@@ -6,11 +6,20 @@ image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 
 
 ![](https://i.postimg.cc/4dX1VvkJ/PC-juegos.png)
-# Colección de Juegos para PC
-Encuentra una gran Colección de las mejores sagas de juegos.
-
+# Juegos para PC
+Encuentra las mejores sagas de juegos.
 
 ---
+
+<a href="https://cse.google.com/cse?cx=c79aa4b5ed22a40ab#gsc.tab=0" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕹️ Buscador de Juegos</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+Encuentra juegos para PC, sin virus y desde paginas seguras.
+Tambien puedes revisar las colecciones a continuación.
 
 **Clickea las imagenes para acceder**
 
