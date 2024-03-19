@@ -14,7 +14,7 @@ image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 
 #### **⚔ Mega colección de versiones originales**
 
-> **Age of empires - Coleccion 1, 2, 3**
+> **Age of empires - Colección 1, 2, 3**
 [![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/aoe-pc-redump/aoe-pc-redump_archive.torrent)      *Este pack contiene todas las versiones originales (no contiene definitive edition) que salieron, de la 1 a la 3, con todas sus expanciones, en todos los idiomas disponibles. Tiene un peso de 74GB y es un Torrent.*        
 
 Versiones originales y definitivas de manera individual a continuación.

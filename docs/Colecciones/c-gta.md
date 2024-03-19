@@ -94,7 +94,7 @@ Para instalar lo primero es descomprimir el archivo y ejecutar el instalador.
 ### 🚗 GTA III 
 
 **Version 10 años HD**
-[![Descarga aquí](https://pixeldrain.com/u/XTtuevm6)         
+[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://pixeldrain.com/u/XTtuevm6)       
 *Descargara un archivo torrent, que recomiendo abrir usando 👉 [FDM](https://www.freedownloadmanager.org/es/).*       
 Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
 
