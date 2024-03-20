@@ -63,7 +63,7 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 
 <a href="https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.4</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.4</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>   
@@ -72,7 +72,7 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
   
 <a href="https://github.com/t4rra/CCStopper/releases/download/v1.3/CCStopper.ps1" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Stopper</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Stopper</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
