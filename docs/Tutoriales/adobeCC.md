@@ -188,10 +188,10 @@ También desactiva la ejecución al inicio de windows y las actualizaciones auto
 
 ## Guia para parchar los programas ya instalados.
 
-1. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search”**.  Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de “curar” la cual deben seleccionar.         
+1. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search”**.      
+Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de **“Patch”** la cual deben seleccionar.           
 En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Path”** y seleccione la carpeta donde están los programas o programa.     
-
-Por ultimo damos a **"Patch"**
+Por ultimo damos a **"Patch"** en caso que aun no lo hayas hecho.
 
 > Una forma para asegurar que todos sus programas están siendo parchados es observando la lista, si en esta se encuentran los programas que descargaron no deberían de existir problemas.
 
