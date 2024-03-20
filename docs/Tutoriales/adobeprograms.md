@@ -64,22 +64,9 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 > *Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe.*
 
 
-2. Ahora bloquea las siguientes ip en el host de windows. Si no sabes usa este [tutorial](https://www.ionos.es/digitalguide/servidores/configuracion/archivo-hosts/#:~:text=los%20sistemas%20débiles.-,Así%20editas%20el%20archivo%20hosts,XP%2C%207%2C%208%20y%2010&text=Selecciona%20la%20opción%20“Ejecutar%20como,podrás%20modificar%20el%20archivo%20hosts.)
-
-```
-0.0.0.0 ic.adobe.io
-
-0.0.0.0 r3zj0yju1q.adobe.io
-
-0.0.0.0 cd536oo20y.adobe.io
-
-0.0.0.0 3ca52znvmj.adobe.io
-
-0.0.0.0 5zgzzv92gn.adobe.io
-
-0.0.0.0 r5hacgq5w6.adobe.io
-
-```
+2. Ahora bloquea las siguientes ip en el host de windows. 
+Para eso usamos el [GenP.](https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file)     
+Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up"** que se encuentra abajo a la derecha.
 
 3. Disfruta tus programas.
 
@@ -152,6 +139,11 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 2. Descarga e instala. Y abre con normalidad.
 
 **Importante:** Descarga ahora el [genP 3.4.4](https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file)
+
+3. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque Acrobat clickeando **“Search”**.      
+Tardará un rato en terminar de buscar los archivos pero una vez lo encuentre les activará la opción de **“Patch”** la cual deben seleccionar.           
+4. En caso contrario, si cambiaron la ruta de instalacion al instalar o GenP no los encuentra, denle a la opción de **“Path”** y seleccionen la carpeta donde está Acrobat.     
+Por ultimo damos a **"Patch"** en caso que aun no lo hayas hecho.
 
 Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
 Editar > Preferencias > Actualizar
