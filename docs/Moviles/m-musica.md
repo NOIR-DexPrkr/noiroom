@@ -40,7 +40,7 @@ Encuentra aquí las mejores aplicaciones para reproducir musica online y offline
  </div>
 </a>
 
-Este es otro cliente de Youtube Music con una interfaz muy parecida a Spotify en el que puedes reproducir y descargar musica, incluso iniciar sesion. Tiene una interfaz parecida a spotify.      
+Este es otro cliente de Youtube Music con una interfaz muy parecida a Spotify en el que puedes reproducir y descargar musica, incluso iniciar sesion. Tiene incluso la opción de poner canva en las canciones al igual que spotify.      
 Version minima de android: 8
 
 ::: details Caracteristicas    
