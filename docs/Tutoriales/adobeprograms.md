@@ -65,7 +65,7 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 
 
 2. Ahora bloquea las siguientes ip en el host de windows. 
-Para eso usamos el [GenP.](https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file)     
+Para eso usamos el [GenP.](https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file)     
 Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up"** que se encuentra abajo a la derecha.
 
 3. Disfruta tus programas.
@@ -138,7 +138,7 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 2. Descarga e instala. Y abre con normalidad.
 
-**Importante:** Descarga ahora el [genP 3.4.4](https://www.mediafire.com/file/bc3ip6pdcux0kg2/Adobe_GenP_v3.4.4_%2528Acrobat_Fix%2529.zip/file)
+**Importante:** Descarga ahora el [genP 3.4.9](https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file)
 
 3. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque Acrobat clickeando **“Search”**.      
 Tardará un rato en terminar de buscar los archivos pero una vez lo encuentre les activará la opción de **“Patch”** la cual deben seleccionar.           
