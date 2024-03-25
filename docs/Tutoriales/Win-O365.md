@@ -10,11 +10,11 @@ El siguiente tutorial te permitira descargar Windows y/o office, ademas de poder
 Si ya tienes Windows y/o Office y vienes por la activacion, esto tambien te servira.
 
 ::: warning ¿Qué deseas hacer?
-- [Descargar Windows](https://noiroom.tech/Tutoriales/Win-O365#windows)
-- [Descargar Office](https://noiroom.tech/Tutoriales/Win-O365#office-365)
-- [Instalar windows](https://noiroom.tech/Tutoriales/Win-O365#pasos-de-instalacion)
-- [Instalar Office](https://noiroom.tech/Tutoriales/Win-O365#pasos-te-instalacion-para-office)
-- [Activar Windows / Office](https://noiroom.tech/Tutoriales/Win-O365#activacion)
+- [Descargar Windows](/Tutoriales/Win-O365#windows)
+- [Descargar Office](/Tutoriales/Win-O365#office-365)
+- [Instalar windows](/Tutoriales/Win-O365#pasos-de-instalacion)
+- [Instalar Office](/Tutoriales/Win-O365#pasos-te-instalacion-para-office)
+- [Activar Windows / Office](/Tutoriales/Win-O365#activacion)
 :::
 
 ---
@@ -168,7 +168,8 @@ Para activar Windows u Office necesitas primero descargar o ejecutar lo siguient
 
 ::: details 🏷 Script online *(Recomendado)*
 
-Abre powershell en windows como administrador, luego copia y pega el siguiente codigo:
+Dale al boton inicio, escribe powershell.      
+Abre el programa, luego copia y pega el siguiente codigo:
 
 ```
 irm https://massgrave.dev/get | iex
