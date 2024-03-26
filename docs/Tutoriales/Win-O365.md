@@ -90,7 +90,7 @@ Todas traen multi-idiomas.
 </a>
 :::
 
-::: Details Windows Mini OS
+::: details Windows Mini OS
 
 Si buscas las versiones Lite/Mini de Windows [Consiguelas aquí](https://www.dprojects.org/minios){target="_blank"}
 
