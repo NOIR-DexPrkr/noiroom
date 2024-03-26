@@ -12,7 +12,7 @@ Si ya tienes Windows y/o Office y vienes por la activacion, esto tambien te serv
 ::: warning ¿Qué deseas hacer?
 - [Descargar Windows](/Tutoriales/Win-O365#windows)
 - [Descargar Office](/Tutoriales/Win-O365#office-365)
-- [Instalar windows](/Tutoriales/Win-O365#pasos-de-instalacion)
+- [Instalar windows](/Tutoriales/Win-O365#pasos-de-instalacion-para-windows)
 - [Instalar Office](/Tutoriales/Win-O365#pasos-te-instalacion-para-office)
 - [Activar Windows / Office](/Tutoriales/Win-O365#activacion)
 :::
@@ -95,6 +95,8 @@ Todas traen multi-idiomas.
 Si buscas las versiones Lite/Mini de Windows [Consiguelas aquí](https://www.dprojects.org/minios){target="_blank"}
 
 ::: 
+
+---
 
 ### Pasos de instalacion para Windows
 
@@ -206,8 +208,8 @@ Asi se vera la ventana una vez hayas ejecutado cualquiera de los dos scripts.
 
 Para este paso solo debes presionar el boton de lo que quieras activar.
 
-1. Windows
-2. Office.
+- 1. Windows
+- 2. Office
 
 Por último, en el caso de office solo debes entrar a cualquier app de office, introducir tu correo y listo.
 
