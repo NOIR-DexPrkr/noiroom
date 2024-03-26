@@ -19,19 +19,31 @@ image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 
 Versiones originales y definitivas de manera individual a continuación.
 
+---
+
 ### ⚔ Age of Empires I
 
-
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://archive.org/download/aoe_20200925/aoe_20200925_archive.torrent)    
+<a href="https://archive.org/download/aoe_20200925/aoe_20200925_archive.torrent" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚔️ Version Clasica</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a> 
+ 
 ::: details **Extensiones/mods** 
 - [HD mod](http://upatch-hd.weebly.com/)
 - [NEUE LEVEL FÜR](https://www.myabandonware.com/download/qi6-neue-level-fuer-age-of-empires)
-- [DIE NEUE EPOCHE 2](https://www.myabandonware.com/download/qi7-age-of-empires-die-neue-epoche-2).
+- [DIE NEUE EPOCHE 2](https://www.myabandonware.com/download/qi7-age-of-empires-die-neue-epoche-2)
 :::
 
-> **Definitive Edition**
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:1A7895BE3132EF98B2DEFF62FB3541A82A46097F&dn=Age+of+Empires%3A+Definitive+Edition+%28Build+46777%2FSteam%2C+MULTi14%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+6.1+GB%5D&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)     
-*Descarga con FDM.*
+<a href="magnet:?xt=urn:btih:1A7895BE3132EF98B2DEFF62FB3541A82A46097F&dn=Age+of+Empires%3A+Definitive+Edition+%28Build+46777%2FSteam%2C+MULTi14%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+6.1+GB%5D&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce " target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚔️ Version definitiva</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a> 
+
+*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
 
 ### ⚔ Age of Empires II
 
