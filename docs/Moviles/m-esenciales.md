@@ -294,7 +294,7 @@ Todo lo que puedes hacer en la aplicacion:
 </a>
 
 
-*Version parchada por mi. Se necesita ['MicroG-RE'](https://github.com/WSTxda/MicroG-RE/releases) para evitar errores de la app.*
+*Version parchada por mi. Se necesita ['MicroG'](https://github.com/revanced/gmscore/releases/tag/v0.3.1.3.240913) e iniciar sesión en ella para evitar errores de la app.*
 
 ::: details Solucion a errores      
 A continuación sigue los pasos para arreglar cualquier error de reproducción. Recuerda que debiste haber instalado el MicroG-RE.
