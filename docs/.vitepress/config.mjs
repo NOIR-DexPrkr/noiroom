@@ -29,7 +29,7 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
-      { text: 'Index NR', link: '/noirdex', activeMatch: '/noirdex'},
+      { text: 'Index NR', link: '/nr-index', activeMatch: '/nrindex'},
       { text: '🔁 19 marzo 24', link: '/', activeMatch: '/d'}
     ],
       

@@ -13,6 +13,8 @@ Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso di
 ## Encuentra lo que buscas aqui
 
 ::: info **Buscadores**
+
+
 - [**🔎 Juegos/Programas Windows**](https://cse.google.com/cse?cx=c79aa4b5ed22a40ab#gsc.tab=0)
 - [**🔎 Juegos/apps Android**](https://cse.google.com/cse?cx=660831ba151944e87)
 - [**🔎 Juegos/apps iOS**](https://appdb.to/)
