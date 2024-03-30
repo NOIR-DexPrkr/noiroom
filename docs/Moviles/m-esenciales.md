@@ -286,31 +286,30 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://liteapks.com/youtube-revanced.html" target="_blank">
+<a href="https://pixeldrain.com/u/jVCFBMou" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube Revanced</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube [NR]</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 
-*Debes descargar la version premium o Premium/lite, y ademas 'MicroG' para evitar errores de la app.*
+*Version parchada por mi. Se necesita ['MicroG-RE'](https://github.com/WSTxda/MicroG-RE/releases) para evitar errores de la app.*
 
----
+::: details Solucion a errores      
+A continuación sigue los pasos para arreglar cualquier error de reproducción. Recuerda que debiste haber instalado el MicroG-RE.
 
-<a href="https://revanced.app/" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Revanced App</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+1. Abre ajustes de Youtube [NR] 
+2. Ve a *Revanced Extended > Otros > Modificar parametro del reproductor*   
+3. Activa esta opcion y cancela el reinicio que te pide.
+4. Arriba de la opcion anterior encontrarás tambien *Modificar versión de aplicación.*
+5. Activala y tambien cancela el reinicio de la app.
+6. Por ultimo, minimiza Youtube [NR] y ve a la playstore, busca youtube y dale en "acerca de esta app" y revisa cual es la ultima versión. Actualmente es **19.12.36** pero eso podria cambiar a la fecha de este tutorial.
+7. Vuelve a Youtube [NR] y busca debajo de la opcion anterior una llamada *Versión a usar de la aplicación.*
+8. Escribe allí el numero de la versión que viste en la playstore y ahora si acepta el cuadro de reinicio de la app.
+9. Con esto ya deberia solucionarse el error. Disfruta de youtube.
 
-*Debes descargar el apk de youtube y parchar tu mismo la app, ademas de otras opciones.*
-
-
-::: details Solución: error de reproducción       
-Abre ajustes de la app `*Revanced Extended> Otros > Spoof player parameter type.*`    
-Cambia esta opcion y reinicia youtube.
+OJO: Si tienes problemas visitame en mi discord, puedes verlo al final de esta pagina. No respondo por otras redes.
 :::
 
 ---
