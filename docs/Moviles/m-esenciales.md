@@ -296,22 +296,6 @@ Todo lo que puedes hacer en la aplicacion:
 
 *Version parchada por mi. Se necesita ['MicroG'](https://github.com/revanced/gmscore/releases/tag/v0.3.1.3.240913) e iniciar sesión en ella para evitar errores de la app.*
 
-::: details Solucion a errores      
-A continuación sigue los pasos para arreglar cualquier error de reproducción. Recuerda que debiste haber instalado el MicroG-RE.
-
-1. Abre ajustes de Youtube [NR] 
-2. Ve a *Revanced Extended > Otros > Modificar parametro del reproductor*   
-3. Activa esta opcion y cancela el reinicio que te pide.
-4. Arriba de la opcion anterior encontrarás tambien *Modificar versión de aplicación.*
-5. Activala y tambien cancela el reinicio de la app.
-6. Por ultimo, minimiza Youtube [NR] y ve a la playstore, busca youtube y dale en "acerca de esta app" y revisa cual es la ultima versión. Actualmente es **19.12.36** pero eso podria cambiar a la fecha de este tutorial.
-7. Vuelve a Youtube [NR] y busca debajo de la opcion anterior una llamada *Versión a usar de la aplicación.*
-8. Escribe allí el numero de la versión que viste en la playstore y ahora si acepta el cuadro de reinicio de la app.
-9. Con esto ya deberia solucionarse el error. Disfruta de youtube.
-
-OJO: Si tienes problemas visitame en mi discord, puedes verlo al final de esta pagina. No respondo por otras redes.
-:::
-
 ---
 
 ### 8. 📸 GoogleCam
