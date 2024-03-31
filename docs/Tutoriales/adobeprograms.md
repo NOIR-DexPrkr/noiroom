@@ -75,8 +75,8 @@ Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up
 ::: details 🟦 Photoshop     
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
-- [CC 2024](https://www.mediafire.com/file/nzjxcr02mik8uru/WIN_APS_V25.5.0.375_AP_ZNT.rar/file)   
-- [CC 2023](https://mega.nz/file/2ZtAWB4D#kV94d8qWsoTgD0SNXcBAAw3cqZViefSryjaFdpjZdII) *MEGA*       
+- [CC 2024](https://windowstan.com/download/photoshop-cc-2024-x64/) [*guia para parchar*](/Tutoriales/adobeCC#guia-para-parchar-los-programas-ya-instalados)   
+- [CC 2023](https://windowstan.com/download/photoshop-cc-2023-x64/) [*guia para parchar*](/Tutoriales/adobeCC#guia-para-parchar-los-programas-ya-instalados)       
 - [CC 2022](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fyp0f1r4j0d6r21b%2FWIN_APS_V23.5.0.669_AP_ZNT.rar%2Ffile%3Asa9zMJb198iceDCybhEHp-TnIXw&cuid=4208103)            
 - [CC 2021](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fkew510adp462kyy%2FWIN_APS_V22.5.8.998_AP_ZNT.rar%2Ffile%3AGU54grbZPWIMzy-XsSUD0g0pWho&cuid=4208103)              
 - [CC 2020](http://disq.us/url?url=http%3A%2F%2Fwww.mediafire.com%2Ffile%2F732cz8arne5nlda%2FPSCC2K21.21.2.4.WIN.AP.ZNT.rar%3AKFIXEo7XoBONQly5Bs_BOWP-CAE&cuid=4208103)             
