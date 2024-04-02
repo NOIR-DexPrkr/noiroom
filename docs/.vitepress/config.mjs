@@ -89,7 +89,7 @@ export default defineConfig({
             { text: '🕸 Esenciales Moviles', link: '/Moviles/m-esenciales'},
             { text: '🕸 Para Diseñar', link: '/Moviles/m-diseño' },
             { text: '🕸 Para Ver', link: '/Moviles/m-peliculas-series'},
-            { text: '🕸 Para Escuchar musica', link: '/Moviles/m-musica'}
+            { text: '🕸 Para Musica', link: '/Moviles/m-musica'}
         ]
     }
 ],

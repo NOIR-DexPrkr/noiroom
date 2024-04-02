@@ -170,6 +170,13 @@ Version minima de android: 7
 
 ---
 
+::: danger ¿Quieres spotify?
+Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
+[Spotify Premium](/Tutoriales/spotify-premium)
+:::
+
+---
+
 ## Apps Musicales
 
 ### Guitarra 
@@ -182,13 +189,6 @@ Version minima de android: 7
 </a>
 
 *Versión antigua de la aplicación que aun permite tener todas las funciones premium, incluido en offline.*a 
-
----
-
-::: danger ¿Quieres spotify?
-Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
-[Spotify Premium](/Tutoriales/spotify-premium)
-:::
 
 ---
 
