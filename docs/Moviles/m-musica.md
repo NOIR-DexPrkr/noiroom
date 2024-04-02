@@ -188,7 +188,7 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
  </div>
 </a>
 
-*Versión antigua de la aplicación que aun permite tener todas las funciones premium, incluido en offline.*a 
+*Versión antigua de la aplicación que aun permite tener todas las funciones premium, incluido en offline.*   
 
 ---
 
