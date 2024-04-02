@@ -75,7 +75,7 @@ export default defineConfig({
           text: '💻 Escritorio',
           items: [
             { text: '🕸 Para Diseñar', link: '/Escritorio/e-diseño' },
-            { text: '🕸 Para Escuchar musica', link: '/Escritorio/e-musica' },
+            { text: '🕸 Para Musica', link: '/Escritorio/e-musica' },
             { text: '🕸 Para Estudiar', link: '/Escritorio/e-educativo' },
             { text: '🕸 Para Jugar', link: '/Escritorio/e-juegos' }
         ]
