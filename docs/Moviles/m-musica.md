@@ -170,6 +170,21 @@ Version minima de android: 7
 
 ---
 
+## Apps Musicales
+
+### Guitarra 
+
+<a href="https://buzzheavier.com/f/GKHjv2cf0AA=" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🎸 Ultimate Guitar</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Versión antigua de la aplicación que aun permite tener todas las funciones premium, incluido en offline.*a 
+
+---
+
 ::: danger ¿Quieres spotify?
 Obten spotify pero sin opcion de descarga y con todas las demas funciones premium aqui!     
 [Spotify Premium](/Tutoriales/spotify-premium)
