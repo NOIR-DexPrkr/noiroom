@@ -1,6 +1,6 @@
 ![](https://i.postimg.cc/RCXg1YZ2/Movil-musica.png)
 # Aplicaciones de Audio
-Encuentra aquí las mejores aplicaciones para reproducir musica online y offline en tu celular.
+Encuentra aquí las mejores aplicaciones para reproducir o crear musica en tu celular.
 
 ---
 
