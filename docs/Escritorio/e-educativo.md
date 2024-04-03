@@ -18,3 +18,9 @@ Los mejores programas para estudiar aquí.
 
 Esta instalación incluye Mi primera encarta, Mi encarta y los diccionarios de ingles, ademas de las enciclopedias.
 Para poder jugar y reproducir el contenido tambien trae una version segura y actualizada de FlashPlayer que debes instalar (CleanFlash). 
+
+---
+
+::: warning HEY
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
+:::

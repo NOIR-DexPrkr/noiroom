@@ -136,5 +136,5 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 ---
 
 ::: warning HEY!
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::

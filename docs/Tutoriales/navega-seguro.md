@@ -119,6 +119,6 @@ El link de cada extension te llevara a su sitio oficial para que lo instales en 
 ---
 
 ::: warning HEY!
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::
 

@@ -151,5 +151,5 @@ y reemplaza el archivo con el mismo nombre.
 ---
 
 ::: warning HEY!
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::

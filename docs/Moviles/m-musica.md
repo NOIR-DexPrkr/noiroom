@@ -193,5 +193,5 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
 ---
 
 ::: warning HEY!
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::

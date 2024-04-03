@@ -5,7 +5,7 @@ Descarga música en mp3 desde deezer en tu computadora con este increible progra
 ---
 
 ::: tip 
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::
 ---
 
@@ -86,5 +86,5 @@ Disfruta de este programa que aun sigue vivo y quizas pronto morirá.
 ---
 
 ::: warning HEY!
-> **Visita el [🚀 Discord](https://discord.gg/hVKeY3uEru) si tienes peticiones, dudas o problemas.**
+> **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
 :::

@@ -25,4 +25,4 @@
 
 
 > **¿Tienes una petición o duda durante algun tutorial?**       
-> *Hazlo desde* [🚀 Discord](https://discord.gg/hVKeY3uEru) 
+> *Hazlo desde* [🚀 Discord](https://discord.gg/cua9Qvfvz5) 

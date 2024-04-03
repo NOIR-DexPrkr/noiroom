@@ -179,6 +179,6 @@ Para encontrar otros programas de Adobe puedes entrar a esta pagina.
 ---
 
 > **¿Tienes una petición o duda durante el tutorial? ¿Se cayo un link...?**       
-> *Notificalo en* - [🚀 Discord](https://discord.gg/hVKeY3uEru) 
+> *Notificalo en* - [🚀 Discord](https://discord.gg/cua9Qvfvz5) 
 
 ---
