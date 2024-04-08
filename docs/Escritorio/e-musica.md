@@ -10,9 +10,20 @@ image: "https://i.postimg.cc/C17d7Gfz/PC-musica.png"
 Encuentra los mejores programas relacionados al audio y música.
 ## Reproductores de Música
 
+<a href="https://noramusic.netlify.app/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Nora</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*El mejor reproductor que puedes instalar en windows, tiene todo lo necesario para disfrutar la musica y ademas incluye letras de MusixMatch.* 
+
+---
+
 <a href="https://www.foobar2000.org/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Foobar</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Foobar</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
