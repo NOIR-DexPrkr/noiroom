@@ -32,6 +32,19 @@ Los mejores programas para estudiar aquí.
 
 ---
 
+<a href="https://www.pdfgear.com/">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PDFgear: Editor</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Edita documentos PDF con diferentes funciones, como recortar, marcar de agua, links, eliminar y etc, sin ningún problema.*  
+*Tiene incluso funcion de chat con IA para PDF.* 
+
+---
+
+
 <a href="https://buzzheavier.com/f/GKqCE7YL8AA=">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Sejda PDF Editor</p>
