@@ -179,18 +179,20 @@ En las opciones de descarga selecciona la .msi
  </div>
 </a>
 
-*Para jugar versiones superiores a la 16.5 de Minecraft instalar este java.*
-
 ---
 
+*Para jugar versiones superiores a la 16.5 de Minecraft instalar este java.*
+
   <a href="https://www.azul.com/downloads/?version=java-8-lts&os=windows&package=jre#zulu" target="_blank">
- <div style="position: relative; pading-top: 1em">
+ <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 8</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 *Para jugar versiones desde la 1.16 para abajo, instalar esta*
+
+
 ### Instalación       
 
   <a href="https://prismlauncher.org/download/" target="_blank">
