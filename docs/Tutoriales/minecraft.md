@@ -166,25 +166,48 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 ## Minecraft Java - Windows    
 
-> Recomendado que instales esta version de java desde [Azul](https://www.azul.com/downloads/?version=java-17-lts&os=windows&package=jdk#zulu){ target="_blank" } si planeas jugar las ultimas versiones del juego.
+### Java JRE
 
+Para empezar, es recomendado tener las versiones de java que permitiran abrir el juego.    
+Selecciona la version de 32 o 64bits dependiendo tu windows.    
+En las opciones de descarga selecciona la .msi
+
+  <a href="https://www.azul.com/downloads/?version=java-17-lts&os=windows&package=jre#zulu" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 17</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Para jugar versiones superiores a la 16.5 de Minecraft instalar este java.*
+
+---
+
+  <a href="https://www.azul.com/downloads/?version=java-8-lts&os=windows&package=jre#zulu" target="_blank">
+ <div style="position: relative; pading-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 8</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Para jugar versiones desde la 1.16 para abajo, instalar esta*
 ### Instalación       
 
   <a href="https://prismlauncher.org/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga PrismLauncher</p>
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 PrismLauncher</p>
    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
   *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
 
-2. Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
+Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
 > Este launcher es para minecraft premium. Pero con el siguiente truco podremos jugar cuentas crackeadas.
 
 #### Crack del launcher     
 
-1. Cerramos PrismLauncher y descargamos el siguiente archivo:     
+Cerramos PrismLauncher y descargamos el siguiente archivo:     
 
 <a href="https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json" target="_blank">
  <div style="position: relative; padding-top: 1em">
@@ -196,21 +219,21 @@ Descarga, instala e inicia sesion desde la pagina debajo.
   *Dale click derecho y selecciona ´guardar link como´ en caso de que no descargue directamente.*
   *Si no, crea un documento de texto nuevo pega el codigo que te muestra el enlace y guardalo con el nombre "accounts.json".*
 
-2. Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
+Ahora tomamos el archivo y lo pegamos en la siguiente ruta:    
   *AppData/Roaming/PrismLauncher*
 
 > Para ello presiona la tecla inicio + R rapidamente y pega     
  ```
- %AppData%/PrismLauncher
+ %AppData%
  ```
 
  #### Agregar Cuenta      
 
 
-1. Abrimos una vez mas el launcher.
+Abrimos una vez mas el launcher.
 
 
-2. Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
+Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
 
 > Los nombres de usuario no deben tener espacios y simbolos raros. Si lo escribes asi, te va a dar error cuando intentes jugar.
 
@@ -219,7 +242,7 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 > *Si estas teniendo problema con la cuenta offline, tambien pudes usar esta version de* [*Prism Launcher Precrackeado*](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-Setup-7.1.exe)
 
 
-#### Instalar version de Java deseada
+#### Instalar version de Minecraft java deseada
 
 1. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
 
@@ -236,7 +259,7 @@ Sigue los pasos tal cual, pero estos son los tips:
 
 - Si tienes Java 8 dara problemas si piensas jugar versiones superiores a la 1.16.
 - Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi.)
-> Puedes tener Java 8 y la de azul instaladas a la vez.
+> Puedes tener Java 8 y 17 de azul instaladas a la vez.
 
 - Al descargar el archivo account.json, asegúrate de que este correctamente escrito.
 - Asegúrate de seleccionar "añadir sin conexión" y poner tu Nick.
