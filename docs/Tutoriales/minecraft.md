@@ -193,7 +193,7 @@ En las opciones de descarga selecciona la .msi
 *Para jugar versiones desde la 1.16 para abajo, instalar esta*
 
 
-### Instalación       
+### 1. Instalación       
 
   <a href="https://prismlauncher.org/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
@@ -204,10 +204,10 @@ En las opciones de descarga selecciona la .msi
 
   *Launcher liviano y super personalizable. Ademas de tener la opcion de descargar packs y mods directamente en tus versiones del juego.*
 
-Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.
+Lo instalamos *(Escoge el idioma español de españa, el de latinoamerica no esta del todo traducido)* y no lo ejecutamos. Solo lo dejamos asi para seguir con el siguiente paso.    
 > Este launcher es para minecraft premium. Pero con el siguiente truco podremos jugar cuentas crackeadas.
 
-#### Crack del launcher     
+#### 2. Crack del launcher     
 
 Cerramos PrismLauncher y descargamos el siguiente archivo:     
 
@@ -229,13 +229,13 @@ Ahora tomamos el archivo y lo pegamos en la siguiente ruta:
  %AppData%
  ```
 
- #### Agregar Cuenta      
+ #### 3. Agregar Cuenta      
 
 
 Abrimos una vez mas el launcher.
 
 
-Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.
+Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se encuentra ahi, escogemos "gestionar cuentas" luego en "añadir sin conexión" y eso seria todo.     
 
 > Los nombres de usuario no deben tener espacios y simbolos raros. Si lo escribes asi, te va a dar error cuando intentes jugar.
 
@@ -244,11 +244,9 @@ Vamos a la esquina superior derecha y seleccionamos la foto de perfil que se enc
 > *Si estas teniendo problema con la cuenta offline, tambien pudes usar esta version de* [*Prism Launcher Precrackeado*](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Windows-MSVC-Setup-7.1.exe)
 
 
-#### Instalar version de Minecraft java deseada
+#### 4. Instalar version de Minecraft java deseada
 
-1. Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.
-
-2. Selecciona primero la version **Vanilla** que deseas jugar, iniciala/lanzala y luego si lee lo que sigue.
+Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launcher y añadir una instancia. Ahi escogemos la version deseada.     
 
 > Recomiendo que si quieres jugar una version optimizada,en la parte izquierda nos vamos donde dice Modrinth y seleccionamos "Fabulously Optimized". Le damos ok.
 
