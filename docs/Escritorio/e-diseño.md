@@ -11,7 +11,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
-### Editores de imagenes
+## Editores de imagenes
 
 <a href="https://pixeldrain.com/u/NUfBb7Qk" target="_blank">
  <div style="position: relative; padding-top: 1em">
@@ -34,7 +34,7 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 ---
 
 
-### Editores de video
+## Editores de video
 
 *Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*       
 
@@ -125,6 +125,35 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 
 *CONTRASEÑA: www.artistapirata.com*    
 *Recuerda bloquear el programa (.exe) con el firewall.*
+
+---
+
+## Dibujo
+
+<a href="https://buzzheavier.com/f/GLdN4zkMoAA=" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ SketchBook Portable</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+---
+
+<a href="https://buzzheavier.com/f/GLdN4zkMoAE=" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Studio Paint Ex</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+---
+
+<a href="https://buzzheavier.com/f/GLdN40ZMoAA=" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Corel Painter Pro</p>
+   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
 
 ---
 
