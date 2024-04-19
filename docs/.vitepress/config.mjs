@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Noir Room",
   description: "La Habitación Oscura de Dex Parker.",
   titleTemplate: ':title',
+  appearance: 'dark'
   lastUpdated:false,
   cleanUrls: true,
 
