@@ -15,14 +15,58 @@ Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso di
 ::: info **Buscadores**
 
 
-- [**🔎 Juegos/Programas Windows**](https://cse.google.com/cse?cx=c79aa4b5ed22a40ab#gsc.tab=0)
-- [**🔎 Juegos/apps Android**](https://cse.google.com/cse?cx=660831ba151944e87)
-- [**🔎 Juegos/apps iOS**](https://appdb.to/)
-- [**🔎 Apps/Programas para MAC**](https://nmac.to/now/)
-- [**🔎 Video-cursos Youtube**](https://limnology.co/) 
-- [**🔎 Libros**](https://annas-archive.org/)
-:::
+<a href="https://cse.google.com/cse?cx=c79aa4b5ed22a40ab" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Juegos/programas Windows</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
 
+---
+
+<a href="https://cse.google.com/cse?cx=660831ba151944e87" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Apps/juegos Android</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+
+<a href="https://appdb.to/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Apps/Juegos iOS</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+
+<a href="https://nmac.to/now/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Programas para MAC</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+
+<a href="https://limnology.co/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Cursos/videos Youtube</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+<a href="https://annas-archive.org/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Libros PDF/ePub</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
 
 ***Para encontrar mas, usa la barra de busqueda en la parte superior de esta pagina.***
 
