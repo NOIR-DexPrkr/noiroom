@@ -30,7 +30,7 @@ hero:
     src: https://i.postimg.cc/KvLR2ZCm/Icono-3.png
 
 features:
-  - title: 🤍 Descarga mi Web-app
+  - title: 🤍 Descarga la app Noir Room
     details: Version android del sitio, nunca se caerá. Apoya donando en buymeacoffee.
     link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/Noir%20Room.apk
   - title: 📚 Office 365 + Windows
