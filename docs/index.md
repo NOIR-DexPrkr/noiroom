@@ -30,6 +30,9 @@ hero:
     src: https://i.postimg.cc/KvLR2ZCm/Icono-3.png
 
 features:
+  - title: 🤍 Descarga mi Web-app
+    details: Version android del sitio, nunca se caerá. Apoya donando en buymeacoffee.
+    link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/Noir%20Room.apk
   - title: 📚 Office 365 + Windows
     details: Descarga y activacion de Office y Windows
     link: /Tutoriales/Win-O365
@@ -39,8 +42,6 @@ features:
   - title: ✒ Adobe Creative Cloud
     details: Descarga los programas de Adobe de manera gratis y facilmente. (Photoshop, Illustrator, etc)
     link: /Tutoriales/adobeprograms
-  - title: 🧡 Apoya el server de Minecraft
-    details: Servidor Crossplay en su ultima version. Apoya donando en buymeacoffee.
-    link: https://www.buymeacoffee.com/noiroom
+
 ---
 
