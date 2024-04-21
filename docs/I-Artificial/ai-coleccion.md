@@ -11,8 +11,8 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
 
 <a href="/I-Artificial/ai-search">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎 IAs de busqueda</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎 IAs de busqueda</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -22,8 +22,8 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
 
 <a href="/I-Artificial/ai-image">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🖼️ IAs de imagenes</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🖼️ IAs de imagenes</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -33,8 +33,8 @@ A continuación puedes encontrar una recopilación de varias paginas y algunas a
 
 <a href="/I-Artificial/ai-text">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✏️ IAs de texto/Chat</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">✏️ IAs de texto/Chat</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 

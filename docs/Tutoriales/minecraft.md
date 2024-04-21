@@ -9,36 +9,36 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
 
 <a href="#minecraft-windows-10-11">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🖼 Bedrock - Win 10 & 11 </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🖼 Bedrock - Win 10 & 11 </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 <a href="#minecraft-bedrock-android">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🗺 Bedrock - Android</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🗺 Bedrock - Android</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 <a href="#minecraft-java-windows">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Windows </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Windows </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 <a href="#minecraft-java-mac">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Mac </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Mac </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
 <a href="#minecraft-java-linux">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Linux</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java - Linux</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -57,8 +57,8 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
 
 <a href="https://www.microsoft.com/es-ad/p/minecraft-for-windows/9nblggh2jhxj?activetab=pivot:overviewtab" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga en WinStore </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga en WinStore </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -80,8 +80,8 @@ Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launche
 
 <a href="https://winaerotweaker.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Winaero Tweaker </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Winaero Tweaker </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -98,7 +98,7 @@ Requerido para el tutorial
 <a href="https://drive.google.com/file/d/1ZCtW0RH4VkCab3QmECa4-FqB4O8cRFVY/view?usp=share_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga el Parche</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 :::
@@ -111,7 +111,7 @@ Usala si no eres muy tecnologico.
 <a href="https://pixeldrain.com/u/SR5m4D7X" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Launcher X</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 :::
@@ -155,8 +155,8 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 <a href="https://mcpedl.org/minecraft-pe-1-20-20-20-apk/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Bedrock </p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga Bedrock </p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -174,8 +174,8 @@ En las opciones de descarga selecciona la .msi
 
   <a href="https://www.azul.com/downloads/?version=java-17-lts&os=windows&package=jre#zulu" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 17</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 17</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -185,8 +185,8 @@ En las opciones de descarga selecciona la .msi
 
   <a href="https://www.azul.com/downloads/?version=java-8-lts&os=windows&package=jre#zulu" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 8</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 8</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -197,8 +197,8 @@ En las opciones de descarga selecciona la .msi
 
   <a href="https://prismlauncher.org/download/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 PrismLauncher</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 PrismLauncher</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -213,8 +213,8 @@ Cerramos PrismLauncher y descargamos el siguiente archivo:
 
 <a href="https://raw.githubusercontent.com/NOIR-DexPrkr/dexco-files/9fe923dd203c401e32a28b8a591492a5e581fb49/uploads/accounts.json" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga config.json</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga config.json</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -277,8 +277,8 @@ Para el caso de MAC usa esta version ya crackeada. Se encuentra comprimida.
 
 <a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Mac</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Mac</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -289,8 +289,8 @@ Para el caso de Linux usa esta version ya crackeada. Se encuentra comprimida.
 
 <a href="https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/7.1/PrismLauncher-Linux-7.1.tar.gz" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Linux</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga para Linux</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 

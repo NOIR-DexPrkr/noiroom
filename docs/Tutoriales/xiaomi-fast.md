@@ -28,8 +28,8 @@ Tambien instalar:
 
 <a href="https://adb.clockworkmod.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚙ ADB Drivers</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⚙ ADB Drivers</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -38,8 +38,8 @@ Tambien instalar:
 
 <a href="https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java Runtime</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">☕ Java Runtime</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -48,8 +48,8 @@ Tambien instalar:
 
 <a href="https://drive.google.com/file/d/1Jv24Po9WS1fm4My8jvR_F9UECgznxb2y/view?usp=sharing" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ ADB/Fastboot</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ ADB/Fastboot</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 

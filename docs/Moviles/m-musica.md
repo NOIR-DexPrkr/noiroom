@@ -8,8 +8,8 @@ Encuentra aquí las mejores aplicaciones para reproducir o crear musica en tu ce
 
 <a href="https://doodrive.com/f/9o4zn7" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Netease</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Netease</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -21,8 +21,8 @@ Encuentra aquí las mejores aplicaciones para reproducir o crear musica en tu ce
 
 <a href="https://fildo.net/android/en/#downloadSection" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Fildo</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Fildo</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -35,8 +35,8 @@ Encuentra aquí las mejores aplicaciones para reproducir o crear musica en tu ce
 
 <a href="https://github.com/maxrave-dev/SimpMusic/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ SimpMusic</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ SimpMusic</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -66,8 +66,8 @@ Version minima de android: 8
 
 <a href="https://pixeldrain.com/u/VfacJczw" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -82,8 +82,8 @@ Esta es una version vieja que aun da la batalla.
 
 <a href="https://github.com/toasterofbread/spmp/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -104,8 +104,8 @@ Puede ser configurada, no necesariamente luce asi.
 
 <a href="https://github.com/z-huang/InnerTune/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 InnerTune</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 InnerTune</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -138,8 +138,8 @@ Version minima de android: 7
 
 <a href="https://github.com/gokadzev/Musify/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Musify</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Musify</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
@@ -183,8 +183,8 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
 
 <a href="https://buzzheavier.com/f/GKHjv2cf0AA=" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🎸 Ultimate Guitar</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🎸 Ultimate Guitar</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 

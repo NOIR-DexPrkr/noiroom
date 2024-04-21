@@ -63,8 +63,8 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 
 <a href="https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.9</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.9</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>   
 
@@ -72,8 +72,8 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
   
 <a href="https://github.com/t4rra/CCStopper/releases/download/v1.3/CCStopper.ps1" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Stopper</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC Stopper</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
 
@@ -97,7 +97,7 @@ Con esta opcion puedes descargar programas antiguos sin necesidad de descargar e
 <a href="https://prodesigntools.com/adobe-cc-2018-direct-download-links.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC 2018</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
 
@@ -106,7 +106,7 @@ Con esta opcion puedes descargar programas antiguos sin necesidad de descargar e
 <a href="https://prodesigntools.com/adobe-cc-2019-direct-download-links.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 CC 2019</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
 
@@ -137,8 +137,8 @@ Con esta opcion puedes descargar programas antiguos sin necesidad de descargar e
 
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🅰 Adobe Creative Cloud</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🅰 Adobe Creative Cloud</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>  
 

@@ -29,32 +29,32 @@ Esta serie de juegos de lucha te permite controlar a un personaje con poderes y 
 
 ### 🐲 Mortal Kombat 1 (1992)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/19082D5DD8)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/19082D5DD8)     
 *Solo descarga, instala y juega.*
 
 ### 🐲 Mortal Kombat 2 (1993)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/6ED09B5BBF)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/6ED09B5BBF)     
 *Solo descarga, instala y juega.*
 
 ### 🐲 Mortal Kombat 3 (1995)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/047E5C61CC)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/047E5C61CC)     
 *Solo descarga, instala y juega.*
 
 ### 🐲 Mortal Kombat Trilogy (1996)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/D71BA0D8D2)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/D71BA0D8D2)     
 *Solo descarga, instala y juega.*
 
 ### 🐲 Mortal Kombat 4 (1997)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/5906D4E8DE)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/5906D4E8DE)     
 *Solo descarga, instala y juega.*
 
 ### 🐲 Mortal Kombat Komplete edition (2011)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/2BBCF5D264)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/2BBCF5D264)     
 
 ::: details Instrucciones
 - Descarga todas las partes del juego usando un gestor de descargas, se recomienda [Jdownloader](https://jdownloader.org/dl?v=101) o tambien [FDM](https://www.freedownloadmanager.org/es/)
@@ -64,7 +64,7 @@ Esta serie de juegos de lucha te permite controlar a un personaje con poderes y 
 
 ### 🐲 Mortal Kombat X (2015)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/4D11AC6001)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/4D11AC6001)     
 *Solo descarga, instala y juega.*
 
 ::: details Instrucciones
@@ -75,7 +75,7 @@ Esta serie de juegos de lucha te permite controlar a un personaje con poderes y 
 
 ### 🐲 Mortal Kombat 11 (2019)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/B5B9358057)     
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/B5B9358057)     
 *Solo descarga, instala y juega.*
 
 ::: details Instrucciones

@@ -19,8 +19,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://copilot.microsoft.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Bing GPT</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Bing GPT</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -30,8 +30,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://www.perplexity.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Perplexity</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Perplexity</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -42,8 +42,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://wrtn.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ WRTN AI</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ WRTN AI</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -53,8 +53,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://www.blackbox.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Blackbox AI</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Blackbox AI</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -64,8 +64,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://www.phind.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Phind</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Phind</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -75,8 +75,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://komo.ai/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Komo AI</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Komo AI</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -86,8 +86,8 @@ Todas las inteligencias artificiales para busquedas web en un mismo lugar.
 
 <a href="https://gemini.google.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Gemini AI</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Gemini AI</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 

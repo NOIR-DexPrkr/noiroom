@@ -33,7 +33,7 @@ Descarga sus versiones a continuación:
 
 ### 💎 Los Sims 1   
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.myabandonware.com/game/the-sims-deluxe-edition-bfb#download)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.myabandonware.com/game/the-sims-deluxe-edition-bfb#download)
 
 ::: details **Instrucciones de instalacion Sims 1**
 
@@ -62,7 +62,7 @@ Descarga sus versiones a continuación:
 
 ### 💎 Los Sims 2 
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://txtlink.cybar.xyz/views/XNw95kAyeA)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://txtlink.cybar.xyz/views/XNw95kAyeA)
 
 ::: details **Instrucciones de instalacion Sims 2**
 
@@ -112,7 +112,7 @@ y reemplaza el archivo con el mismo nombre.
 
 ### 💎 Los Sims 3 
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:135BAAE99B969B53D2022BF642FAA24FE487F99C&dn=The+Sims+3%3A+Complete+Edition+%28v1.67.2.024037+%2B+All+Add-ons+%26amp%3B+Content+Store+Items%2C+MULTi21%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+10.8+GB%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fshadowshq.yi.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)   
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](magnet:?xt=urn:btih:135BAAE99B969B53D2022BF642FAA24FE487F99C&dn=The+Sims+3%3A+Complete+Edition+%28v1.67.2.024037+%2B+All+Add-ons+%26amp%3B+Content+Store+Items%2C+MULTi21%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+10.8+GB%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fshadowshq.yi.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)   
 
 *Recuerda darle a aceptar en el mensaje que te pide para que sea el programa predeterminado.*
 
@@ -131,7 +131,7 @@ y reemplaza el archivo con el mismo nombre.
 
 ### 💎 Los Sims 4
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](magnet:?xt=urn:btih:B4EA31FD376F928C4E33C74CC657C4C701D6A7EC&dn=The+Sims+4%3A+Deluxe+Edition+%28v1.98.127.1030+%2B+All+DLCs+%26amp%3B+Add-ons%2C+MULTi18%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)           
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](magnet:?xt=urn:btih:B4EA31FD376F928C4E33C74CC657C4C701D6A7EC&dn=The+Sims+4%3A+Deluxe+Edition+%28v1.98.127.1030+%2B+All+DLCs+%26amp%3B+Add-ons%2C+MULTi18%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2720%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce)           
 *Recuerda darle a aceptar en el mensaje que te pide para que sea el programa predeterminado.*
 
 ::: details **Instrucciones de instalacion Sims 4**

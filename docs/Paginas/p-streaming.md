@@ -10,8 +10,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://cuevana.si/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Cuevana 3</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Cuevana 3</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -21,8 +21,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://www.cuevana2espanol.net/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Cuevana 2</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Cuevana 2</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -32,8 +32,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://entrepeliculasyseries.nz/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Entre Peliculas y Series</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Entre Peliculas y Series</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -43,8 +43,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://animeflv.io/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AnimeFLV</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AnimeFLV</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -54,8 +54,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://aniwave.to/home/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AniwaveTV</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ AniwaveTV</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -65,8 +65,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://www17.pelisplushd.lat/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 PelisPlus</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 PelisPlus</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -76,8 +76,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://seez.su/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Seez</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Seez</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -87,8 +87,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://yaps.cc/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Yaps.cc</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Yaps.cc</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -98,8 +98,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://goku.sx/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 GOKU</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 GOKU</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -109,8 +109,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://bingewatch.to/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 BingeWatch</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 BingeWatch</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -120,8 +120,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://sflix.to/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 SFlix Movies/Series</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 SFlix Movies/Series</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -131,8 +131,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://yesmovies.ag/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Yesmovies</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Yesmovies</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -146,8 +146,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://www.rainymood.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Rainy Mood</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Rainy Mood</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -157,8 +157,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://rainyscope.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 RainyScope</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 RainyScope</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -168,8 +168,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://rainbowhunt.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 RainbowHunt</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 RainbowHunt</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -179,8 +179,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://pluvior.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Pluvior</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Pluvior</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -190,8 +190,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://noises.online/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Noises</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 🔷 Noises</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 
@@ -201,8 +201,8 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://mynoise.net/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Mynoise</p>
-    <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Mynoise</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
 

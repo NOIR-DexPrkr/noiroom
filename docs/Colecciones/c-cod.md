@@ -35,7 +35,7 @@ Call of Duty es una serie de videojuegos de disparos en primera persona, de esti
 
 Actualizado a la versión 1.51. e incluye: Call of Duty + Call of Duty: United Offensive.
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/93BA9D7799.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/93BA9D7799.html)
 *En caso que pida contraseña el link: es 221*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-deluxe-edition-multi7-elamigos.html). 
 
@@ -55,7 +55,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 Call Of duty 2 (2005)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/1CB508BF4A.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/1CB508BF4A.html)
 
 *En caso que pida contraseña el link: es 221*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-2-multi7-elamigos.html). 
@@ -78,7 +78,7 @@ Contraseña del rar: www.ovagames.com
 
 Esta en si version 1.7
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/6C43659C52.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/6C43659C52.html)
 *En caso que pida contraseña el link: es 770*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/714611-call-of-duty-4-modern-warfare-multi7-elamigos.html). 
 
@@ -98,7 +98,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - World at War (2008)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/67F16629EC.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/67F16629EC.html)
 *En caso que pida contraseña el link: es 221*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-world-at-war-multi7-elamigos.html). 
 
@@ -118,7 +118,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Modern Warfare 2 (2009)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/A4C7D30C62.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/A4C7D30C62.html)
 *En caso que pida contraseña el link: es 655*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-modern-warfare-2-multi7-prophet.html).
 
@@ -139,7 +139,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Black Ops (2010)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/71CF34F01F.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/71CF34F01F.html)
 *En caso que pida contraseña el link: es 221*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-black-ops-multi6-plaza.html).
 
@@ -168,7 +168,7 @@ Contraseña del rar: www.ovagames.com
 - Call of Duty: Modern Warfare 3 Collection 4: Final Assault (DLC)
 :::
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0F82699A9B.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/0F82699A9B.html)
 *En caso que pida contraseña el link: es 885*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-modern-warfare-3-multi6-plaza.html).
 
@@ -193,7 +193,7 @@ Contraseña del rar: www.ovagames.com
 - Call of Duty: Black Ops II – Soundtrack (DLC)
 :::
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/14EC4B25E2.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/14EC4B25E2.html)
 *En caso que pida contraseña el link: es 323*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-black-ops-ii-multi5-plaza-718.html).
 
@@ -214,7 +214,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Ghosts (2013)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/CBCD0CDC60.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/CBCD0CDC60.html)
 *En caso que pida contraseña el link: es 626*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-ghosts-multi6-prophet.html).
 
@@ -235,7 +235,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Advance Warfare (2014)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/2BB73E947E.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/2BB73E947E.html)
 *En caso que pida contraseña el link: es 711*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-advanced-warfare-multi8-prophet.html).
 
@@ -256,7 +256,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Modern Warfare Remastered (2016)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://filecrypt.cc/Container/CBE7194A95.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/CBE7194A95.html)
 *En caso que pida contraseña el link: es 734*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/825747-call-of-duty-modern-warfare-remastered-codex.html).
 
@@ -284,7 +284,7 @@ Contraseña del rar: www.ovagames.com
 - Call of Duty: Infinite Warfare – Digital Deluxe (DLC)
 :::
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/0D27D8D112.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/0D27D8D112.html)
 - [Actualizacion](https://www.filecrypt.cc/Container/56B69CA43E.html)
 *En caso que pidan contraseña los link: es 689*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-infinite-warfare-digital-deluxe-multi9-elamigos.html).
@@ -315,7 +315,7 @@ Contraseña del rar: www.ovagames.com
 - Call of Duty: Black Ops III – Zombies Chronicles (DLC)
 :::
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/621C745DB9.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/621C745DB9.html)
 *En caso que pida contraseña el link: es 852*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-black-ops-iii-zombies-chronicles-reloaded-213.html).
 
@@ -345,7 +345,7 @@ Contraseña del rar: www.ovagames.com
 - Call of Duty: WWII – Carentan Map (DLC)
 :::
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/1C399ED559.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/1C399ED559.html)
 - [Actualizacion de idioma](https://www.filecrypt.cc/Container/6768E65001.html)
 *En caso que pidan contraseña los link: es 488*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-wwii-shadow-war-codex.html).
@@ -369,7 +369,7 @@ Contraseña del rar: www.ovagames.com
 
 ### 💀 COD - Black Ops Cold War (2023)
 
-[![Descarga aquí](https://i.postimg.cc/G23xCXmL/Descarga.png)](https://www.filecrypt.cc/Container/EE16DA13AF.html)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://www.filecrypt.cc/Container/EE16DA13AF.html)
 *En caso que pidan contraseña los link: es 776*
 *Tambien si no llega a funcionar ese link, esta es la [fuente del juego](https://www.ovagames.com/call-of-duty-black-ops-cold-war-multi6-elamigos.html).
 

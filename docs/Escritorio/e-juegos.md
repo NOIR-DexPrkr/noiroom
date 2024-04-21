@@ -13,8 +13,8 @@ Encuentra las mejores sagas de juegos.
 
 <a href="https://cse.google.com/cse?cx=c79aa4b5ed22a40ab#gsc.tab=0" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 5px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕹️ Buscador de Juegos</p>
-   <img src="https://i.postimg.cc/RZPvRHhg/Mini-Descarga.png" alt="Descarga" />
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕹️ Buscador de Juegos</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 

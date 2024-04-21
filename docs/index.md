@@ -27,7 +27,7 @@ hero:
       link: /I-Artificial/ai-coleccion
   
   image:
-    src: https://i.postimg.cc/KvLR2ZCm/Icono-3.png
+    src: https://i.postimg.cc/26Vfv3Vn/NR-Img.png
 
 features:
   - title: 🤍 Descarga la app Noir Room
