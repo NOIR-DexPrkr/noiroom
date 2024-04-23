@@ -31,7 +31,7 @@ hero:
 
 features:
   - title: 🤍 Descarga la app Noir Room
-    details: Version android del sitio, nunca se caerá. Apoya donando en buymeacoffee.
+    details: Version android del sitio, nunca se caerá.
     link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/Noir%20Room.apk
   - title: 📚 Office 365 + Windows
     details: Descarga y activacion de Office y Windows
@@ -42,6 +42,9 @@ features:
   - title: ✒ Adobe Creative Cloud
     details: Descarga los programas de Adobe de manera gratis y facilmente. (Photoshop, Illustrator, etc)
     link: /Tutoriales/adobeprograms
+  - title: ⭐ Apoya mi Discord
+    details: Puedes apoyar mi discord dando Boost nitro o dando click aqui y donar.
+    link: https://www.buymeacoffee.com/noiroom
 
 ---
 

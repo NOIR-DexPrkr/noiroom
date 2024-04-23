@@ -43,6 +43,8 @@ Puedes usar estos navegadores multiplataforma
  </div>
 </a>
 
+*Pues, es Firefox.*
+
 ## Navegadores moviles
 
 Puedes usar estos navegadores que funcionan en Android y iOS
