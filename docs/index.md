@@ -26,7 +26,7 @@ hero:
 features:
   - title: 🤍 Descarga LCDH-NR 
     details: Version web-apk de esta pagina, nunca se caerá.
-    link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/Noir%20Room.apk
+    link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/LCDH-NR.apk
   - title: 📚 Office 365 + Windows
     details: Descarga y activa tu Office y Windows
     link: /Tutoriales/Win-O365
