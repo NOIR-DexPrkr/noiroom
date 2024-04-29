@@ -4,46 +4,40 @@ layout: home
 
 hero:
   name: "Noir Room"
-  text: "La Habitación Oscura."
-  tagline: Tutoriales, programas, apps, y mas.
+  text: "LCDH x NR"
+  tagline: Noir Room se esta uniendo a Los consejos de Homero para traerte aun mas contenido.
   actions:
     - theme: brand
-      text: Tutoriales
+      text: ⭐ Tutoriales Noir
       link: /Tutoriales/tutos
     - theme: alt
-      text: Escritorio
-      link: /Escritorio/e-diseño
+      text: 🤍 Contenido Noir
+      link: /bienvenida
     - theme: alt
-      text: Colecciones
-      link: /Colecciones/nostalgia
+      text: 📀 Index LCDH
+      link: /LCDH-NR/lcdh-nr
     - theme: alt
-      text: Moviles
-      link: /Moviles/m-esenciales
-    - theme: alt
-      text: Paginas
-      link: /Paginas/pages
-    - theme: alt
-      text: IA
-      link: /I-Artificial/ai-coleccion
+      text: 💚 Ayuda Psicológica
+      link: /ayuda-psicologica
   
   image:
-    src: https://i.postimg.cc/26Vfv3Vn/NR-Img.png
+    src: https://i.postimg.cc/L41SY3DW/LCDH-NR.png
 
 features:
-  - title: 🤍 Descarga la app Noir Room
-    details: Version android del sitio, nunca se caerá.
+  - title: 🤍 Descarga LCDH-NR 
+    details: Version web-apk de esta pagina, nunca se caerá.
     link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/Noir%20Room.apk
   - title: 📚 Office 365 + Windows
-    details: Descarga y activacion de Office y Windows
+    details: Descarga y activa tu Office y Windows
     link: /Tutoriales/Win-O365
-  - title: ⛏ Minecraft Bedrock/Java
+  - title: ⛏ Minecraft gratis
     details: Descarga Minecraft gratis en todas sus plataformas.
     link: /Tutoriales/minecraft
-  - title: ✒ Adobe Creative Cloud
-    details: Descarga los programas de Adobe de manera gratis y facilmente. (Photoshop, Illustrator, etc)
+  - title: ✒ Programas de Adobe
+    details: Photoshop, Illustrator, Premiere, etc. Todos los programas sin problemas.
     link: /Tutoriales/adobeprograms
-  - title: ⭐ Apoya mi Discord
-    details: Puedes apoyar mi discord dando Boost nitro o dando click aqui y donar.
+  - title: ⭐ Apoya nuestra comunidad
+    details: Puedes apoyar nuestro discord dando Boost nitro o dando click aqui y donar.
     link: https://www.buymeacoffee.com/noiroom
 
 ---

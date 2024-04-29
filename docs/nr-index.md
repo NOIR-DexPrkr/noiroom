@@ -1,11 +1,12 @@
 ---
-title: Index de Noir
+title: Buscadores LCDH-NR
 description: Encuentra tutoriales, programas, apps, paginas y mas.
 image: "https://i.postimg.cc/mZS7pMG3/Index-page-2.png"
 ---
 
 ![](https://i.postimg.cc/bwKCD2wJ/Index-page.png)
-# Noir Index - Links
+# Buscadores LCDH-NR
+
 Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso directo de la pagina.
 
 ---
@@ -71,5 +72,8 @@ Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso di
 ***Para encontrar mas, usa la barra de busqueda en la parte superior de esta pagina.***
 
 ---
-> El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
-> **Si necesitas algo mas y no esta aqui, visitame en Discord.**
+
+::: danger HEY!
+El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
+**Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**
+:::

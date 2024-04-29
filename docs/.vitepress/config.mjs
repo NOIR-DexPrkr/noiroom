@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "Noir Room",
-  description: "La Habitación Oscura de Dex Parker.",
+  description: "Los Habitación oscura de LCDH.",
   titleTemplate: ':title',
   appearance: 'dark',
   lastUpdated:false,
@@ -30,13 +30,13 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
-      { text: 'Index NR', link: '/nr-index', activeMatch: '/nrindex'},
-      { text: '🔁 23 abril 24', link: '/', activeMatch: '/d'}
+      { text: 'Buscadores', link: '/nr-index', activeMatch: '/nrindex'},
+      { text: '🔁 28 abril 24', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
     
-    logo: {src: 'https://i.postimg.cc/gjdy9gby/Icon-white.png', width: 25, height: 25 },
+    logo: {src: 'https://i.postimg.cc/63vNZWK1/NR-nbcircle.png', width: 25, height: 25 },
 
     outline: {
       level: [1,4],
@@ -138,6 +138,53 @@ export default defineConfig({
               { text: '🕹️ Grand Theft Auto', link: '/Colecciones/c-gta' },
               { text: '🕹️ Mortal Kombat', link: '/Colecciones/c-mk' },
               { text: '🕹️ The Sims', link: '/Colecciones/c-sims' }
+          ]
+      }
+  ],
+        // LCDH-NR 
+        '/LCDH-NR/': [
+          {
+            text: '🍩 LCDH-NR',
+            items: [
+              { text: '⭐ Index', link: '/LCDH-NR/lcdh-nr' },
+              { text: '🤓 Guias', collapsed: true,
+              items: [
+                {text: '🛡️ Guia cyberseguridad', link: '/LCDH-NR/guia-cyberseguridad'},
+                {text: '🍩 Guia LCDH-NR', link: '/LCDH-NR/guia-lcdh'}
+              ]},
+              { text: '🖥️ PC', collapsed: true,
+              items: [
+                {text: '💿 Programas', link: '/LCDH-NR/pc-programas'},
+                {text: '🕹️ Juegos', link: '/LCDH-NR/pc-juegos'}
+              ]},
+              { text: '📲 Movil', collapsed: true,
+              items: [
+                {text: '👽 Android', link: '/LCDH-NR/moviles-apps'},
+                {text: '📱 iOS', link: '/LCDH-NR/moviles-ios'},
+                {text: '⬇️ Descarga apps', link: '/LCDH-NR/moviles-recursos'}
+              ]},
+              { text: '🎧Musica', collapsed: true,
+              items: [
+                {text: '💿 Albumes/Canciones', link: '/LCDH-NR/musica-archivos'},
+                {text: '🎵 Descarga musica', link: '/LCDH-NR/musica-recursos'}
+              ]},
+              { text: '🎮 Juegos', collapsed: true,
+              items: [
+                {text: '🕹️ Pack de juegos', link: '/LCDH-NR/juegos-packs'},
+                {text: '🖲️ Emuladores', link: '/LCDH-NR/emuladores'}
+              ]},
+              { text: '📚 Libros', collapsed: true,
+              items: [
+                {text: '🎓 Academicos', link: '/LCDH-NR/libros-academicos'},
+                {text: '📔 Variado', link: '/LCDH-NR/libros-varios'},
+                {text: '⬇️ Descarga libros', link: '/LCDH-NR/libros-descarga'}
+              ]},
+              { text: '🎓 Cursos gratis', link: '/LCDH-NR/cursos-gratis' },
+              { text: '📙 Comics', link: '/LCDH-NR/comics' },
+              { text: '🍿 Peliculas/Series/TV', link: '/LCDH-NR/peliculas-series' },
+              { text: '🔧 Utilidades', link: '/LCDH-NR/utilidades' },
+              { text: '🤖 Inteligencia artificial', link: '/LCDH-NR/inteligencia-artificial'},
+              { text: '📂 Recursos varios', link: '/LCDH-NR/recursos-varios' }
           ]
       }
   ],
