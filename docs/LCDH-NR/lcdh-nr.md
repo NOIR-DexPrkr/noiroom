@@ -1,6 +1,6 @@
 ---
 title: Index LCDH-NR
-description: Pide tutoria y consejos a través de un chat privado en Discord.
+description: Aportes y contenido del grupo de LCDH en Facebook.
 image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
 ---
 
