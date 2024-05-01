@@ -11,11 +11,11 @@ Serie de juegos aportados por la comunidad y moderadores.
 ## Escritorio
 
 
-- 🍩 [NOSTALGIA](https://www.dexnr.online/Colecciones/nostalgia#juegos-flash-web)     
+- 🍩 [NOSTALGIA](/Colecciones/nostalgia)     
     *Pack de juegos web hecho por Dexco, incluye juegos antiguos.*
 - 🍩 [Assassin's Creed](https://docs.google.com/document/u/0/d/1piWk8ILVtvFCOJL28eAioWKS2NDNRoSnJI59fYtHKLY/mobilebasic)     
     *Incluye los juegos de la saga.*
-- 🍩 [Age of Empires](https://www.dexnr.online/Colecciones/c-aoe#megacoleccion-de-age-of-empires)     
+- 🍩 [Age of Empires](/Colecciones/c-aoe#megacoleccion-de-age-of-empires)     
     *Incluye AOE I, II, III y IV.*
 - 🍩 [Angry Birds](https://doodrive.com/f/dz70kv)     
     *Incluye todos los juegos de la saga.*
@@ -25,7 +25,7 @@ Serie de juegos aportados por la comunidad y moderadores.
     *Incluye todos los juegos de la saga.*
 - 🍩 [Bioshock](https://drive.google.com/file/d/121PfoRKctMV2NJZOaIR7DVtgGOWXJuTv/view)     
     *Incluye todos los juegos de la saga.*
-- 🍩 [Call of Duty](https://www.dexnr.online/Colecciones/c-cod)     
+- 🍩 [Call of Duty](/Colecciones/c-cod)     
     *Incluye casi todos los juegos, a exepción de algunos.*
 - 🍩 [Doom](https://docs.google.com/document/u/0/d/1ejA0VtNxT7-ILhkRVu-xadaI16O_8MgYxfIahHl5Zik/mobilebasic)     
     *Incluye todos los juegos de la saga.*
@@ -33,7 +33,7 @@ Serie de juegos aportados por la comunidad y moderadores.
     *Incluye Starfield, No Man's Sky y Outer Wilds.*
 - 🍩 [Final Fantasy](https://docs.google.com/document/u/0/d/1X-WfEk-90yeoCx1q6lXMA4szAW2u1XrLXeaqLRpJV6U/mobilebasic)     
     *Incluye todos los juegos de la saga.*
-- 🍩 [Grand Theft Auto](https://www.dexnr.online/Colecciones/c-gta)     
+- 🍩 [Grand Theft Auto](/Colecciones/c-gta)     
     *Incluye todos los juegos de la saga.*
 - 🍩 [Jet Set Radio](https://aiharagarden.notion.site/Jet-Set-Radio-Collection-640c14400d934e4aad2925592337af49)     
     *Incluye algunos juegos de la saga.*
@@ -43,11 +43,11 @@ Serie de juegos aportados por la comunidad y moderadores.
     *Incluye todos los juegos de la saga.*
 - 🍩 [Lego](https://drive.google.com/file/d/1jJtr6bcYzbKrzwojn7l6Puqw6Aevgllo/view)     
     *Incluye Batman, Star Wars, Harry Potter y POTC.*
-- 🍩 [Los Sims](https://www.dexnr.online/Colecciones/c-sims)     
+- 🍩 [Los Sims](/Colecciones/c-sims)     
     *Incluye todos los juegos de la saga.*
-- 🍩 [Minecraft Java & Bedrock](https://www.dexnr.online/Tutoriales/minecraft#minecraft-premium)     
+- 🍩 [Minecraft Java & Bedrock](/Tutoriales/minecraft#minecraft-premium)     
     *Incluye todas las versiones actuales.*
-- 🍩 [Mortal Kombat](https://www.dexnr.online/Colecciones/c-mk)     
+- 🍩 [Mortal Kombat](/Colecciones/c-mk)     
     *Incluye todos los juegos de la saga.*
 - 🍩 [Pack de San Valentín](https://docs.google.com/document/u/0/d/1qAzBf3LUwK6KwycgRu-BMyT-UKgvqPMrwhQuJS80Nr4/mobilebasic)     
     *Incluye varios.*

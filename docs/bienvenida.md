@@ -12,7 +12,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ## Contenido
 
-<a href="/Tutoriales/tutos" target="_blank">
+<a href="/Tutoriales/tutos">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 📗 Tutoriales </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -23,7 +23,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-<a href="/Escritorio/e-diseño" target="_blank">
+<a href="/Escritorio/e-diseño">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 🖥️ Escritorio </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -34,7 +34,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-<a href="/Colecciones/nostalgia" target="_blank">
+<a href="/Colecciones/nostalgia">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 📚 Colecciones </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -45,7 +45,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-<a href="/Moviles/m-esenciales" target="_blank">
+<a href="/Moviles/m-esenciales">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 📱 Moviles </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -56,7 +56,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-<a href="/Paginas/pages" target="_blank">
+<a href="/Paginas/pages">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 🌐 Paginas </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -67,7 +67,7 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
-<a href="/I-Artificial/ai-coleccion" target="_blank">
+<a href="/I-Artificial/ai-coleccion">
   <div style="position: relative; padding-top: 1em">
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px"> 🤖 IA </p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />

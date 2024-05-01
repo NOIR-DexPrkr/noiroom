@@ -11,11 +11,11 @@ image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
 ### **Inteligencia Artificial**
 
 
-- 🍩 [IA de generación de texto](https://noiroom.tech/I-Artificial/ai-text)    
+- 🍩 [IA de generación de texto](/I-Artificial/ai-text)    
 *Lista de IAs por NR.*
-- 🍩 [IA de generación de imágenes](https://noiroom.tech/I-Artificial/ai-image)    
+- 🍩 [IA de generación de imágenes](/I-Artificial/ai-image)    
 *Lista de IAs por NR.*
-- 🍩 [IA de generación de búsqueda](https://noiroom.tech/I-Artificial/ai-search)    
+- 🍩 [IA de generación de búsqueda](/I-Artificial/ai-search)    
 *Lista de IAs por NR.*
 - 🍩 [Futurepedia:](https://www.futurepedia.io/)    
 *Catalogo de IAs por categoria.*

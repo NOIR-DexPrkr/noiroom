@@ -15,7 +15,7 @@ hero:
       link: /bienvenida
     - theme: alt
       text: 📀 Index LCDH
-      link: /LCDH-NR/lcdh-nr
+      link: /Index/lcdh-nr
     - theme: alt
       text: 💚 Ayuda Psicológica
       link: /ayuda-psicologica

@@ -73,14 +73,14 @@ image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
 
 ### Escuchar música:
 
-- 🍩[Spotify Premium](https://www.dexnr.online/Tutoriales/spotify-premium#spotify-premium-pc-movil)     
+- 🍩[Spotify Premium](/Tutoriales/spotify-premium#spotify-premium-pc-movil)     
 *Incluye streaming, pero NO SE PUEDE DESCARGAR MÚSICA.*
     
-- 🍩[Descargar MP3 & FLAC](https://www.dexnr.online/Moviles/m-musica#streaming-descarga-mp3-flac)     
+- 🍩[Descargar MP3 & FLAC](/Moviles/m-musica#streaming-descarga-mp3-flac)     
 *Incluye streamings y descarga de archivos mp3 y flac.*
 *Podrás encontrar apps como Netease y Fildo.*
     
-- 🍩[Descargar en APP](https://www.dexnr.online/Moviles/m-musica#streaming-descaga-inapp)     
+- 🍩[Descargar en APP](/Moviles/m-musica#streaming-descaga-inapp)     
 *Incluye streaming y descarga en la aplicación. Podrás encontrar apps como Deezer, BlackHole, Musify, etc.* 
 
 

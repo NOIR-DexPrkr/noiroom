@@ -8,8 +8,8 @@ image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
 
 ::: danger ¿Quieres descargar música, o aplicaciones?
 
-- ⭐ [PC](https://lcdh.tech/escritorio/e-programas/#descarga-musica-y-video) 
-- ⭐ [Móvil](https://lcdh.tech/móviles/m-android/#escuchar-música)
+- ⭐ [PC](/Index/musica-recursos) 
+- ⭐ [Móvil](/Moviles/m-musica)
 
 :::
 

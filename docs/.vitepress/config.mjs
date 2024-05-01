@@ -30,8 +30,8 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
-      { text: 'Buscadores', link: '/nr-index', activeMatch: '/nrindex'},
-      { text: '🔁 28 abril 24', link: '/', activeMatch: '/d'}
+      { text: 'Buscadores', link: '/buscadores', activeMatch: '/buscadores'},
+      { text: '🔁 30 abril 24', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
@@ -142,49 +142,49 @@ export default defineConfig({
       }
   ],
         // LCDH-NR 
-        '/LCDH-NR/': [
+        '/Index/': [
           {
             text: '🍩 LCDH-NR',
             items: [
-              { text: '⭐ Index', link: '/LCDH-NR/lcdh-nr' },
+              { text: '⭐ Index', link: '/Index/lcdh-nr' },
               { text: '🤓 Guias', collapsed: true,
               items: [
-                {text: '🛡️ Guia cyberseguridad', link: '/LCDH-NR/guia-cyberseguridad'},
-                {text: '🍩 Guia LCDH-NR', link: '/LCDH-NR/guia-lcdh'}
+                {text: '🛡️ Guia cyberseguridad', link: '/Index/guia-cyberseguridad'},
+                {text: '🍩 Guia LCDH-NR', link: '/Index/guia-lcdh'}
               ]},
               { text: '🖥️ PC', collapsed: true,
               items: [
-                {text: '💿 Programas', link: '/LCDH-NR/pc-programas'},
-                {text: '🕹️ Juegos', link: '/LCDH-NR/pc-juegos'}
+                {text: '💿 Programas', link: '/Index/pc-programas'},
+                {text: '🕹️ Juegos', link: '/Index/pc-juegos'}
               ]},
               { text: '📲 Movil', collapsed: true,
               items: [
-                {text: '👽 Android', link: '/LCDH-NR/moviles-apps'},
-                {text: '📱 iOS', link: '/LCDH-NR/moviles-ios'},
-                {text: '⬇️ Descarga apps', link: '/LCDH-NR/moviles-recursos'}
+                {text: '👽 Android', link: '/Index/moviles-apps'},
+                {text: '📱 iOS', link: '/Index/moviles-ios'},
+                {text: '⬇️ Descarga apps', link: '/Index/moviles-recursos'}
               ]},
               { text: '🎧Musica', collapsed: true,
               items: [
-                {text: '💿 Albumes/Canciones', link: '/LCDH-NR/musica-archivos'},
-                {text: '🎵 Descarga musica', link: '/LCDH-NR/musica-recursos'}
+                {text: '💿 Albumes/Canciones', link: '/Index/musica-archivos'},
+                {text: '🎵 Descarga musica', link: '/Index/musica-recursos'}
               ]},
               { text: '🎮 Juegos', collapsed: true,
               items: [
-                {text: '🕹️ Pack de juegos', link: '/LCDH-NR/juegos-packs'},
-                {text: '🖲️ Emuladores', link: '/LCDH-NR/emuladores'}
+                {text: '🕹️ Pack de juegos', link: '/Index/juegos-packs'},
+                {text: '🖲️ Emuladores', link: '/Index/emuladores'}
               ]},
               { text: '📚 Libros', collapsed: true,
               items: [
-                {text: '🎓 Academicos', link: '/LCDH-NR/libros-academicos'},
-                {text: '📔 Variado', link: '/LCDH-NR/libros-varios'},
-                {text: '⬇️ Descarga libros', link: '/LCDH-NR/libros-descarga'}
+                {text: '🎓 Academicos', link: '/Index/libros-academicos'},
+                {text: '📔 Variado', link: '/Index/libros-varios'},
+                {text: '⬇️ Descarga libros', link: '/Index/libros-descarga'}
               ]},
-              { text: '🎓 Cursos gratis', link: '/LCDH-NR/cursos-gratis' },
-              { text: '📙 Comics', link: '/LCDH-NR/comics' },
-              { text: '🍿 Peliculas/Series/TV', link: '/LCDH-NR/peliculas-series' },
-              { text: '🔧 Utilidades', link: '/LCDH-NR/utilidades' },
-              { text: '🤖 Inteligencia artificial', link: '/LCDH-NR/inteligencia-artificial'},
-              { text: '📂 Recursos varios', link: '/LCDH-NR/recursos-varios' }
+              { text: '🎓 Cursos gratis', link: '/Index/cursos-gratis' },
+              { text: '📙 Comics', link: '/Index/comics' },
+              { text: '🍿 Peliculas/Series/TV', link: '/Index/peliculas-series' },
+              { text: '🔧 Utilidades', link: '/Index/utilidades' },
+              { text: '🤖 Inteligencia artificial', link: '/Index/inteligencia-artificial'},
+              { text: '📂 Recursos varios', link: '/Index/recursos-varios' }
           ]
       }
   ],
