@@ -1,6 +1,6 @@
 ---
 title: Colección Fallout
-description: Mega colección de Age of Empires para todas las plataformas.
+description: Mega colección de Fallout para todas las plataformas.
 image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 ---
 ![](https://i.postimg.cc/4dX1VvkJ/PC-juegos.png)
