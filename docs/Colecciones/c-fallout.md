@@ -32,6 +32,8 @@ Ten en cuenta que las consolas deben estar crackeadas o chipeada como le dicen p
 - [Switch](https://romslab.com/fallout-switch-nsp-free-download/)
 :::
 
+::: details Moviles
+
 Para android solo existe Fallout Shelter.    
 Mira mas abajo esa version.
 
