@@ -17,7 +17,7 @@ Todos necesitamos comer, ¿no?
 -      
 En fin, usa este tutorial si no tienes seguridad en tu navegador:       
 
-[Tutorial IMPORTANTE de SEGURIDAD](/tutoriales/navega-seguro)
+[Tutorial IMPORTANTE de SEGURIDAD](/Tutoriales/navega-seguro)
 :::
 
 ## Versiones para Consolas y Moviles
