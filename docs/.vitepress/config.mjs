@@ -136,6 +136,7 @@ export default defineConfig({
               { text: '🕹️ Age of Empires', link: '/Colecciones/c-aoe' },
               { text: '🕹️ Call of Duty', link: '/Colecciones/c-cod' },
               { text: '🕹️ Grand Theft Auto', link: '/Colecciones/c-gta' },
+              { text: '🕹️ Fallout', link: '/Colecciones/c-fallout'},
               { text: '🕹️ Mortal Kombat', link: '/Colecciones/c-mk' },
               { text: '🕹️ The Sims', link: '/Colecciones/c-sims' }
           ]
