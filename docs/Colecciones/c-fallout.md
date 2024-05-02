@@ -7,14 +7,14 @@ image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 # Megacolección de Fallout
 Descarga todos los juegos posibles de Fallout 4 en cualquier plataforma aquí.
 
-::: danger IMPORTANTE
+::: danger **IMPORTANTE**
 
 A continuación podras descargar todos los juegos de Fallout posibles de forma gratuita. Como toda cosa gratis tiene sus riesgos.    
 ¿Cuales son esos riesgos?      
 Siempre debes usar bloqueador de anuncios, o te vas a llevar una sorpresa descargando lo que no es.     
 Esto no es culpa de quienes suben los archivos, pero si de los sitios que dejan subir archivos gratis.     
 Todos necesitamos comer, ¿no?
--      
+     
 En fin, usa este tutorial si no tienes seguridad en tu navegador:       
 
 [Tutorial IMPORTANTE de SEGURIDAD](/Tutoriales/navega-seguro)
