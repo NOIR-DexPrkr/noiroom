@@ -168,30 +168,13 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 ### Java JRE
 
-Para empezar, es recomendado tener las versiones de java que permitiran abrir el juego.    
-Selecciona la version de 32 o 64bits dependiendo tu windows.    
-En las opciones de descarga selecciona la .msi
+Para empezar, es recomendado tener las versiones de java que permitiran abrir el juego. Si no, no te abrira y te saldra error codigo 2.       
 
-  <a href="https://www.azul.com/downloads/?version=java-17-lts&os=windows&package=jre#zulu" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 17</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
+- Para versiones anteriores a la 1.16.5: [32bits](https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-i586.exe) - [64bits](https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-x64.exe)   
+- Para versiones superiores a la 1.16.5 hasta 1.20.1: [64bits](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) - 32 bits no hay.
+- Para las ultimas versiones de Minecraft, 1.20.6 en adelante: [64bits](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe)       
 
----
-
-*Para jugar versiones superiores a la 16.5 de Minecraft instalar este java.*
-
-  <a href="https://www.azul.com/downloads/?version=java-8-lts&os=windows&package=jre#zulu" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Java JRE 8</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-*Para jugar versiones desde la 1.16 para abajo, instalar esta*
-
+*Por cada version o instancia en el Launcher debes seleccionar el tipo de java para esta en PrismLauncher.*
 
 ### 1. Instalación       
 
@@ -257,10 +240,7 @@ Ahora, solo nos queda abrir PrismLauncher, seguir los pasos que nos da el Launch
 
 Sigue los pasos tal cual, pero estos son los tips:
 
-- Si tienes Java 8 dara problemas si piensas jugar versiones superiores a la 1.16.
-- Descarga Java 17 desde Azul, que se encuentra dentro de los pasos. (El archivo debe terminar en .msi.)
-> Puedes tener Java 8 y 17 de azul instaladas a la vez.
-
+- Descarga los java conrrespondientes para cada version de minecraft y agregalos a las configuraciones de la isntancia que quieres jugar.
 - Al descargar el archivo account.json, asegúrate de que este correctamente escrito.
 - Asegúrate de seleccionar "añadir sin conexión" y poner tu Nick.
 - A un lado de "Añadir instancia" verás la opción de "ajustes". Haz clic en ella y selecciona "java Autodetectar" en la opción que tiene una estrella 🌟. Luego, haz clic en "probar".
