@@ -127,7 +127,7 @@ Mira mas abajo esa version.
 
 ### Fallout 4 GOTY Edition (2015)
 
-<a href="https://filecrypt.cc/Container/2F2EEAD93B" target="_blank">
+<a href="https://filecrypt.cc/Container/4D7E3C8962" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 Fallout 4</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
