@@ -286,7 +286,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://pixeldrain.com/u/NdKyRMTi" target="_blank">
+<a href="https://pixeldrain.com/u/LGPH9Tzu" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube [NR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -294,7 +294,7 @@ Todo lo que puedes hacer en la aplicacion:
 </a>
 
 
-*Version parchada por mi. Se necesita ['MicroG'](https://github.com/revanced/gmscore/releases/tag/v0.3.1.3.240913) e iniciar sesión en ella para evitar errores de la app.*
+*Version parchada por mi. Una vez abras la app, te llevara a descargar GMS Core, conocido como MicroG. Es necesario para iniciar sesión en en la app y evitar tener errores.*
 
 ---
 
