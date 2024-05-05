@@ -1,7 +1,7 @@
 ---
 title: Guia de cyber-seguridad
 description: Aprende cuales son los pasos para embarcarte sin riesgos en los sitios de descarga gratuita en internet.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![](https://i.postimg.cc/G2B2JLrG/Cyberseguridad.png)

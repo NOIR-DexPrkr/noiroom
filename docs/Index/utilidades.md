@@ -1,7 +1,7 @@
 ---
 title: Utilidades
 description: Serie de páginas y programas de utilidad para PC y móviles
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/PJstW1Sn/util.png)    
 # Utilidades

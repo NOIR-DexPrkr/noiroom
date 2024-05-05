@@ -1,7 +1,7 @@
 ---
 title: Juegos para PC
 description: Pide tutoria y consejos a través de un chat privado en Discord.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![escritorio](https://i.postimg.cc/NjgjC7Bg/PC-juegos.png)    
 # Juegos para PC

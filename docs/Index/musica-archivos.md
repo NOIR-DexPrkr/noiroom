@@ -1,7 +1,7 @@
 ---
 title: Archivos musicales
 description: Colección de varios recursos referentes a la musica.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/9QJF6RQy/Musica-archives.png)
 # ARchivos musicales

@@ -1,7 +1,7 @@
 ---
 title: Recursos musicales
 description: Reproduce, descarga o descubre musica.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/q7FB7PnR/Musica-recursos.png)
 # Recursos musicales

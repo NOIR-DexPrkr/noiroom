@@ -1,7 +1,7 @@
 ---
 title: Aplicaciones moviles
 description: Serie de aplicaciones utiles para tu telefono
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/wxmM1jwd/Movil-android.png)     
 # Aplicaciones para Móviles

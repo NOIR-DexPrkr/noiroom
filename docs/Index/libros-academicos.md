@@ -1,7 +1,7 @@
 ---
 title: Libros académicos
 description: Pide tutoria y consejos a través de un chat privado en Discord.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![LCDH-NR](https://i.postimg.cc/NFmjSdK0/Libros-edu.png)
 # Libros académicos

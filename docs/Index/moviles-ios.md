@@ -1,7 +1,7 @@
 ---
 title: Recursos para iOS
 description: De todo un poco para los usuarios de iOS
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/NfvMmvn2/Movil-ios.png)
 # Recursos para iOS

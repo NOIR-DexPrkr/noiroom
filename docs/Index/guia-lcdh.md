@@ -1,7 +1,7 @@
 ---
 title: Guia de LCDH-NR
 description: Serie de consejos y detalles que necesitas saber si haces parte de la comunidad
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![](https://i.postimg.cc/JzmsVCcC/LCDH-Facebook.png)

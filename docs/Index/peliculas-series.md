@@ -1,7 +1,7 @@
 ---
 title: Peliculas y Series
 description: Todo lo relacionado al streaming aquí
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/1XGyJ4dn/TV.png)
 # Pelicuas, Series y TV

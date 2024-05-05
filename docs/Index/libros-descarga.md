@@ -1,7 +1,7 @@
 ---
 title: Descarga de Libros y Artículos
 description: Descarga libros y artículos de manera gratuita desde diversas fuentes en línea.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 # ![](https://i.postimg.cc/NMW0d3fV/Libros-down.png)

@@ -1,7 +1,7 @@
 ---
 title: Recursos varios
 description: Recursos para todo tipo de situaciones y casos
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/JnBrHpcQ/recursos-varios.png)
 # Recursos variados

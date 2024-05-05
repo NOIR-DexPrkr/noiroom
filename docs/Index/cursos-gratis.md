@@ -1,7 +1,7 @@
 ---
 title: Cursos gratis
 description: Colección de cursos en video, libros, audio.
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![](https://i.postimg.cc/gk3xT2hK/Cursos.png)

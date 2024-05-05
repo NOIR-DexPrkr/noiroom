@@ -1,7 +1,7 @@
 ---
 title: Comics
 description: Colección de recursos para leer comics
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![](https://i.postimg.cc/y8HDZC3Q/comics.png)

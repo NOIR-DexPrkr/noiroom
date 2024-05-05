@@ -1,7 +1,7 @@
 ---
 title: Inteligencia artificial
 description: Paginas y apps para usar las IA gratis
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/mDg0tkSY/ia.png)
 # Inteligencia Artificial

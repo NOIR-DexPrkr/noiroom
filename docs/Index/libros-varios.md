@@ -1,7 +1,7 @@
 ---
 title: Libros varios
 description: Descarga libros especificos aportados en el grupo
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/R0Zqh1DP/Libros-var.png)
 # Libros varios

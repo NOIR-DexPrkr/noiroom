@@ -1,7 +1,7 @@
 ---
 title: Juegos para PC y moviles
 description: Lista de coleccion de juegos para windows y android
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![colecciones.png](https://i.postimg.cc/RZRNvpX6/Juegos-packs.png)

@@ -4,24 +4,24 @@ layout: home
 
 hero:
   name: "Noir Room"
-  text: "LCDH x NR"
-  tagline: Noir Room se esta uniendo a Los consejos de Homero para traerte aun mas contenido.
+  text: "Consejos Noir"
+  tagline: Los Consejos de Homero x Noir Room, pagina de tutoriales y aportes de la comunidad.
   actions:
     - theme: brand
-      text: ⭐ Tutoriales Noir
+      text: ⭐ Tutoriales NR
       link: /Tutoriales/tutos
     - theme: alt
-      text: 🤍 Contenido Noir
+      text: 🤍 Contenido NR
       link: /bienvenida
     - theme: alt
-      text: 📀 Index LCDH
+      text: 📀 Index CNR
       link: /Index/lcdh-nr
     - theme: alt
       text: 💚 Ayuda Psicológica
       link: /ayuda-psicologica
   
   image:
-    src: https://i.postimg.cc/L41SY3DW/LCDH-NR.png
+    src: https://i.postimg.cc/PJLQVqSf/CNR-LOGO.png
 
 features:
   - title: 🤍 Descarga LCDH-NR 

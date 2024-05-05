@@ -1,7 +1,7 @@
 ---
 title: Programas para PC
 description: Serie de programas para escritorio
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/Ls5629Jw/PC-programas.png)
 # Programas para PC

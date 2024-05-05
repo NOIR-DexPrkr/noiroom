@@ -1,7 +1,7 @@
 ---
 title: Emuladores
 description: Colección de emuladores para juegos y demás
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 
 ![](https://i.postimg.cc/nLSrDj8n/Juegos-emu.png)

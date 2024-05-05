@@ -1,7 +1,7 @@
 ---
 title: Apps para móviles
 description: Todo lo relacionado a telefonos aquí
-image: "https://i.postimg.cc/1zfvNBxd/LCDH-NR.png"
+image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 ---
 ![](https://i.postimg.cc/X7KvgDMH/Movil-down.png)      
 # Apps para moviles
