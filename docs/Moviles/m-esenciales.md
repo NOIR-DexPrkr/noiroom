@@ -286,15 +286,23 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://pixeldrain.com/u/LGPH9Tzu" target="_blank">
- <div style="position: relative; padding-top: 1em">
+<a href="https://pixeldrain.com/u/LGPH9Tzu" target="_blank"> 
+ <div style="position: relative; padding-top: 1em"> 
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube [NR]</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
  </div>
-</a>
+</a> 
 
+<Badge type="info" text="Actualizada 06 mayo" />     
 
-*Version parchada por mi. Una vez abras la app, te llevara a descargar GMS Core, conocido como MicroG. Es necesario para iniciar sesión en en la app y evitar tener errores.*
+::: info Importante
+*Version parchada por Dex con el Revanced oficial. Icono y tema de la comunidad CNR.*      
+Una vez abras la app, te llevara a descargar GMS Core, conocido como MicroG. Es necesario para iniciar sesión en en la app y evitar tener errores.*
+Siempre que actualices y tienes problemas de reproduccion haz lo siguiente:     
+- Borra cache de la app, y reinicia.
+- Cambia de cuentas o cierra e inicia sesion de nuevo.
+- Revisa que tu version de microg sea la ultima [aquí](https://github.com/ReVanced/GmsCore/releases)
+:::
 
 ---
 
