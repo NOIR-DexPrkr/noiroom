@@ -38,7 +38,7 @@ features:
     link: /Tutoriales/adobeprograms
   - title: ⭐ Apoya nuestra comunidad
     details: Puedes apoyar nuestro discord dando Boost nitro o dando click aqui y donar.
-    link: https://www.buymeacoffee.com/noiroom
+    link: https://www.buymeacoffee.com/consejosnoiroom
 
 ---
 
