@@ -24,8 +24,8 @@ hero:
     src: https://i.postimg.cc/PJLQVqSf/CNR-LOGO.png
 
 features:
-  - title: 🤍 Descarga LCDH-NR 
-    details: Version web-apk de esta pagina, nunca se caerá.
+  - title: 🤍 Descarga nuestra app android
+    details: Version web-app de esta pagina. Actualiza aquí si ya descargaste.
     link: https://github.com/NOIR-DexPrkr/dexco-files/raw/main/LCDH-NR.apk
   - title: 📚 Office 365 + Windows
     details: Descarga y activa tu Office y Windows
