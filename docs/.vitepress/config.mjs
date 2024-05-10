@@ -18,6 +18,9 @@ export default defineConfig({
     }
     if (pageData.frontmatter.image) {
       head.push(['meta', { property: 'og:image', content: pageData.frontmatter.image }])
+    } else {
+      // Add the default thumbnail if not provided in the frontmatter
+    head.push(['meta', { property: 'og:image', content: 'https://i.postimg.cc/TPqhzMTX/ThumbCNR.png' }])
     }
     return head
   },
