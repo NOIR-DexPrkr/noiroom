@@ -46,8 +46,25 @@ export default defineConfig({
       label: 'Contenido de pagina'},
         
     search: {
-      provider: 'local'
-    },
+      provider: 'local',
+      options: {
+        miniSearch: {
+          /**
+           * @type {Pick<import('minisearch').Options, 'extractField' | 'tokenize' | 'processTerm'>}
+           */
+          options: {
+            /* ... */
+          },
+          /**
+           * @type {import('minisearch').SearchOptions}
+           * @default
+           * { fuzzy: 0.2, prefix: true, boost: { title: 4, text: 2, titles: 1 } }
+           */
+          searchOptions: {
+            detail: true,
+            /* ... */
+          }}
+    }},
     
     sidebar: {
       // This sidebar gets displayed when a user
