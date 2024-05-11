@@ -90,6 +90,20 @@ Mira mas abajo esa version.
 *Todas las instrucciones vienen dentro del archivo rar.*      
 *Probado y editado por mi en Windows 11.*
 
+### Fallout 3 GOTY Edition (2008)
+
+<a href="magnet:?xt=urn:btih:BE1DCEA4CBD3C8E25531F55E5852954B94B6CF72&dn=Fallout+3%3A+Game+of+the+Year+Edition+%28v1.7.0.4%2Fv1.7.0.3+%2B+5+DLCs+%2B+OST%2C+MULTi8%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+4.8+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 Fallout 3</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a> 
+
+*Instalador directo del juego con todas los fixes incluidos.*     
+*Es recomendado usar [FDM](https://www.freedownloadmanager.org/es/) para descargar todos los archivos a la vez.*
+
+
+
 ### Fallout: New Vegas Ultimate Edition (2010)
 
 <a href="https://bzzhr.co/f/GLB0Ai8h8AA=" target="_blank">
@@ -124,6 +138,7 @@ Mira mas abajo esa version.
 *Esta en [Esta pagina](https://rakion99.github.io/shelter-editor/) , puedes traducirla al español, pues esta misma trae instrucciones para usarse.*     
 *En algunas versiones recientes de android este metodo del editor no te servira, sin embargo...*
 *Tambien existe el [APK MOD del juego](https://liteapks.com/fallout-shelter.html) que permite aumentar la velocidad de las tareas y da dinero infinito.*
+
 
 ### Fallout 4 GOTY Edition (2015)
 

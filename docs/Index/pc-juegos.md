@@ -28,7 +28,7 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
   *Port del videojuego Plantas vs Zombies 2, el cual incluye contenido extra, entre otros.*
 - 🍩 [God of War 2018](https://www.mediafire.com/file/9p2wvvx6rghx3gy/6oW2O18.rar)    
   *En dispositivos AMD es recomendable iniciar el juego con un [launcher Vulkan](https://www.nexusmods.com/godofwar/mods/20)    . Si tu PC detecta algo malicioso, son falsos positivos.*
-- 🍩 [VA-11 HALL-A](https://www.mediafire.com/folder/70c92n0qz1wzi/VA-11-HALL-A)    
+- 🍩 [VA-11 HALL-A](https://www.ovagames.com/va-11-hall-a-cyberpunk-bartender-action-gog.html)    
   *Un videojuego de simulación independiente de bartender con elementos visuales novedosos. Véase también su [versión de android](https://lcdh.tech/móviles/m-android/#individuales)    .*
 - 🍩 [Needy Streamer Overload](https://www.mediafire.com/file/u22rammht0klptf/Needy+Streamer+Overload.rar/file)    
   *Novela visual sobre la vida de una chica con una fuerte necesidad de aprobación que aspira a convertirse en el ángel de internet más fuerte.*
@@ -50,7 +50,7 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
   *Un épico juego de lucha de plataformas para hasta 8 jugadores en línea o localmente.*
 - 🍩 [Call of Juarez: Bound in Blood](https://mega.nz/#!G9ElhZCa!EhlwKd4nQsZVrt1UzDA0w_xae4WFULZJ5fdXcpHtpqs) ⚠️     
   *Para poder salvar a su familia, los hermanos McCall matarán a cualquiera que se interponga entre ellos y el legendario Oro de Juárez.*
-- 🍩 [Carrion](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file) ⚠️     
+- 🍩 [Carrion](https://www.mediafire.com/file/od52nydh6k3nx7u/Ca1rr3ion-06.11.2022-elamigos.rar/file)      
   *Juego de terror inverso en el que asumes el papel de una criatura amorfa de origen desconocido.*
 - 🍩 [Cat Quest](https://www.mediafire.com/download/48latn1uac6frt4)    
   *Cat Quest es un RPG de mundo abierto ambientado en el gatupendo mundo de los felinos.*
@@ -68,7 +68,7 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
   *El juego de COD pero optimizado para bajos recursos. Revisa cómo [poner el videojuego en español](https://danaliztraducciones.blogspot.com/2022/02/blog-post_23.html)    .*
 - 🍩 [Death's Gambit](https://www.mediafire.com/file/ldafipeeov40kia/Deaths.Gambit.Afterlife.v2.21.zip/file) ⚠️     
   *Desafía a los guardianes inmortales del reino y supera la lucha eterna para purgar sus almas.*
-- 🍩 [Don't Bite Me Bro!](https://www.mediafire.com/file/33ohp615dxtg1a1/DontBiteMeBro_PC_x86.zip/file) ⚠️     
+- 🍩 [Don't Bite Me Bro!](https://www.mediafire.com/file/33ohp615dxtg1a1/DontBiteMeBro_PC_x86.zip/file)     
   *Explora el mundo y recolecta recursos para construir y mejorar tu refugio.*
 - 🍩 [Fable 1](https://www.mediafire.com/file/k08b5u8i6i2zx1q/Jueguini.rar/file) ⚠️     
   *Ambientado en la era medieval, da una gran libertad para determinar las habilidades, la apariencia. etc.*
@@ -96,7 +96,7 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
   *Juego para jugar con amigos. Tienes que tener abierto Steam antes de jugarlo.*
 - 🍩 [The Binding of Isaac Repentance](https://www.mediafire.com/file/g05bbsdo9fhibn4) ⚠️     
   *Shooter de rol y acción generado aleatoriamente con fuertes elementos de roguelike.*
-- 🍩 [Katana Zero](https://www.mediafire.com/file/2yygjyqarf3ainp/KTN0_by_BlizzBoyGames.rar/file) ⚠️     
+- 🍩 [Katana Zero](https://www.mediafire.com/file/2yygjyqarf3ainp/KTN0_by_BlizzBoyGames.rar/file)       
   *Juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea.*
   
 ---

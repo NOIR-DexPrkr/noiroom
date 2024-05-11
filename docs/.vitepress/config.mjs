@@ -34,7 +34,7 @@ export default defineConfig({
       { text: 'Inicio', link: '/' },
       { text: 'Bienvenida', link: '/bienvenida'},
       { text: 'Buscadores', link: '/buscadores', activeMatch: '/buscadores'},
-      { text: '🔁 05 mayo 24', link: '/', activeMatch: '/d'}
+      { text: '🔁 11 mayo 24', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
