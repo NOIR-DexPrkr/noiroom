@@ -170,9 +170,9 @@ Descarga, instala e inicia sesion desde la pagina debajo.
 
 Para empezar, es recomendado tener las versiones de java que permitiran abrir el juego. Si no, no te abrira y te saldra error codigo 2.       
 
-- Para versiones anteriores a la 1.16.5: [32bits](https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-i586.exe) - [64bits](https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u411-b09/43d62d619be4e416215729597d70b8ac/jre-8u411-windows-x64.exe)   
-- Para versiones superiores a la 1.16.5 hasta 1.20.1: [64bits](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe) - 32 bits no hay.
-- Para las ultimas versiones de Minecraft, 1.20.6 en adelante: [64bits](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe)       
+- Para versiones anteriores a la 1.16.5: [32bits](https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u412-b08/openlogic-openjdk-jre-8u412-b08-windows-x32.msi) - [64bits](https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/8u412-b08/openlogic-openjdk-jre-8u412-b08-windows-x64.msi)   
+- Para versiones superiores a la 1.16.5 hasta 1.20.1: [64bits](https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/17.0.11+9/openlogic-openjdk-jre-17.0.11+9-windows-x64.msi) - 32 bits no hay.
+- Para las ultimas versiones de Minecraft, 1.20.6 en adelante: [64bits](https://builds.openlogic.com/downloadJDK/openlogic-openjdk-jre/21.0.3+9/openlogic-openjdk-jre-21.0.3+9-windows-x64.msi)       
 
 *Por cada version o instancia en el Launcher debes seleccionar el tipo de java para esta en PrismLauncher.*
 
