@@ -9,12 +9,9 @@ image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 
 Presentamos esta sección del index para explicar y dar a conocer determinados pasos a seguir a la hora de interactuar en los grupos. 
 
-Te recordamos que en caso de no estar en nuestros grupos en las distintas plataformas, puedes hacerlo en cualquier momento.
+::: info **Links importantes de Consejos Noiroom**
 
-::: danger Plataformas
-- [Facebook](https://www.facebook.com/groups/losconsejosdehomero/?ref=share) 
-- [Discord](https://discord.gg/RaJEJPQYPb) 
-- [Telegram](https://t.me/LosConsejosDeHomeroGroup)
+[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/RaJEJPQYPb) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
 :::
 
 

@@ -15,7 +15,26 @@ image: "https://i.postimg.cc/VLPFWnx5/LCDH-NR.png"
 Noir Room y Los consejos de Homero (LCDH)**
 :::
 
-## ¿Cómo funciona?
+::: warning **Antes de empezar - LÉEME**
+
+Antes que nada debes saber que tenemos algunas cosas para que conozcas en el grupo de facebook.
+- [⭐ Guia CNR](/Index/guia-lcdh)      
+*Esta  guia trae todo lo necesario para ti. Como escanear QR, como hacerlos, plantillas para el grupo, etc.*
+- [🛡️ Guia de seguridad](/Index/guia-cyberseguridad)     
+*Guia del grupo para tu seguridad al descargar de este index (por los anuncios)*
+- [⭐ Guia NOIR para descargar seguro](/Tutoriales/navega-seguro)     
+*Navegadores y extensiones recomendados para PC y Movil. Descarga y navega sin miedo.*
+
+- [🔎 Buscadores para todo contenido](/buscadores)      
+*Busca aqui apps, juegos, programas, libros, tutoriales, etc.*
+:::
+
+::: info **Links importantes de Consejos Noiroom**
+
+[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/RaJEJPQYPb) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
+:::
+
+## ¿Cómo funciona esta página?
 
 ### A la izquierda
 

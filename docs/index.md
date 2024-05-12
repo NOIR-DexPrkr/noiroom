@@ -19,6 +19,9 @@ hero:
     - theme: alt
       text: 💚 Ayuda Psicológica
       link: /ayuda-psicologica
+    - theme: alt
+      text: 🩷 Donaciones
+      link: https://www.buymeacoffee.com/consejosnoiroom
   
   image:
     src: https://i.postimg.cc/PJLQVqSf/CNR-LOGO.png
@@ -36,9 +39,6 @@ features:
   - title: ✒ Programas de Adobe
     details: Photoshop, Illustrator, Premiere, etc. Todos los programas sin problemas.
     link: /Tutoriales/adobeprograms
-  - title: ⭐ Apoya nuestra comunidad
-    details: Puedes apoyar nuestro discord dando Boost nitro o dando click aqui y donar.
-    link: https://www.buymeacoffee.com/consejosnoiroom
 
 ---
 
