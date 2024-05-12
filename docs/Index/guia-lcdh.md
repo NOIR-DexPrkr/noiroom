@@ -81,8 +81,8 @@ Si quieres pedir, o aportar, será necesario **por obligación** hacer una image
 
 Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recuerda que no es necesario que uses de estas plantillas, puedes hacer las imágenes como quieras, mientras **sean con la temática del grupo**, y que **no contengan personajes o imagenes en general que puedan contener copyright**.
 
-- [Plantillas](https://www.canva.com/design/DAFmZx30iyU/OZucniH8GidVKTUG-zr4-A/view?utm_content=DAFmZx30iyU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview#1)  
-- [Personajes](https://drive.google.com/file/d/1ZdM-k-8SOfuU0YbsVortYoB5Fvkb9USP/view)
+- [Plantillas](https://qr-scan.it/g/1Dpx4Jl0wx9)  
+- [Personajes](https://drive.google.com/drive/folders/1yIgA4CGuaZSPeaw3PaHF7wD8ZYj8C2qZ?usp=sharing)
 :::
 
 
