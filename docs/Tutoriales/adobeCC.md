@@ -61,9 +61,9 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 
 ### **Archivos necesarios para las opciones Experto e Intermedio:**
 
-<a href="https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file" target="_blank">
+<a href="https://www.mediafire.com/file/rsdbnfi38eex4xv/Adobe_GenP_3.4.13_Beta_4.zip/file" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.9</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GenP v3.4.139</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>   
@@ -188,7 +188,7 @@ También desactiva la ejecución al inicio de windows y las actualizaciones auto
 
 ## Guia para parchar los programas ya instalados.
 
-1. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search”**.      
+1. Ejecutamos GenP , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque los programas clickeando **“Search”**.      
 Tardará un rato en terminar de buscar los archivos pero una vez los encuentre les activará la opción de **“Patch”** la cual deben seleccionar.           
 En caso contrario, si cambiaron la ruta de descarga o GenP no los encuentra, seleccione la opción de **“Path”** y seleccione la carpeta donde están los programas o programa.     
 Por ultimo damos a **"Patch"** en caso que aun no lo hayas hecho.

@@ -65,7 +65,7 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 
 
 2. Ahora bloquea las siguientes ip en el host de windows. 
-Para eso usamos el [GenP.](https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file)     
+Para eso usamos el [GenP.](https://www.mediafire.com/file/rsdbnfi38eex4xv/Adobe_GenP_3.4.13_Beta_4.zip/file)     
 Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up"** que se encuentra abajo a la derecha.
 
 3. Disfruta tus programas.
@@ -146,7 +146,13 @@ Tardará un rato en terminar de buscar los archivos pero una vez lo encuentre le
 Por ultimo damos a **"Patch"** en caso que aun no lo hayas hecho.
 
 Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
-Editar > Preferencias > Actualizar
+Editar > Preferencias > Actualizar      
+
+Puedes tambien cambiar el nombre de:     
+C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe      
+
+Agrega un .bak despues del .exe    
+Es decir "AdobeCollabSyn.exe.bak"
 
 NOTA: Si no te funciona o tienes errores, recomiendo usar la opcion 4 y luego la 1, pero antes usa la herramienta de [limpieza de adobe](https://helpx.adobe.com/es/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
 
