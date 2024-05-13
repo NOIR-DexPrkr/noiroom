@@ -74,9 +74,9 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 ## Youtube - Alternativas
 
-<a href="https://github.com/N0-0NE-Dev/NoFasel/releases" target="_blank">
+<a href="https://grayjay.app/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Nofasel</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ GrayJay</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
