@@ -72,6 +72,17 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 *En ingles con subtitulos*
 
+## Youtube - Alternativas
+
+<a href="https://github.com/N0-0NE-Dev/NoFasel/releases" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Nofasel</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Mira videos desde una gran variedad de plataformas. Youtube, Twitch, etc. Ademas, descarga videos para ver sin internet.*
+
 ---
 
 ::: warning HEY!
