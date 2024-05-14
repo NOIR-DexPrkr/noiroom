@@ -6,6 +6,9 @@ hero:
   name: "Noir Room"
   text: "Consejos Noir"
   tagline: Los Consejos de Homero x Noir Room, pagina de tutoriales y aportes de la comunidad.
+  prelink:
+    title: Actualizado el 14/05/2024
+    link: 
   actions:
     - theme: brand
       text: ⭐ Tutoriales NR
@@ -25,6 +28,7 @@ hero:
   
   image:
     src: https://i.postimg.cc/PJLQVqSf/CNR-LOGO.png
+    alt: CNR Icono
 
 features:
   - title: 🤍 Descarga nuestra app android

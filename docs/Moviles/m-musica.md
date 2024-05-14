@@ -177,6 +177,28 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
 
 ---
 
+## Podcasts
+
+<a href="https://github.com/ubuntu-flutter-community/musicpod/releases/tag/1.4.0" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ MusicPod</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Escucha Podcasts y radio de todo el mundo en todos los idiomas en una sola app en tu PC.*
+
+## Youtube - Alternativas
+
+<a href="https://grayjay.app/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ GrayJay</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Mira videos desde una gran variedad de plataformas. Youtube, Twitch, etc. Ademas, descarga videos para ver sin internet.*
+
 ## Apps Musicales
 
 ### Guitarra 
