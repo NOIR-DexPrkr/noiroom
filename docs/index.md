@@ -4,11 +4,8 @@ layout: home
 
 hero:
   name: "Noir Room"
-  text: "Consejos Noir"
-  tagline: Los Consejos de Homero x Noir Room, pagina de tutoriales y aportes de la comunidad.
-  prelink:
-    title: Actualizado el 14/05/2024
-    link: 
+  text: "Consejos Noir" 
+  tagline: Los Consejos de Homero x Noir Room, pagina de tutoriales y aportes de la comunidad. 
   actions:
     - theme: brand
       text: ⭐ Tutoriales NR

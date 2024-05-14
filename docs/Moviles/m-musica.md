@@ -186,7 +186,7 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
  </div>
 </a>
 
-*Escucha Podcasts y radio de todo el mundo en todos los idiomas en una sola app en tu PC.*
+*Escucha Podcasts y radio de todo el mundo en todos los idiomas en una sola app en tu Windows, MAC y [Linux](https://snapcraft.io/musicpod).*
 
 ## Youtube - Alternativas
 
