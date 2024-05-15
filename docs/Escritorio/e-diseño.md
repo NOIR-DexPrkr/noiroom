@@ -139,18 +139,9 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
 
 ---
 
-<a href="https://buzzheavier.com/f/GLdN4zkMoAE=" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Studio Paint Ex</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
- </div>
-</a>
-
----
-
 <a href="https://buzzheavier.com/f/GLdN40ZMoAA=" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Corel Painter Pro</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Corel Painter Pro</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>
