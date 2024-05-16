@@ -26,6 +26,10 @@ Aplicaciones para ver peliculas y series en tu celular.
  </div>
 </a>   
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Recomendada, anteriormente tenia alertas en virus total, pero al parecer eran falsos positivos. Versiones actuales salen sin problemas.*
 
 ---

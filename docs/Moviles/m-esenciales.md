@@ -45,6 +45,10 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Descarga aqui la ultima version de la app desde Drive. Esta es para **Android 9 o anteriores***
 
 ---
@@ -54,6 +58,10 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Mixplorer</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 
@@ -94,6 +102,10 @@ Es bastante util y hasta guarda el historial de los numeros usados.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Click to Chat</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 ---
@@ -138,6 +150,10 @@ Todo lo que puedes hacer en la aplicacion:
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 ### 4. 🛠 SD Maid
@@ -173,11 +189,16 @@ Todo lo que puedes hacer en la aplicacion:
  </div>
 </a>
 
+
 <a href="https://liteapks.com/sd-maid-pro.html" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SD Maid</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 
@@ -221,6 +242,10 @@ Editor de etiquetas ID3, edición de pistas, álbumes, artistas y géneros.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BlackPlayer EX</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 ---
@@ -267,6 +292,10 @@ Todo lo que puedes hacer en la aplicacion:
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 ### 7. 🎬 YouTube Revanced
@@ -291,6 +320,10 @@ Todo lo que puedes hacer en la aplicacion:
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube [NR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a> 
 
 <Badge type="info" text="Actualizada 06 mayo" />     

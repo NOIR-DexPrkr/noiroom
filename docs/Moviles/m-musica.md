@@ -210,6 +210,10 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Versión antigua de la aplicación que aun permite tener todas las funciones premium, incluido en offline.*   
 
 ---

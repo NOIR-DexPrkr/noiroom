@@ -16,7 +16,11 @@ Mega colección de Age of Empires para todas las plataformas.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+
+
 *Este pack contiene todas las versiones originales (no contiene definitive edition) que salieron, de la 1 a la 3, con todas sus expanciones, en todos los idiomas disponibles. Tiene un peso de 74GB y es un Torrent.*        
 
 Versiones originales y definitivas de manera individual a continuación.
@@ -31,6 +35,12 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a> 
  
+
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+
+
  :::details *Extensiones/mods:* 
 - [*HD mod*](http://upatch-hd.weebly.com/)
 - [*NEUE LEVEL FÜR*](https://www.myabandonware.com/download/qi6-neue-level-fuer-age-of-empires)
@@ -44,8 +54,9 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a> 
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
-
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
 
 ## ⚔ Age of Empires II
 
@@ -56,7 +67,10 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+
 *Ejecutar como admin para evitar problemas de compatibilidad.*
 
 
@@ -67,7 +81,9 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
 
   ## ⚔ Age of Empires III
 
@@ -77,6 +93,12 @@ Versiones originales y definitivas de manera individual a continuación.
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a>
+
+<a href="https://jdownloader.org/jdownloader2" target= "blank">
+  <Badge type="tip" text="JD2 es necesario para descargar" />
+</a>
+
+
 
 *Archivo en dos partes. Contraseña de descarga: 221*        
 *Contraseña de rar: `www.ovagames.com`.*      
@@ -90,7 +112,10 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).*    
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+ 
 *En caso de tener errores usa descarga [el siguiente instalador](https://pastefg.hermietkreeft.site/?4e50b598ac715309#77Cg5bgviK1sAuQ3hiZHG9iYTugbZF2SAWPRwTZpkB8A), y reemplazalo por el que trae el juego. Para descargar el instalador espera que cargue el boton azul abajo.*
 
 ## ⚔ Age of Empires IV    
@@ -102,7 +127,10 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+
 *Juego solo funciona en Windows 10 y 11.*      
 
 <a href="magnet:?xt=urn:btih:9388F8D0A5C91CDA234386E56878DA73597785B7&dn=Age+of+Empires+IV%3A+4K+HDR+Video+Pack+%28MULTi8%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+14.7+GB%5D&tr=http%3A%2F%2Fh4.trakx.nibba.trade%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.grepler.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce" target="_blank">
@@ -112,7 +140,10 @@ Versiones originales y definitivas de manera individual a continuación.
  </div>
 </a>
 
-*Para la descarga de los archivos es necesario instalar [FDM](https://www.freedownloadmanager.org/es/).* 
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
+
 > Al momento de descargar puedes obviar los archivos que dicen **optional y selective.**
 > Excepto: **fg-selective-all-non-english.bin y fg-selective-english.bin** pues son necesarios para otros lenguajes.
 > **fg-optional-bonus-content.bin y fg-optional-documentaries.bin** son contenido extra y documentales.

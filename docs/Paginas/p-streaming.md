@@ -2,8 +2,6 @@
 # Paginas para Streaming
 Mira Peliculas, series, musica y mas.
 
----
-
 ## Peliculas y Series
 
 ### Para ver gratis
@@ -13,9 +11,15 @@ Mira Peliculas, series, musica y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Cuevana 3</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>      
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos*
+*Audio en español e ingles con subtitulos* 
+
+
 
 ---
 
@@ -24,6 +28,10 @@ Mira Peliculas, series, musica y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Cuevana 2</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en español e ingles con subtitulos*
@@ -39,15 +47,23 @@ Mira Peliculas, series, musica y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
 *Series de CN, Disney, Nick, entre otras en español y buena calidad.*
 
 ---
 
 <a href="https://entrepeliculasyseries.nz/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Entre Peliculas y Series</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Entre Peliculas y Series</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en español e ingles con subtitulos*
@@ -56,9 +72,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://animeflv.io/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 AnimeFLV</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 AnimeFLV</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Anime en español / subtitulos*
@@ -72,15 +92,23 @@ Mira Peliculas, series, musica y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
 *Anime con audio y subtitulos en ingles*
 
 ---
 
 <a href="https://www17.pelisplushd.lat/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 PelisPlus</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 PelisPlus</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en español e ingles con subtitulos*
@@ -89,9 +117,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://seez.su/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Seez</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Seez</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en ingles con subtitulos*
@@ -100,9 +132,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://yaps.cc/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Yaps.cc</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Yaps.cc</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en ingles con subtitulos*
@@ -111,9 +147,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://goku.sx/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 GOKU</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 GOKU</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en español e ingles con subtitulos*
@@ -122,9 +162,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://bingewatch.to/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 BingeWatch</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 BingeWatch</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en ingles con subtitulos en ingles y español*
@@ -133,9 +177,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://sflix.to/home" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 SFlix Movies/Series</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SFlix Movies/Series</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en ingles con subtitulos en ingles y español*
@@ -144,9 +192,13 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://yesmovies.ag/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Yesmovies</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Yesmovies</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Audio en ingles con subtitulos en ingles*
@@ -159,56 +211,16 @@ Mira Peliculas, series, musica y mas.
 
 <a href="https://www.rainymood.com/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 ⭐ Rainy Mood</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Rainy Mood</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
 *Solo pulsa un boton y relajate con sonidos de lluvia.*
-
----
-
-<a href="https://rainyscope.com/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 RainyScope</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Reproduce variedad de sonidos de ambiente en diferentes estaciones del año.* 
-
----
-
-<a href="https://rainbowhunt.com/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 RainbowHunt</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Selecciona una variedad de sonidos de ambiente para reproducir y relajarte.*   
-
----
-
-<a href="https://pluvior.com/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Pluvior</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Similar a la anterior, pero con sonidos e interfaz distinta.*   
-  
----
-
-<a href="https://noises.online/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Noises</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-*Usa una gran variedad de sonidos ambiente para configurar un espacio a tu gusto. Puedes personalizar el volumen, color y hasta compartir tu configuracion por un link a quien desees.* 
 
 ---
 
@@ -219,7 +231,71 @@ Mira Peliculas, series, musica y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
 *Escucha ruido blanco para diferentes tipos de situacion: para dormir, para calmar ansiedad, para sueños lucidos o terapias, etc.*
+
+
+<a href="https://rainyscope.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 RainyScope</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Reproduce variedad de sonidos de ambiente en diferentes estaciones del año.* 
+
+---
+
+<a href="https://rainbowhunt.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 RainbowHunt</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Selecciona una variedad de sonidos de ambiente para reproducir y relajarte.*   
+
+---
+
+<a href="https://pluvior.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Pluvior</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Similar a la anterior, pero con sonidos e interfaz distinta.*   
+  
+---
+
+<a href="https://noises.online/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Noises</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Usa una gran variedad de sonidos ambiente para configurar un espacio a tu gusto. Puedes personalizar el volumen, color y hasta compartir tu configuracion por un link a quien desees.* 
+
 
 ---
 

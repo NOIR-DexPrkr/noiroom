@@ -14,6 +14,10 @@ Descarga musica, videos y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
   *Busca y descarga musica con metadatos y en calidad Mp3 y FLAC.*
 
 ---
@@ -23,6 +27,10 @@ Descarga musica, videos y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 YTMDL</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
   *Busca y descarga desde Youtube - mp3/m4a/OPUS.*   
@@ -36,6 +44,10 @@ Descarga musica, videos y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
   *Busca y descarga desde VK Music: mp3 FLAC HQ.* **usuario: anon - contraseña: 12345**    
 
 ---
@@ -45,6 +57,10 @@ Descarga musica, videos y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Free MP3</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
   *Descarga MP3 en alta calidad.*
@@ -58,6 +74,10 @@ Descarga musica, videos y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
   *Descarga albumes completos en HQ y FLAC.*
 
 ---
@@ -69,6 +89,10 @@ Descarga musica, videos y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
   *Descarga de musica sin copyright para videos y trabajo.*
 
 ---
@@ -78,6 +102,10 @@ Descarga musica, videos y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Grand theft Auto Music</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
   *Descarga todas las emisoras de todos los GTA.*
@@ -93,6 +121,10 @@ Descarga musica, videos y mas.
   </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
   *Descarga videos desde youtube en todos los formatos y calidades posibles. Incluye buscador.*    
 
 ---
@@ -102,6 +134,10 @@ Descarga musica, videos y mas.
     <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 LoaderTo</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
   *Descarga playlist de youtube enteras en varias calidades y formatos. Debes pegar URL/Link.*

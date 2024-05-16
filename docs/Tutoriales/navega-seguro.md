@@ -1,18 +1,19 @@
 ![](https://i.postimg.cc/sDLKqZSc/Navegaseguro.png)
 # Navega y Descarga con Seguridad
-No tengas miedo a la internet y navega sin pensar en anuncios o virus.
+Guia basica para descargar y navegar
 
 ---
 
-::: warning ¿Como se empieza?    
-Esta guia es basica y no muy extensa en cuanto a seguridad. Si eres un enfermo con este tema, de seguro que ya sabes donde buscar y esta guia no es para ti. Una vez completes la guia e instales lo necesario, podrias descargar cosas desde internet con menos miedo a un virus que antes.
+::: tip LEER IMPORTANTE   
+Esta guia es extrictamente necesaria para poder descargar cosas de la pagina o Index de CNR
+Siguela por favor, o puedes terminar con un virus en tu PC.
 :::
 
-## Navegadores escritorio
+## Navegadores recomendados
 
-Puedes usar estos navegadores multiplataforma
+Primero debes descargar el navegador y luego ve a la seccion de extensiones. Instala todas, por favor.
 
-**Chromium + extensiones**
+### **Windows**
 
 <a href="https://browser.yandex.com/" target="_blank">
  <div style="position: relative; padding-top: 1em">
@@ -23,34 +24,22 @@ Puedes usar estos navegadores multiplataforma
 
 *(Recomendado) Yandex es el google de rusia con mucha personalizacion, ajustes, caracteristicas y bastante seguro contra amenazas. Viene con DNS, proxy y proteccion contra pishing y archivos maliciosos.*
 
-**Bloqueador de anuncios incluido**
 
-<a href="https://brave.com/es/download/" target="_blank">
+<a href="https://www.microsoft.com/es-es/edge/download?form=MA13FJ" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave Browser</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Microsoft Edge</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-*El navegador contra anuncios y a favor de la privacidad. El mejor para muchos.*
+*El navegador predeterminado de Windows, si tienes smartscreen activado te protegerás de amenazas.*
 
-**Seguridad y privacidad**
-
-<a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Firefox</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-*Pues, es Firefox.*
-
-## Navegadores moviles
+### **Moviles**
 
 Puedes usar estos navegadores que funcionan en Android y iOS
 
-**Opcion con extensiones**
-   
+**Android**
+
 <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi Android</p>
@@ -58,19 +47,19 @@ Puedes usar estos navegadores que funcionan en Android y iOS
  </div>
 </a>
 
-<a href="https://browser.kagi.com/" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi iOS</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
- </div>
-</a>
-
-
-**Bloquea anuncios pero no acepta extensiones**
 
 <a href="https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Brave Android</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+**iOS**
+
+<a href="https://browser.kagi.com/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Kiwi iOS</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
@@ -85,6 +74,8 @@ Puedes usar estos navegadores que funcionan en Android y iOS
 ---
 
 ::: danger Tutorial de DNS
+
+Para bloquear anuncios si no deseas cambiar tu navegador en Android
 
 <a href="/Tutoriales/Adguard" target="_blank">
  <div style="position: relative; padding-top: 1em">
@@ -107,16 +98,17 @@ El link de cada extension te llevara a su sitio oficial para que lo instales en 
 - [🕸 Decentraleyes - Extension](https://decentraleyes.org/)     
 *Extension que te proteje del seguimiento de paginas y servicios.*
 
-
 - [🕸 Clear URLs - Extension](https://github.com/ClearURLs/Addon)    
 *Similar a Decentraleyes.*
  
+- [PrivacyBadger](https://privacybadger.org/)      
+*Bloquea los trackers de paginas. Algunas paginas pueden no funcionar con el activado, pero la misma extensión te avisa.*
+
+**Opcional si no usas Yandex**
+
 - [🕸 Safe to Open - Extension](https://safetoopen.com/)     
 *Esta extension te protege de ataques de pishing o mas conocidos como ataques de robo de información.*
 
-
-- [🕸 Firewall - Extension](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/)     
-*Extension exclusiva para Firefox.*
 
 ---
 

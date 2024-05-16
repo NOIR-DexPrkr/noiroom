@@ -78,6 +78,8 @@ Encuentra de todo seleccionando los diferentes menus a la izquierda o usando la 
 
 ---
 
+---
+
 ::: danger HEY!
 El sitio esta en construccion constante, por lo tanto seguiran llegando mas aportes.
 **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**

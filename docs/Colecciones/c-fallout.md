@@ -7,19 +7,6 @@ image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
 # Megacolección de Fallout
 Descarga todos los juegos posibles de Fallout 4 en cualquier plataforma aquí.
 
-::: danger **IMPORTANTE**
-
-A continuación podras descargar todos los juegos de Fallout posibles de forma gratuita. Como toda cosa gratis tiene sus riesgos.    
-¿Cuales son esos riesgos?      
-Siempre debes usar bloqueador de anuncios, o te vas a llevar una sorpresa descargando lo que no es.     
-Esto no es culpa de quienes suben los archivos, pero si de los sitios que dejan subir archivos gratis.     
-Todos necesitamos comer, ¿no?
-     
-En fin, usa este tutorial si no tienes seguridad en tu navegador:       
-
-[Tutorial IMPORTANTE de SEGURIDAD](/Tutoriales/navega-seguro)
-:::
-
 ## Versiones para Consolas y Moviles
 
 ::: details Consolas
@@ -51,6 +38,10 @@ Mira mas abajo esa version.
  </div>
 </a> 
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Todas las instrucciones vienen dentro del archivo rar.*      
 *Probado y editado por mi en Windows 11.*
 
@@ -62,6 +53,10 @@ Mira mas abajo esa version.
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
 
 *Todas las instrucciones vienen dentro del archivo rar.*      
 *Probado y editado por mi en Windows 11.*
@@ -75,6 +70,10 @@ Mira mas abajo esa version.
  </div>
 </a> 
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Todas las instrucciones vienen dentro del archivo rar.*      
 *Probado y editado por mi en Windows 11.*
 
@@ -87,6 +86,10 @@ Mira mas abajo esa version.
  </div>
 </a> 
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Todas las instrucciones vienen dentro del archivo rar.*      
 *Probado y editado por mi en Windows 11.*
 
@@ -98,6 +101,10 @@ Mira mas abajo esa version.
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
+
+<a href="https://www.freedownloadmanager.org/es/" target= "blank">
+  <Badge type="tip" text="FDM es necesario para descargar" />
+</a>
 
 *Instalador directo del juego con todas los fixes incluidos.*     
 *Es recomendado usar [FDM](https://www.freedownloadmanager.org/es/) para descargar todos los archivos a la vez.*
@@ -113,6 +120,10 @@ Mira mas abajo esa version.
  </div>
 </a> 
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 <a href="https://bzzhr.co/f/GLB2uJdh8AA=" target="_blank">
@@ -121,6 +132,10 @@ Mira mas abajo esa version.
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
 
 *Instalador directo del juego con todas los fixes incluidos.*
 
@@ -148,6 +163,10 @@ Mira mas abajo esa version.
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
+
+<a href="https://jdownloader.org/jdownloader2" target= "blank">
+  <Badge type="tip" text="JD2 es necesario para descargar" />
+</a>
 
 *Instalador directo del juego con todas los fixes incluidos.*     
 *Es recomendado usar [Jdownloader2](https://jdownloader.org/jdownloader2) para descargar todos los archivos a la vez.*

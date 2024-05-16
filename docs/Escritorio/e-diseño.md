@@ -18,6 +18,10 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ PhotoGIMP</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>    
 
 *Esta es la version modificada de GIMP para que luzca como la interfaz Photoshop. La version esta modificada por Dexco Prkr usando el repositorio de [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP). Esta es una version portable, de modo que no necesitas instalar. Solo descomprimes y ya está.*     
@@ -27,6 +31,10 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Photoshop</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
     
 *Te lleva al tutorial que te permitira descargar cualquier version de photoshop que desees.*
@@ -46,6 +54,10 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *CONTRASEÑA: www.artistapirata.com*    
 *Recuerda bloquear el programa (.exe) con el firewall.*
 
@@ -56,6 +68,10 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸️ Filmora X</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>   
 
 ::: details Mensaje de Dex
@@ -114,6 +130,10 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 <a href="https://www.mediafire.com/file_premium/w66pwqm6pt77bmi/WIN_CTS_V2023.4.1.50334_AP_ZNT.rar/file" target="_blank">
@@ -121,6 +141,10 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Camtasia Studio 2023</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 *CONTRASEÑA: www.artistapirata.com*    
@@ -137,6 +161,10 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 <a href="https://buzzheavier.com/f/GLdN40ZMoAA=" target="_blank">
@@ -144,6 +172,23 @@ Si no sabes cómo editar el host mira este [tutorial](https://youtu.be/hmd2paCNI
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Corel Painter Pro</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
+---
+
+<a href="https://buzzheavier.com/f/GNqsGMgs4AA=" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Studio Paint Ex</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 ---

@@ -15,6 +15,10 @@ Aplicaciones relacionadas al diseño para Móviles.
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 <a href="https://liteapks.com/download/filmorago-854" target="_blank">
@@ -22,6 +26,10 @@ Aplicaciones relacionadas al diseño para Móviles.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Filmora Go</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 ---
@@ -33,6 +41,10 @@ Aplicaciones relacionadas al diseño para Móviles.
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 ---
 
 <a href="https://modyolo.com/capcut-video-editor.html" target="_blank">
@@ -40,6 +52,10 @@ Aplicaciones relacionadas al diseño para Móviles.
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🕸 Capcut</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
 *No recomendada por mi, pero pedida por muchos.*

@@ -52,6 +52,10 @@ Los mejores programas para estudiar aquí.
  </div>
 </a>
 
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
 *Edita documentos PDF con diferentes funciones, como recortar, marcar de agua, links, eliminar y etc, sin ningún problema.*     
 *Puedes usar tambien su [Version Online](https://www.sejda.com/pdf-editor)*
 
