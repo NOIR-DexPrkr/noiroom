@@ -76,7 +76,16 @@ Aplicaciones para ver peliculas y series en tu celular.
 
 *En ingles con subtitulos*
 
----
+## Anime
+
+<a href="https://ukiku.app/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Ukiku</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*En ingles con subtitulos. Puedes usar tambien MagisTV.*
 
 ::: warning HEY!
 > **Visita el [🚀 Discord](https://discord.gg/cua9Qvfvz5) si tienes peticiones, dudas o problemas.**

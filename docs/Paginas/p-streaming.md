@@ -2,9 +2,9 @@
 # Paginas para Streaming
 Mira Peliculas, series, musica y mas.
 
-## Peliculas y Series
+## Video
 
-### Para ver gratis
+### Peliculas y Series
 
 <a href="https://cuevana.si/" target="_blank">
   <div style="position: relative; padding-top: 1em">
@@ -17,7 +17,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos* 
+*Audio en español e ingles con subtitulos.* 
 
 
 
@@ -34,7 +34,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos*
+*Audio en español e ingles con subtitulos.*
 
 ---
 
@@ -55,9 +55,9 @@ Mira Peliculas, series, musica y mas.
 
 ---
 
-<a href="https://entrepeliculasyseries.nz/" target="_blank">
+<a href="https://pelisplusgo.vip/" target="_blank">
   <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Entre Peliculas y Series</p>
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 PelisPlus Go</p>
     <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
   </div>
 </a>
@@ -66,38 +66,9 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos*
-  
+*Audio en español e ingles con subtitulos.*
+
 ---
-
-<a href="https://animeflv.io/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 AnimeFLV</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-<a href="/Tutoriales/navega-seguro">
-  <Badge type="tip" text="Navega sin anuncios" />
-</a>
-
-*Anime en español / subtitulos*
-  
----
-
-<a href="https://aniwave.to/home/" target="_blank">
-  <div style="position: relative; padding-top: 1em">
-    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ AniwaveTV</p>
-    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
-  </div>
-</a>
-
-<a href="/Tutoriales/navega-seguro">
-  <Badge type="tip" text="Navega sin anuncios" />
-</a>
-
-*Anime con audio y subtitulos en ingles*
-
 ---
 
 <a href="https://www17.pelisplushd.lat/" target="_blank">
@@ -111,7 +82,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos*
+*Audio en español e ingles con subtitulos.*
 
 ---
 
@@ -126,7 +97,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en ingles con subtitulos*
+*Audio en ingles con subtitulos.*
 
 ---
 
@@ -141,7 +112,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en ingles con subtitulos*
+*Audio en ingles con subtitulos.*
 
 ---
 
@@ -156,7 +127,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en español e ingles con subtitulos*
+*Audio en español e ingles con subtitulos.*
 
 ---
 
@@ -171,7 +142,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en ingles con subtitulos en ingles y español*
+*Audio en ingles con subtitulos en ingles y español.*
    
 ---
 
@@ -186,7 +157,7 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en ingles con subtitulos en ingles y español*
+*Audio en ingles con subtitulos en ingles y español.*
 
 ---
 
@@ -201,9 +172,99 @@ Mira Peliculas, series, musica y mas.
   <Badge type="tip" text="Navega sin anuncios" />
 </a>
 
-*Audio en ingles con subtitulos en ingles*
+*Audio en ingles con subtitulos en ingles.*
 
 ---
+  
+### Anime 
+
+<a href="https://monoschinos2.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ MonosChinos</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime en español / subtitulos.*
+
+---
+
+<a href="https://animefenix.tv/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ AnimeFenix</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime en español / subtitulos.*
+
+---
+
+<a href="https://latanime.org/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Latanime</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime en español / subtitulos.*
+
+---
+
+<a href="https://www1.otakustv.com/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ OtakusTV</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime en español / subtitulos. Ademas inicia sesión.*
+
+---
+
+<a href="https://animeflv.io/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 AnimeFLV</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime en español / subtitulos.*
+  
+---
+
+<a href="https://aniwave.to/home/" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ AniwaveTV</p>
+    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+  </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Navega sin anuncios" />
+</a>
+
+*Anime con audio y subtitulos en ingles.*
 
 ## Musica 
 

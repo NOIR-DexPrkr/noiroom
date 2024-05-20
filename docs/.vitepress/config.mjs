@@ -33,7 +33,7 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Buscadores', link: '/buscadores', activeMatch: '/buscadores'},
-      { text: '🔁 11 mayo 24', link: '/', activeMatch: '/d'}
+      { text: '🔁 19 mayo 24', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],

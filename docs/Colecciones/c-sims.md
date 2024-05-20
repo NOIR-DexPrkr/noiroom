@@ -62,7 +62,8 @@ Descarga sus versiones a continuación:
 
 ### 💎 Los Sims 2 
 
-[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://txtlink.cybar.xyz/views/XNw95kAyeA)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://filecrypt.cc/Container/8243D45691.html)     
+*Contraseña: 221* [En caso de fallar link de descarga](https://www.ovagames.com/867793-the-sims-2-ultimate-collection-multi21-elamigos.html)
 
 ::: details **Instrucciones de instalacion Sims 2**
 
