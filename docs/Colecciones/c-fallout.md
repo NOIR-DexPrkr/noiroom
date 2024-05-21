@@ -107,15 +107,14 @@ Mira mas abajo esa version.
 </a>
 
 *Instalador directo del juego con todas los fixes incluidos.*     
-*Es recomendado usar [FDM](https://www.freedownloadmanager.org/es/) para descargar todos los archivos a la vez.*
-
+*Es recomendado usar [FDM](https://www.freedownloadmanager.org/es/) para descargar todos los archivos a la vez.*      
 
 
 ### Fallout: New Vegas Ultimate Edition (2010)
 
-<a href="https://bzzhr.co/f/GLB0Ai8h8AA=" target="_blank">
+<a href="https://disk.yandex.ru/d/OPl-gAMH3Jmg4t" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 New Vegas: Part 1</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 New Vegas</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
@@ -124,18 +123,7 @@ Mira mas abajo esa version.
   <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
----
-
-<a href="https://bzzhr.co/f/GLB2uJdh8AA=" target="_blank">
- <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 New Vegas: Part 2</p>
-   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
- </div>
-</a> 
-
-<a href="/Tutoriales/navega-seguro">
-  <Badge type="tip" text="Click aquí antes de descargar" />
-</a>
+*Para descargar desde aqui, debes seleccionar los archivos deseados manteniendo presionado CTRL. Y luego dar al boton de "download" en la parte de arriba de la pagina, en el borde negro que se crea al seleccionar.*
 
 *Instalador directo del juego con todas los fixes incluidos.*
 
@@ -157,19 +145,19 @@ Mira mas abajo esa version.
 
 ### Fallout 4 GOTY Edition (2015)
 
-<a href="https://filecrypt.cc/Container/4D7E3C8962" target="_blank">
+<a href="https://1fichier.com/?k0zcugy8x9sf5hma0b2p" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🩻 Fallout 4</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
  </div>
 </a> 
 
-<a href="https://jdownloader.org/jdownloader2" target= "blank">
-  <Badge type="tip" text="JD2 es necesario para descargar" />
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
 </a>
 
-*Instalador directo del juego con todas los fixes incluidos.*     
-*Es recomendado usar [Jdownloader2](https://jdownloader.org/jdownloader2) para descargar todos los archivos a la vez.*
+*Instalador directo del juego con todas los DLCs y fixes incluidos.*     
+*Es necesario que clickees donde te dice el boton verde, para luego no arrepentirse.*
 
 ### Fallout 76 (Online only)
 
