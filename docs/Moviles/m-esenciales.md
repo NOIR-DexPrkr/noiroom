@@ -315,7 +315,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://pixeldrain.com/u/LGPH9Tzu" target="_blank"> 
+<a href="https://pixeldrain.com/u/9TmPf3vc" target="_blank"> 
  <div style="position: relative; padding-top: 1em"> 
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Youtube [NR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
@@ -326,7 +326,7 @@ Todo lo que puedes hacer en la aplicacion:
   <Badge type="tip" text="Click aquí antes de descargar" />
 </a> 
 
-<Badge type="info" text="Actualizada 06 mayo" />     
+<Badge type="info" text="Actualizada 21 mayo" />     
 
 ::: info Importante
 *Version parchada por Dex con el Revanced oficial. Icono y tema de la comunidad CNR.*      
