@@ -66,7 +66,7 @@ Version minima de android: 8
 
 <a href="https://pixeldrain.com/u/VfacJczw" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Deezer 7</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
@@ -76,6 +76,19 @@ Version minima de android: 8
 ::: danger OJO!       
 *Actualmente Deezer ya no es valida en muchos paises, y las versiones MOD recientes solo evitan que te cierren tu sesion al entrar.      
 Esta es una version vieja que aun da la batalla.
+:::
+
+
+<a href="https://pixeldrain.com/u/VzuSHoF2" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Deezer 8</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+::: danger OJO!       
+*Esta version es mas actualizada que la anterior pero tiene un truco para que funcione al 100%.     
+Necesitas tener activado los datos moviles (aun sin saldo) para que reproduzca la musica descargada.
 :::
 
 ---
