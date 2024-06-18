@@ -43,6 +43,15 @@ Encuentra aqui una serie de links utiles y una que otra recopilacion o acceso di
 
 ---
 
+<a href="https://cse.google.com/cse?cx=44d3419d6f7154c2d" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎ROMS para emuladores</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+---
+
 <a href="https://nmac.to/now/" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 20px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🔎Programas para MAC</p>
