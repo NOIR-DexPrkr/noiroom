@@ -39,8 +39,6 @@ Recopilación de cursos aportados por miembros y mods.
 
 - 🍩 [Cursos sobre excel](https://drive.google.com/drive/folders/1I5qw9817Fv9tmJmLcJR8NkZ-ooHkO6Q2)
 - 🍩 [Cursos sobre excel 2](https://drive.google.com/drive/folders/13bXAqmSBlQv0ZJzOoiBlk4oKuHJXt5Bb?sort=13&direction=a)
-- 🍩 [Cursos sobre excel, photoshop, etc](https://drive.google.com/drive/folders/1PWb4tYkTheLmTkiSClkjBk_KPIuztiNv)
-- 🍩 [4TB de cursos variados, entre ellos programación, excel, etc](https://mega.nz/folder/s9ZEEBjY#DcYDq-2rWgwgoimuakcEdg)
 - 🍩 [Curso para Illustrator](https://drive.google.com/drive/folders/1yLwhYoDzsQ51hnehB2O0qZ-UocNv6Lrq)
 - 🍩 [Curso de excel completo](https://www.mediafire.com/file/6wjp4l9itnby8qp/excel_para_los_papus.rar/file)
 
