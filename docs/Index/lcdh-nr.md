@@ -31,7 +31,7 @@ Antes que nada debes saber que tenemos algunas cosas para que conozcas en el gru
 
 ::: info **Links importantes de Consejos Noiroom**
 
-[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/cua9Qvfvz5) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
+[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/cua9Qvfvz5) - [❤️‍🔥 Tiktok memes](https://www.tiktok.com/@consejosnoiroom) - [💖 Tiktok QRs](https://www.tiktok.com/@qrsnoiroom) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
 :::
 
 ## ¿Cómo funciona esta página?
