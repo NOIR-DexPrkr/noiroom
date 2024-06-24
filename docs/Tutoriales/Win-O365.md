@@ -174,7 +174,7 @@ Dale al boton inicio, escribe powershell.
 Abre el programa, luego copia y pega el siguiente codigo:
 
 ```
-irm https://massgrave.dev/get | iex
+irm https://get.activated.win | iex
 ```
 
 Luego dale ENTER y listo.
