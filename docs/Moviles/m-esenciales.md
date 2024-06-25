@@ -315,14 +315,14 @@ Todo lo que puedes hacer en la aplicacion:
 
 
 
-<a href="https://pixeldrain.com/u/GQyQyGmr" target="_blank"> 
+<a href="https://pixeldrain.com/u/6daY8ZSw" target="_blank"> 
  <div style="position: relative; padding-top: 1em"> 
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [CNR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
  </div>
 </a>
 
-<a href="https://pixeldrain.com/u/bMhGYsnW" target="_blank"> 
+<a href="https://pixeldrain.com/u/jjKedong" target="_blank"> 
  <div style="position: relative; padding-top: 1em"> 
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [NR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
@@ -333,7 +333,7 @@ Todo lo que puedes hacer en la aplicacion:
   <Badge type="tip" text="Click aquí antes de descargar" />
 </a> 
 
-<Badge type="info" text="Actualizada 26 mayo" />     
+<Badge type="info" text="Actualizada: 25 junio" />     
 
 ::: info Importante
 *Version parchada por Dex con el Revanced oficial. Icono y tema de la comunidad CNR.*      
@@ -341,7 +341,8 @@ Una vez abras la app, te llevara a descargar GMS Core, conocido como MicroG. Es 
 Siempre que actualices y tienes problemas de reproduccion haz lo siguiente:     
 - Borra cache de la app, y reinicia.
 - Cambia de cuentas o cierra e inicia sesion de nuevo.
-- Revisa que tu version de microg sea la ultima [aquí](https://github.com/ReVanced/GmsCore/releases)
+- Desinstala la app de microG y abre youtube para que te lleve a la pagina de descarga.
+- O bien, descargala siempre desde [aquí](https://github.com/ReVanced/GmsCore/releases)
 :::
 
 ---
