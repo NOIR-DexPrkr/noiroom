@@ -38,7 +38,7 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 :::
 
 
-<a href="https://drive.google.com/file/d/1Z90pssJkf6puabWuKe0XoZXhDQ5dZ7CD/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/17vofkMQSHT_Ny23rzZCGsVp23FKAAcfB/view?usp=drive_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Mixplorer Legacy</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
@@ -53,7 +53,7 @@ No tiene anuncios y es completamente gratuito, ademas tiene una gran personaliza
 
 ---
 
-<a href="https://drive.google.com/file/d/1E3lVWnPdf3YaEuwlacgFWGyG7aTcstKK/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1_6z_DBO-bZ-zQ86hpmzKbj0TlcDad1Kr/view?usp=drive_link" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Mixplorer</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
