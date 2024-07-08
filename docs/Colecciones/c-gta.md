@@ -56,7 +56,7 @@ Esta serie de juegos de mundo abierto te permite controlar a un personaje en un 
 
 ### 🚗 GTA I
 
-[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://pixeldrain.com/u/5FVutmUE)
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://pixeldrain.com/u/UBsMaEnm)
 
 *Esta version esta lista para jugar en cualquier version de Windows. Descarga, descomprime y juega.*      
 [*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml)    
@@ -68,7 +68,7 @@ Para iniciar Grand Theft Auto en las últimas versiones de Windows, ejecútalo e
 
 ### 🚗 GTA II
 
-[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://pixeldrain.com/u/5FVutmUE)        
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://pixeldrain.com/u/QC2YJdAa)        
 [*Enlace alternativo*](https://gta.com.ua/rockstargames-classics-free-download.phtml)
 
 ::: details **Guia de instalación**   
