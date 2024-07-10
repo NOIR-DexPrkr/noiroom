@@ -51,29 +51,35 @@ Descarga Minecraft completamente gratis y con todas sus funciones para cada cual
 ## Minecraft Windows 10 & 11    
 
 
-### Instala la version desde la tienda oficial
+### Instala BedrockLauncher
 
-1. Descargate la version de prueba en la tienda de Microsoft.
+1. Descargate el siguiente launcher, similar al oficial pero este nos permite bajar la version estable sin cuenta.
 
-<a href="https://www.microsoft.com/es-ad/p/minecraft-for-windows/9nblggh2jhxj?activetab=pivot:overviewtab" target="_blank">
+<a href="https://github.com/BedrockLauncher/BedrockLauncher/releases/" target="_blank">
  <div style="position: relative; padding-top: 1em">
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Descarga en WinStore </p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Bedrock Launcher </p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
  </div>
 </a>
 
-![](https://i.postimg.cc/RZt01XCb/2023-05-19-16-38-40.png)
-![](https://i.postimg.cc/Zqh5wpCY/2023-05-19-16-34-08.png)
+Necesitaras ademas el siguiente complemento de windows para abrir el Launcher: [32bits](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.424-windows-x86-installer) - [64bits](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.424-windows-x64-installer)        
 
-> Si entras a la app notaras que no puedes iniciar sesion o abrir tienda.
+Una vez abras el launcher solo debes darle click a siguiente hasta llegar a la siguiente pantalla
 
-![](https://i.postimg.cc/xThCbWQz/2023-05-19-16-40-26.png)
+
+![](https://i.postimg.cc/L6Y2XTg8/create-profile.png)        
+
+Aquí solo debes poner nombre un nombre cualquiera en "profile name" y darle crear.
+
+Una vez cargue el perfil dale al boton verde que dice "play" y espera que se descargue e instale Minecraft.
+
+> Si entras a la app notaras que no puedes iniciar sesion o abrir tienda. Para eso desbloquearemos el juego con los siguientes pasos.
 
 ::: danger IMPORTANTE
-Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo.
+Si no eres muy tecnologico, de nuevo, te recomiendo usar este metodo de [Launcher X](#archivos-necesarios) que parcha el minecraft oficial a traves de un ejecutador que aplica una configuracion al juego para desbloquearlo. Debido a la naturaleza del parche y que es algo automatico, necesitaras en algunos casos desactivar tu antivirus, pues, Microsoft no quiere que juegues gratis a MC.
 :::
 
-### Instala el Winaero Tweaker     
+### Desbloquea el juego completo     
 
 
 2. Descargate el programa Winaero Tweaker:
@@ -138,7 +144,7 @@ Una vez descomprimas los archivos reemplazalos en la carpetas correspondientes:
 
 > Los archivos recuerda que dependeran de si tu sistema es de 32 o 64bits. Si no sabes lo que es eso, recomiendo usar la opcion de [launcher X](#archivos-necesarios).
 
-6. Listo, ya esta full tu Minecraft.
+6. Listo, ya esta full tu Minecraft. Desde ahora solo puedes abrir Minecraft desde el launcher o desde el icono.
 
 ![](https://i.postimg.cc/zXVvvqsN/2023-05-19-16-55-09.png)
 
