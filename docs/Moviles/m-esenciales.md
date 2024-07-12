@@ -417,6 +417,35 @@ Todo lo que puedes hacer en la aplicacion:
 </a>
 
 ---
+### 10. 💵 Wallet
+
+Esta app te ayuda a llevar un seguimiento detallado de tus gastos y ganancias mensualmente. Ademas de permitirte crear diferentes carteras y metas en la app. Una de las mejores funciones de wallet es que te permite sincronizar y guardar tus carteras en cualquier dispositivo a traves de una cuenta que guarda tu progreso.
+
+::: Caracteristicas
+
+- **Sincronización con múltiples plataformas:** Puedes vincular varias de tus cuentas para sincronizar los parámetros de gasto.
+- **Información que no es necesario introducir:** En lugar de hacerlo todo manualmente, prueba a utilizar la tecnología.
+- **Comodidad en el control:** Cuando toda la información esté completa, aparecerá un cuadro financiero concreto.
+- **Elegir la financiación:** Los costes iniciales son siempre importantes, y afectan a tus gastos.
+- **Fijar límites:** Con su presupuesto limitado cada mes, tendrá que plantearse qué debe comprar.
+- **Siga sus progresos:** Si se controla, verá una mejora inmediata.
+- **Añada facturas:** A partir del seguimiento de la cantidad de dinero que gastas, sabrás en qué gastas mucho.
+- **Notificaciones necesarias:** El sistema te enviará automáticamente notificaciones si sabe que has superado el límite.
+- **Gestionar las facturas mensuales:** Al configurarlas, sabrás lo que tendrás que gastar cada mes.
+- **Observar a través de gráficos:** Tu situación financiera se expresa claramente a través de líneas fáciles de observar.
+- **Mejorar el presupuesto:** A través de los parámetros necesarios, deberá recortar algunas cosas innecesarias.
+
+:::
+
+Puedes usar la [version original](https://play.google.com/store/apps/details?id=com.droid4you.application.wallet&hl=en) y comprar el premium, o probar la app mod en el siguiente boton.
+
+<a href="https://liteapks.com/wallet-2.html" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 Wallet</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
 
 ---
 
