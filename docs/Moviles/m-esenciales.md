@@ -421,7 +421,7 @@ Todo lo que puedes hacer en la aplicacion:
 
 Esta app te ayuda a llevar un seguimiento detallado de tus gastos y ganancias mensualmente. Ademas de permitirte crear diferentes carteras y metas en la app. Una de las mejores funciones de wallet es que te permite sincronizar y guardar tus carteras en cualquier dispositivo a traves de una cuenta que guarda tu progreso.
 
-::: Caracteristicas
+::: details 📃 Caracteristicas
 
 - **Sincronización con múltiples plataformas:** Puedes vincular varias de tus cuentas para sincronizar los parámetros de gasto.
 - **Información que no es necesario introducir:** En lugar de hacerlo todo manualmente, prueba a utilizar la tecnología.
