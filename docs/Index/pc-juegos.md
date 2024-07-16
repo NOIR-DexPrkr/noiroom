@@ -19,11 +19,52 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
 Los desactualizados y estan pendiente por actualización tendran el icono: 🔃
 :::
 
-### Aportes recomendados por MODs
+## Aportes recomendados por MODs
+
+<a href="LINK_DEL_APORTE">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">💛 Everhood</p>
+   <img src="https://i.postimg.cc/cLJMVkJ1/link-cnr.png" alt="boton" />
+ </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click antes de descargar" />
+</a>
+
+<a href="https://www.facebook.com/share/p/CbGMYABAL728iXPE/">
+  <Badge type="warning" text="Post de facebook" />
+</a>
+
+::: details Descripción
+
+*RPG surrealista que combina la estética de Undertale con combates musicales al estilo bullet hell. En el juego, asumes el papel de Red, cuyos brazos han sido robados y escondidos. Tu misión es recorrer un mundo lleno de personajes excéntricos y enfrentarte a decisiones morales que impactarán en el destino del mundo y de sus habitantes.
+El juego está disponible para descarga en PC y Switch, y también incluye su banda sonora, que cuenta con más de 81 canciones para que disfrutes de una experiencia completa. 🦊👍*
+:::
 
 ---
 
-### Otros aportes
+<a href="https://docs.google.com/document/d/1iQ_h-9dV8_itUYrXFe3OZ8s-c0gE83CigQXpt9zoNrY">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">💛 Stardew Valley + OST</p>
+   <img src="https://i.postimg.cc/cLJMVkJ1/link-cnr.png" alt="boton" />
+ </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click antes de descargar" />
+</a>
+
+<a href="https://www.facebook.com/share/p/dtqHoTUUunH5bDhv/?mibextid=oFDknk">
+  <Badge type="warning" text="Post de facebook" />
+</a>
+
+::: details Descripción
+*En el encontrarán el juego y su OST en la última versión.*
+:::
+
+
+## Otros aportes
 
 - 🍩 [Phoenix Wright: Acce Attorney TRILOGÍA](https://www.mediafire.com/file/drs0n7w9iy8dco0/phohsakhaksakxknskdnd.rar/file)   
   *Una trilogía más.*
