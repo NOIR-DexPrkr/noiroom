@@ -38,3 +38,5 @@ Encuentra una gran variedad de comics en inglés:
 - 🍩 [XoxoComics](https://xoxocomics.com/)
 - 🍩 [ComicExtra](https://www.comicextra.com/)
 - 🍩 [Comics All](https://comics-all.com/)
+
+Saludos terricolas.
