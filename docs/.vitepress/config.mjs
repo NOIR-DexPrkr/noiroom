@@ -7,6 +7,7 @@ export default defineConfig({
   appearance: 'dark',
   lastUpdated:false,
   cleanUrls: true,
+  ignoreDeadLinks: true,
 
   transformHead: ({ pageData }) => {
     const head = []
