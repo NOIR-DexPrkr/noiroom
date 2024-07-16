@@ -1,0 +1,47 @@
+/////////////// Aporte Destacado
+
+<a href="LINK_APORTE" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">💛 APORTE_NOMBRE</p>
+    <img src="https://i.postimg.cc/cLJMVkJ1/link-cnr.png" alt="Descarga" />
+  </div>
+</a>
+
+/////////////// Aporte simple
+
+<a href="LINK_APORTE" target="_blank">
+  <div style="position: relative; padding-top: 1em">
+    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🍩 APORTE_NOMBRE</p>
+    <img src="https://i.postimg.cc/cLJMVkJ1/link-cnr.png" alt="Descarga" />
+  </div>
+</a>
+
+
+------------------------------------
+
+/// El color del tag se cambia con el: type="tip"
+    - info: gris
+    - tip: verde
+    - warning: morado
+    - danger: naranja
+
+/////////////// tag para sitios que necesiten de la guia de navegacion segura (cambiar descargar por acceder si es un sitio y no un archivo)
+
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click antes de descargar" />
+</a>
+
+///////////////// tag configurable
+
+
+<a href="LINK">
+  <Badge type="tip" text="TITULO_DEL_TAG" />
+</a>
+
+
+///////////// Discord link. Siempre va al final de todas las paginas del index. Puedes cambiar el mensaje.
+
+::: warning HEY!
+> **Visita el [🚀 Discord](https://discord.gg/RaJEJPQYPb) si tienes peticiones, dudas o problemas.**
+:::

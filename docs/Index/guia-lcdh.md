@@ -11,8 +11,9 @@ Presentamos esta sección del index para explicar y dar a conocer determinados p
 
 ::: info **Links importantes de Consejos Noiroom**
 
-[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/RaJEJPQYPb) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
+[💙 Facebook](https://www.facebook.com/consejosnoiroom) - [💜 Discord LCDH](https://discord.gg/RaJEJPQYPb) - [🖤  Discord NOIR](https://discord.gg/cua9Qvfvz5) - [❤️‍🔥 TikTok reseñas](https://www.tiktok.com/@consejosnoiroom) - [💖 TikTok QRs](https://www.tiktok.com/@qrsnoiroom) - [⚫ X/Twitter](https://x.com/consejosnoiroom) - [🩵 Telegram](https://t.me/+P_62Yt-WQXs0ZjMx) - [🩷 Donaciones](https://www.buymeacoffee.com/consejosnoiroom)
 :::
+
 
 
 ## Código QR
@@ -32,7 +33,13 @@ Si tu celular no incluye una opción, esta alternativa es perfecta para ti, pued
 
 1- Descarga las aplicaciones, puedes hacerlo aquí. (En PC solo ve a [Google](https://www.google.com))
 
-[!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="Android"](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) [!button corners="pill" icon="issue-closed" size="s" variant="contrast" text="iOS"](https://apps.apple.com/cl/app/google/id284815942)
+<a href="https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox">
+  <Badge type="warning" text="Android" />
+</a>
+
+<a href="https://apps.apple.com/cl/app/google/id284815942">
+  <Badge type="tip" text="iOS" />
+</a>
 
 
 2- Cuando estés en la app de **Google**, selecciona la opción ![](https://i.postimg.cc/Bb9RKHJB/Proyecto-nuevo-7.png) y escanea, o selecciona la imagen.
@@ -62,11 +69,7 @@ Usa una aplicación externa para escanear QRs, aquí te la dejo para Android e i
 
 Hay muchas opciones para crear QRs, incluso algunos navegadores, páginas, entre otros incluyen esta opción.
 
-Dentro del grupo tenemos una página/app en específico la cual entrega muchas opciones de personalización, además de otras útiles. Se llama **ME-QR**, y aquí te la dejo, junto a sus respectivas apps.
-
-- [Página](https://me-qr.com/es) 
-- [Android](https://play.google.com/store/apps/details?id=com.meqr) 
-- [iOS](https://apps.apple.com/cl/app/me-qr-generator/id1601025694)
+- [QR Monkey](https://www.qrcode-monkey.com/) 
 
 
 ## Grupo de Facebook
@@ -91,9 +94,7 @@ Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recu
 
 Al igual que la temática, necesitarás usar una de las marcas de agua para tus publicaciones. Las marcas de agua seguirán aumentando constantemente, para añadir más variedad. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
-
-- [Descarga aquí](https://drive.google.com/drive/folders/14fNuMKfZyf7YLLxVFnF345DnrfT8TZih?usp=drive_link)
-:::
+- [Marcas aquí](https://postimg.cc/gallery/8G702k38)
 
 
 ::: details Enlaces
@@ -114,7 +115,8 @@ En caso de que quieras escanear algún aporte, también debes tener cuidado con 
 Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegurar todas tus descargas o aportes. ![](https://images-ext-1.discordapp.net/external/4YQiWQevguiDbfOGmq5orfGp-lMulNDAHYaXL-aHh5M/https/i.imgur.com/tFp98Tp.png?width=31&height=31)
 
 
-- [Seguridad](https://lcdh.tech/guía/g-seguridad/)
+- [Seguridad](\Index\guia-cyberseguridad)
+
 :::
 
 

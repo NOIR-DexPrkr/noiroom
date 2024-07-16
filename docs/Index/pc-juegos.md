@@ -19,7 +19,11 @@ Los archivos no analizados tendrán el siguiente icono: ⚠️
 Los desactualizados y estan pendiente por actualización tendran el icono: 🔃
 :::
 
-### Individuales
+### Aportes recomendados por MODs
+
+---
+
+### Otros aportes
 
 - 🍩 [Phoenix Wright: Acce Attorney TRILOGÍA](https://www.mediafire.com/file/drs0n7w9iy8dco0/phohsakhaksakxknskdnd.rar/file)   
   *Una trilogía más.*

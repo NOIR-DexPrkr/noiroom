@@ -154,8 +154,8 @@ export default defineConfig({
               { text: '⭐ Index', link: '/Index/lcdh-nr' },
               { text: '🤓 Guias', collapsed: true,
               items: [
-                {text: '🛡️ Guia cyberseguridad', link: '/Index/guia-cyberseguridad'},
-                {text: '🍩 Guia LCDH-NR', link: '/Index/guia-lcdh'}
+                {text: '🍩 Guia CNR', link: '/Index/guia-lcdh'},
+                {text: '🛡️ Guia cyberseguridad', link: '/Index/guia-cyberseguridad'}
               ]},
               { text: '🖥️ PC', collapsed: true,
               items: [
