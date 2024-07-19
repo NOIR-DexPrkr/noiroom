@@ -66,7 +66,8 @@ Estos programas acontinuación vienen parchados, preactivados y listos para usar
 
 2. Ahora bloquea las siguientes ip en el host de windows. 
 Para eso usamos el [GenP.](https://www.mediafire.com/file/rsdbnfi38eex4xv/Adobe_GenP_3.4.13_Beta_4.zip/file)     
-Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up"** que se encuentra abajo a la derecha.
+Extraemos y ejecutamos el programa, y damos en el icono rojo de nombre **"Pop-up"** que se encuentra abajo a la derecha.    
+Puedes tambien manualmente bloquear estas IP de adobe en tu archivo host. [lista de IPs](https://a.dove.isdumb.one/list.txt)
 
 3. Disfruta tus programas.
 
@@ -85,7 +86,9 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 :::
 
 ::: details 🟧 Illustrator
-Para las versiones la contraseña de todos es: `www.artistapirata.com`       
+Para las versiones la contraseña de todos es: `www.artistapirata.com`      
+
+- [CC 2024](https://www.mediafire.com/file/2dynnyiiq0lw5r2/ADB.AI.2K24.v28.5.WIN.IEMOJ98.rar/file)     
 
 - [CC 2023](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F5rl1r0jq3yxqa8n%2FWIN_AAI_V27.1.0.189_AP_ZNT.rar%2Ffile%3ACeK6gVRz3AAB-9xzySKqvv1IYrs&cuid=4208103)        
 
@@ -99,6 +102,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 ::: details 🟪 Premiere Pro
 Para las versiones la contraseña de todos es: `www.artistapirata.com`       
 
+- [CC 2024](https://www.mediafire.com/file/rcf5wh8bvuq7634/APPro.24.5.0.057._MLO.rar/file)     
+
 - [CC 2023](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fvxho87az9vftx32%2FWIN_APR_V23.5.0.56_AP_ZNT.rar%2Ffile%3Aptw6JuFzPinQZqxuyBcDLTNuP3c&cuid=4208103)       
 
 - [CC 2022](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fqs365zx4kjnpfhf%2FWIN_APR_V22.6.2.2_AP_ZNT.rar%2Ffile%3AE7PwqjtfITgWaB5kV8vHbiqL-f0&cuid=4208103)      
@@ -109,6 +114,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 :::
 ::: details ⬛ After Effects
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
+
+-[CC 2024](https://www.mediafire.com/file/dho8n788iv8yad4/AAEfs.24.5.0.052.x64_MLO.rar/file)    
 
 - [CC 2023](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fohfv2ixhcjsdmsc%2FWIN_AAE_V23.5.0.52_AP_ZNT.rar%2Ffile%3AfUbiPHY2UqCRNTbUai3I8kHIgQ4&cuid=4208103)       
 
@@ -122,6 +129,8 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 :::
 ::: details 🟥 InDesign
 Para las versiones la contraseña de todos es: `www.artistapirata.com`      
+
+-[CC 2024](https://drive.google.com/file/d/1UkY37G-UQnWx2zC6GT7Cq-9WiVDPnWO8/view?usp=sharing)    
 
 - [CC 2023](https://disq.us/url?url=https%3A%2F%2Fwww.mediafire.com%2Ffile_premium%2Fafnyqvp3sop09b0%2FWIN_AID_V18.5.0.57_AP_ZNT.rar%2Ffile%3AhUpdmYFPPWTjVIKN5xktG_Ys0ME&cuid=4208103)        
 
