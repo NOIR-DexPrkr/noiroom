@@ -39,7 +39,7 @@ export default defineConfig({
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
     
-    logo: {src: 'https://i.postimg.cc/63vNZWK1/NR-nbcircle.png', width: 25, height: 25 },
+    logo: {src: 'https://i.postimg.cc/QCN21Sq2/NR-Logo.png', width: 25, height: 25 },
 
     outline: {
       level: [1,4],
