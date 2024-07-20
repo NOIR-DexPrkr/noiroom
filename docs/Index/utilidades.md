@@ -85,8 +85,6 @@ Páginas útiles para distintas funciones.
 *Ve la velocidad de tu Internet con esta página.*
 -  🍩 [Wayback Machine](https://web.archive.org/)    
 *La mítica página para poder ver el pasado mientras tengas el link del lugar.*
--  🍩 [Kemono](https://kemono.party/artists) <Badge type="info" text="18+" />      
-*Con está página podrás ver contenido de Patreon u otras páginas de tus artistas favoritos.*
 
 
 ## Bots de Telegram
