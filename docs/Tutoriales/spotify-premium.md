@@ -115,6 +115,8 @@ Pasos:
  </div>
 </a>
 
+Actualmente la aplicación está dando errores en su versión reciente. Usa [**esta apk**](https://fileport.io/5QvYT2zWpv7Q) directamente mientras todo se soluciona.
+
 > Esta aplicacion es completamente segura, [aqui puedes ver el analisis de virus total](https://www.virustotal.com/gui/file/994ea1d7b7cea1ab7f9ffb18b24ea8f58cd9d511ac8c5dc967d47207c55fa891/detection){target="blank"}.     
 
 2. Al abrir damos los permisos requeridos e instalamos cualquiera de las versiones siguientes.      
