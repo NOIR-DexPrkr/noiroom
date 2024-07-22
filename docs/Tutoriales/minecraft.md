@@ -166,7 +166,8 @@ Descarga, instala e inicia sesion desde la pagina debajo.
  </div>
 </a>
 
-*Recomendado acceder a la pagina con un bloqueador de anuncios o con un navegador como Brave, ya que puedes terminar descargando algo que no es Minecraft.*
+*Recomendado acceder a la pagina con un bloqueador de anuncios o con un navegador como Brave, ya que puedes terminar descargando algo que no es Minecraft.*    
+*Descarga la version mas reciente que termine en "release" no la "beta".
 
 ---
 
