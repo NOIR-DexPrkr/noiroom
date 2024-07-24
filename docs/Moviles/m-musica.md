@@ -93,6 +93,22 @@ Necesitas tener activado los datos moviles (aun sin saldo) para que reproduzca l
 
 ---
 
+<a href="https://simpmusic.tech/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ SimpMusic</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+Este es otro cliente de Youtube Music que combina todo lo bueno de Spotify en un solo lugar. En el que puedes reproducir y descargar musica, es altamente configurable e incluso te permite iniciar sesion.  
+Una de las mejores funciones es tener la letra y los canvas de spotify, esos videos en loop que te salen al escuchar una cancion, esos...
+
+Version minima de android: 8    
+
+[Interfaz](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7)  
+
+---
+
 <a href="https://github.com/toasterofbread/spmp/releases" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">🤍 SpMp player</p>
