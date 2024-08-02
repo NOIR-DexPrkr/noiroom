@@ -84,7 +84,8 @@ Si quieres pedir, o aportar, será necesario **por obligación** hacer una image
 
 Ahora te vamos a compartir plantillas para que hagas tus propias imágenes. Recuerda que no es necesario que uses de estas plantillas, puedes hacer las imágenes como quieras, mientras **sean con la temática del grupo**, y que **no contengan personajes o imagenes en general que puedan contener copyright**.
 
-- [Plantillas](https://qr-scan.it/g/1Dpx4Jl0wx9)  
+- [Plantillas aportes](https://postimg.cc/gallery/2RKXcf9R)  
+- [Plantillas peticiones](https://postimg.cc/gallery/3T0wGhq8)
 - [Personajes](https://drive.google.com/drive/folders/1yIgA4CGuaZSPeaw3PaHF7wD8ZYj8C2qZ?usp=sharing)
 :::
 
@@ -118,9 +119,5 @@ Aquí te dejo una sección entera dedicada a la seguridad, para que puedas asegu
 - [Seguridad](\Index\guia-cyberseguridad)
 
 :::
-
-
-::: details
-
 
 ---
