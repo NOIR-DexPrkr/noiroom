@@ -47,9 +47,9 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
  
 ---
 
-Si solo quieres descargar e instalar el programa sin mucho lio, recomiendo la opcion facil.      
+Si solo quieres descargar e instalar el programa sin mucho lio, recomiendo la opción fácil.      
 
-Las opciones Experto e intermedio estan pensados para las personas que no confian en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalacion esta en las intrucciones. Por lo ranto, evita preguntar cosas que ya estan aqui, sigue al pie de la letra cada consejo. Revisa los archivos necesarios unas lineas mas abajo.
+Las opciones Experto e intermedio están pensados para las personas que no confían en los repacks, programas pre-registrados, o en esta pagina. Todo lo necesario para que salga perfecta la instalación esta en las instrucciones. Por lo tanto, evita preguntar cosas que ya están aquí, sigue al pie de la letra cada consejo. Revisa los archivos necesarios unas lineas mas abajo.
 
 > 🅰 **Nivel Experto:** [Usando Creative Cloud.](#creative-cloud-instalador-de-adobe)      
 > *No lo recomiendo si no sabes acerca de parches, hots, firewall, etc.*   
@@ -86,12 +86,12 @@ Las opciones Experto e intermedio estan pensados para las personas que no confia
 ---
 
 ::: warning NOTA:
-*A continuacón tendras la opcion de descargar versiones antiguas sin parchar de adobe CC, en caso de que tu PC no soporte las ultimas versiones que brinda Adobe CC desde el instalador oficial.*
+*A continuación tendrás la opción de descargar versiones antiguas sin parchar de adobe CC, en caso de que tu PC no soporte las ultimas versiones que brinda Adobe CC desde el instalador oficial.*
 *Si quieres las versiones mas recientes, obvia esto.* 
 
 ::: details **Programas descargables sin Creative Cloud**
 
-Con esta opcion puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza. Desconectate del internet cuando vayas a instalarlos.
+Con esta opción puedes descargar programas antiguos sin necesidad de descargar el instalador de Adobe, el cual es un dolor de cabeza. Desconectate del internet cuando vayas a instalarlos.
 
 
 <a href="https://prodesigntools.com/adobe-cc-2018-direct-download-links.html" target="_blank">
@@ -131,7 +131,7 @@ Con esta opcion puedes descargar programas antiguos sin necesidad de descargar e
 :::
 
 
-## Instalacion y configuracion de Creative Cloud
+## Instalación y configuración de Creative Cloud
 
 1. Descargamos el Creative Cloud.
 
@@ -150,7 +150,7 @@ También desactiva la ejecución al inicio de windows y las actualizaciones auto
 > *Para la instalación necesitas SI o SI crear una cuenta nueva de Adobe.*
 
 
-::: details **Guia para desactivar las actualizaciones automaticas** 
+::: details **Guía para desactivar las actualizaciones automáticas** 
 > - **Desactivar ejecución de inicio de windows:**
 > 
 > Configuración>Aplicaciones>Inicio , Buscar y desactivar Adobe Creative Cloud.

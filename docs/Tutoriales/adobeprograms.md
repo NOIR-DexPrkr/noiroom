@@ -48,17 +48,17 @@ Es un programa de animación de vectores, el cual permite dar movimiento a disti
 ---
 ::: warning **Aviso**
 
-Estos programas acontinuación vienen parchados, preactivados y listos para usar.
-Si no confias en este tipo de repacks, puedes usar el metodo que baja los programas desde Adobe CC y luego los parchas tu mismo
+Estos programas a continuación vienen parchados, pre-activados y listos para usar.
+Si no confias en este tipo de repacks, puedes usar el método que baja los programas desde Adobe CC y luego los parchas tu mismo
 - [Clickea aqui.](/Tutoriales/adobeCC.md)      
 Si confias, continua...
 :::
 
 ## Descarga los programas
 
-Estos programas acontinuación vienen parchados, preactivados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows y bloquear las IP de adobe.
+Como se mencionó antes, estos programas a continuación vienen parchados, pre-activados y listos para usar. Es recomendado bloquear los .exe de cada programa una vez los instales usando el firewall de windows y bloquear las IP de adobe.
 
-::: info Pequeño tutorial para despues de instalar
+::: info Pequeño tutorial para después de instalar
 1. Importante si deseas que tu programa se mantenga funcionando sin que te salga que tu licencia es pirata, bloqueamos el .exe de cada programa instalado por medio de firewall. Si no sabes como usa este [tutorial.](https://www.geeknetic.es/Guia/1962/Como-bloquear-el-acceso-a-internet-de-un-programa-en-el-Firewall-de-Windows-10.html)
 
 > *Si tienen problema encontrando los .exe pueden ir a los accesos directos, darles click derecho y propiedades, y en la ventana ahora abierta solo deben de darle a **“abrir ubicación”** y ya tendrán la ubicación del .exe.*
@@ -149,21 +149,21 @@ Para las versiones la contraseña de todos es: `www.artistapirata.com`
 
 **Importante:** Descarga ahora el [genP 3.4.9](https://www.mediafire.com/file/xz64q94hsy71vgd/GenP_3.4.9_%2528overall_fixes%2529.zip/file)
 
-3. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalacion (al instalar los programas) pueden dejar que el programa busque Acrobat clickeando **“Search”**.      
+3. Ejecutamos GenP 3.4.4 , si no cambiaron la ruta de instalación (al instalar los programas) pueden dejar que el programa busque Acrobat clickeando **“Search”**.      
 Tardará un rato en terminar de buscar los archivos pero una vez lo encuentre les activará la opción de **“Patch”** la cual deben seleccionar.           
-4. En caso contrario, si cambiaron la ruta de instalacion al instalar o GenP no los encuentra, denle a la opción de **“Path”** y seleccionen la carpeta donde está Acrobat.     
+4. En caso contrario, si cambiaron la ruta de instalación al instalar o GenP no los encuentra, denle a la opción de **“Path”** y seleccionen la carpeta donde está Acrobat.     
 Por ultimo damos a **"Patch"** en caso que aun no lo hayas hecho.
 
 Ve a los ajustes de Acrobat y desactiva las actualizaciones.   
 Editar > Preferencias > Actualizar      
 
-Puedes tambien cambiar el nombre de:     
+Puedes también cambiar el nombre de:     
 C:\Program Files\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe      
 
-Agrega un .bak despues del .exe    
+Agrega un .bak después del .exe    
 Es decir "AdobeCollabSyn.exe.bak"
 
-NOTA: Si no te funciona o tienes errores, recomiendo usar la opcion 4 y luego la 1, pero antes usa la herramienta de [limpieza de adobe](https://helpx.adobe.com/es/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
+NOTA: Si no te funciona o tienes errores, recomiendo usar la opción 4 y luego la 1, pero antes usa la herramienta de [limpieza de adobe](https://helpx.adobe.com/es/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
 
 :::
 
