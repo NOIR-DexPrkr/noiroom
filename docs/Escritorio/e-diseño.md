@@ -11,6 +11,22 @@ Encuentra aqui los programas necesarios para despertar tu creatividad.
 
 ---
 
+## Animación 2D y 3D
+
+<a href="https://buzzheavier.com/f/GUv0LrIf0AA" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Moho 14.1</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Una imagen" />
+ </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>    
+
+Programa de animación enfocado en hacer simple el aprender y crear animaciones geniales sin mucho conocimiento o una enorme curva de aprendizaje.
+Pruebalo aqui y si te gusta, y ademas tienes dinero, compra el original.
+
 ## Editores de imagenes
 
 <a href="https://pixeldrain.com/u/NUfBb7Qk" target="_blank">
