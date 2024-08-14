@@ -6,6 +6,18 @@ Encuentra aquí las mejores aplicaciones para reproducir o crear musica en tu ce
 
 ## Streaming + Descarga Mp3/Flac
 
+<a href="https://github.com/DJDoubleD/refreezer/releases/" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Freezer - Deezer</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Escucha y descarga música desde Deezer en la calidad mas alta. Soporta descarga dentro de la app, mp3 y FLAC.*
+- *Puedes iniciar sesión con tu cuenta gratis y bajar a 128Kb/s*
+- *Puedes usar una ARL premium (consigues en telegram o busca en google, no pongo eso aqui porque son de corta duracion y seria problematico estar actualizandolas) y bajar a 320kb/s o FLAC.
+
+
 <a href="https://doodrive.com/f/9o4zn7" target="_blank">
  <div style="position: relative; padding-top: 1em">
    <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Netease</p>
@@ -204,7 +216,31 @@ Obten spotify pero sin opcion de descarga y con todas las demas funciones premiu
 [Spotify Premium](/Tutoriales/spotify-premium)
 :::
 
----
+## Players offline
+
+<a href="https://qiwi.gg/file/nCwB9430-P0W3R4MP-NR" target="_blank">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Poweramp</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+*Este reproductor es de los mas conocidos en android, a pesar de eso siempre ha tenido versiones premium que solo sirven 15 dias y luego debes resetear todos tus ajustes para que funcione.
+Esta version es completamente full por siempre, eso si, playprotect te dará un anuncio de que es una app peligrosa al querer instalarla.*
+
+<a href="/Moviles/m-esenciales#_5-🎵-blackplayer-ex">
+ <div style="position: relative; padding-top: 1em">
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ BlackPlayer EX</p>
+   <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" />
+ </div>
+</a>
+
+<a href="/Tutoriales/navega-seguro">
+  <Badge type="tip" text="Click aquí antes de descargar" />
+</a>
+
+BlackPlayer es un reproductor de música MP3 que reproduce contenido local.
+Altamente personalizable, suave y ágil con moderno diseño minimalista Material. Elegantes animaciones de buen gusto en toda la interfaz.
 
 ## Podcasts
 
