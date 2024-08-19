@@ -6,7 +6,7 @@ Aplicaciones relacionadas al diseño para Móviles.
 
 ### Editores de Video
 
-*Editores de video faciles de usar y con herramientas utiles para casi toda situacion.*      
+*Editores de video fáciles de usar y con herramientas útiles para casi toda situación.*      
 
 <a href="https://modyolo.com/vivacut.html" target="_blank">
  <div style="position: relative; padding-top: 1em">

@@ -1,8 +1,10 @@
-![](https://i.postimg.cc/fL5fK3DY/Paginas-Web.png)
-# Paginas Web
-
+---
+title: Páginas Web
+description: Mira y descarga series, películas, mas.
+image: "https://i.postimg.cc/k5x263JN/PC-dise-o.png"
 ---
 
+![header](https://i.postimg.cc/X7Wtq0tD/test.png)
 ## Lista de paginas
 
 <a href="/Paginas/p-descargas">

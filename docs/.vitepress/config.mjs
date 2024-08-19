@@ -34,7 +34,7 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Buscadores', link: '/buscadores', activeMatch: '/buscadores'},
-      { text: '🔁 14 agosto 24', link: '/', activeMatch: '/d'}
+      { text: '🔁 19 agosto 24', link: '/', activeMatch: '/d'}
     ],
       
     head: [['link', { rel: 'icon', href: 'https://github.com/NOIR-DexPrkr/noiroom/blob/main/docs/favicon.ico' }]],
@@ -198,7 +198,7 @@ export default defineConfig({
       
     footer: {
       message: 'Creado con 🤍 por Dex Parker.',
-      copyright: 'Todos los tutoriales aqui presentados son recopilaciones y no estoy relacionado con su origen.'},
+      copyright: 'Todos los tutoriales aquí presentados son recopilaciones y no estoy relacionado con su origen.'},
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/cua9Qvfvz5' },

@@ -1,9 +1,9 @@
 ---
 title: Colección Age of Empires
 description: Mega colección de Age of Empires para todas las plataformas.
-image: "https://i.postimg.cc/LX2njC5c/PC-juegos.png"
+image: "/docs/public/headers/Colecciones.png"
 ---
-![](https://i.postimg.cc/4dX1VvkJ/PC-juegos.png)
+![](/docs/public/headers/Colecciones.png)
 # Megacolección de Age of Empires
 Mega colección de Age of Empires para todas las plataformas.
 
