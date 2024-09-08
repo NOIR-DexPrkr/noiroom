@@ -313,18 +313,17 @@ Todo lo que puedes hacer en la aplicacion:
 
 :::
 
-
-
-<a href="https://pixeldrain.com/u/6daY8ZSw" target="_blank"> 
+<a href="https://qiwi.gg/file/mYcm0081-YoutubeNR-07sept2024" target="_blank"> 
  <div style="position: relative; padding-top: 1em"> 
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [CNR]</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [NR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
  </div>
 </a>
 
-<a href="https://pixeldrain.com/u/jjKedong" target="_blank"> 
+
+<a href="https://qiwi.gg/file/gptS2121-YoutubeCNR-7sept2024" target="_blank"> 
  <div style="position: relative; padding-top: 1em"> 
-   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [NR]</p>
+   <p style="position: absolute; top: 4px; left: 20px; font-size: 14px; color: white; text-indent: 20px">⭐ Youtube [CNR]</p>
    <img src="https://i.postimg.cc/HnDSpf2M/Mini-Descarga.png" alt="Descarga" /> 
  </div>
 </a>
@@ -333,7 +332,7 @@ Todo lo que puedes hacer en la aplicacion:
   <Badge type="tip" text="Click aquí antes de descargar" />
 </a> 
 
-<Badge type="info" text="Actualizada: 25 junio" />     
+<Badge type="info" text="Actualizada: 7 sept" />     
 
 ::: info Importante
 *Version parchada por Dex con el Revanced oficial. Icono y tema de la comunidad CNR.*      
