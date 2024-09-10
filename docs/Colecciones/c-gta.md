@@ -101,8 +101,8 @@ Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si ti
 ### 🚗 GTA: Vice City
 
 **Version 10 años HD**
-[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://doodrive.com/f/2j0g33)     
-*Descargara un archivo torrent, que recomiendo abrir usando 👉 [FDM](https://www.freedownloadmanager.org/es/).*
+[![Descarga aquí](https://i.postimg.cc/RFgZxqDY/Descarga-boton.png)](https://pixeldrain.com/u/AN3QahAW)     
+*Descargara usando 👉 [FDM](https://www.freedownloadmanager.org/es/).*
 
 Instala y sigue los pasos, debes tener instalado DirectX 9. Y recuerda que si tienes problemas solo se da solucion por Discord. 
 
